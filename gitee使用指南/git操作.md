@@ -64,7 +64,7 @@
 >		
 >		5. git commit -am “提交说明（注释）”
 >		
->		6、git push origin master 将本地变更推送至远程仓库master分支
+>		6. git push origin master 将本地变更推送至远程仓库master分支
 >		
 >		此时如果在github的remote上已经有了文件，会出现error。那么应当先pull一下，即：
 >		
