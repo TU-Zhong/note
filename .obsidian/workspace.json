@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "gitee使用指南/git操作.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "git操作"
@@ -181,9 +181,9 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
-    "未命名.md",
-    "gitee使用指南/git操作.md",
     "README.md",
+    "gitee使用指南/git操作.md",
+    "未命名.md",
     "README.en.md",
     "gitee使用指南/hi.md",
     "gitee使用指南"
