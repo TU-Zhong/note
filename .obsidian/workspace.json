@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi/good.md",
+                "file": "gitee使用指南/本地下载了git之后就可以直接在命令行里面操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "good"
+              "title": "本地下载了git之后就可以直接在命令行里面操作"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi/good.md",
+                "file": "gitee使用指南/本地下载了git之后就可以直接在命令行里面操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "good 的反向链接列表"
+              "title": "本地下载了git之后就可以直接在命令行里面操作 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi/good.md",
+                "file": "gitee使用指南/本地下载了git之后就可以直接在命令行里面操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "good 的出链列表"
+              "title": "本地下载了git之后就可以直接在命令行里面操作 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi/good.md",
+                "file": "gitee使用指南/本地下载了git之后就可以直接在命令行里面操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "good 的大纲"
+              "title": "本地下载了git之后就可以直接在命令行里面操作 的大纲"
             }
           },
           {
@@ -181,10 +181,10 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
-    "hi/hi.md",
-    "hi/good.md",
+    "gitee使用指南/hi.md",
+    "gitee使用指南/本地下载了git之后就可以直接在命令行里面操作.md",
     "README.md",
     "README.en.md",
-    "hi"
+    "gitee使用指南"
   ]
 }
