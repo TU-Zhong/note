@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hi/hi.md",
+                "file": "hi/good.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hi"
+              "title": "good"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hi/hi.md",
+                "file": "hi/good.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hi 的反向链接列表"
+              "title": "good 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hi/hi.md",
+                "file": "hi/good.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hi 的出链列表"
+              "title": "good 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hi/hi.md",
+                "file": "hi/good.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hi 的大纲"
+              "title": "good 的大纲"
             }
           },
           {
@@ -181,9 +181,10 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
+    "hi/hi.md",
+    "hi/good.md",
     "README.md",
     "README.en.md",
-    "hi/hi.md",
     "hi"
   ]
 }
