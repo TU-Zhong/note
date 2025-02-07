@@ -72,4 +72,14 @@
 		
 		随即push即可。
 		`git push origin master` 
+6. 这里出现了 `refuse to merge unrelated histories ` 的字样，这是因为在本地新建库后，与远程仓库的内容不一致导致的（远程仓库有一些内容本地没有）。解决办法就是先将本地仓库和远程仓库的内容保持一致。正确的提交过程如下
+```cmd
+	git init                           //初始化仓库
+	git add .(文件name)                //添加文件到本地 
+	git commit -m “first commit”      //添加文件描述信息
+	git remote add origin  远程仓库地址 //链接远程仓库 
+	git pull origin master           // 把本地仓库的变化连接到远程仓库master    分支
+	//git pull origin master --allow-unrelated-histories 上一行无效时使用
+	git push -u origin master        //把本地仓库的文件推送到远程仓库master     分支
+```
 
