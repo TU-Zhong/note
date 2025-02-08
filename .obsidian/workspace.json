@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
+                "file": "spring boot/概念辨析/服务层，mapper和实体类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@ConfigurationProperties的嵌套对象"
+              "title": "服务层，mapper和实体类"
             }
           }
         ]
@@ -182,16 +182,21 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
-    "spring boot/注解/@ConfigurationProperties.md",
-    "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
+    "未命名.canvas",
+    "spring boot/概念辨析/服务层，mapper和实体类.md",
+    "gitee使用指南/git操作.md",
+    "spring boot/Mysql数据库/数据库连接.md",
     "spring boot/注解/总览.md",
+    "spring boot/Mysql数据库",
+    "spring boot/注解/@Mapper.md",
+    "spring boot/概念辨析",
     "spring boot/注解/@Value.md",
+    "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
+    "spring boot/注解/@ConfigurationProperties.md",
     "spring boot/注解/注解中的问题/SpEL（Spring Expression Language）.md",
     "spring boot/注解/注解中的问题/value里面的一些参数问题.md",
     "spring boot/注解/注解中的问题",
-    "未命名.canvas",
     "spring boot/注解",
-    "gitee使用指南/git操作.md",
     "spring boot",
     "plan计划/spring boot.md",
     "plan计划/kali linux.md",
