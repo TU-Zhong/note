@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gitee使用指南/git操作.md",
-                "mode": "source",
+                "file": "spring boot/Mysql数据库/数据库连接.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git操作"
+              "title": "数据库连接"
             }
           }
         ]
@@ -182,14 +182,14 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
-    "gitee使用指南/aaa.md",
-    "gitee使用指南/git操作.md",
+    "spring boot/注解/总览.md",
+    "spring boot/注解/@Mapper.md",
     "spring boot/概念辨析/服务层，mapper和实体类.md",
+    "gitee使用指南/git操作.md",
+    "gitee使用指南/aaa.md",
     "未命名.canvas",
     "spring boot/Mysql数据库/数据库连接.md",
-    "spring boot/注解/总览.md",
     "spring boot/Mysql数据库",
-    "spring boot/注解/@Mapper.md",
     "spring boot/概念辨析",
     "spring boot/注解/@Value.md",
     "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
