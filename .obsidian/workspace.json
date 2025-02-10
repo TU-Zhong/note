@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/注解/总览.md",
-                "mode": "source",
+                "file": "spring boot/注解/@Bean.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总览"
+              "title": "@Bean"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "fbedb69753e607ad",
   "lastOpenFiles": [
-    "spring boot/注解/@Value.md",
+    "未命名.canvas",
     "spring boot/注解/@Bean.md",
     "spring boot/注解/总览.md",
+    "spring boot/注解/@Value.md",
     "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
     "spring boot/maven/安装第三方库疑难杂症/地址有空格.md",
     "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
@@ -201,7 +202,6 @@
     "spring boot/概念辨析/服务层，mapper和实体类.md",
     "gitee使用指南/git操作.md",
     "gitee使用指南/aaa.md",
-    "未命名.canvas",
     "spring boot/Mysql数据库",
     "spring boot/概念辨析",
     "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
