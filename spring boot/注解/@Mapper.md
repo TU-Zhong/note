@@ -1,5 +1,6 @@
 在 Spring Boot 中，`@Mapper` 是 **MyBatis** 框架中的一个注解，用于标记一个接口作为 **MyBatis 的 Mapper 接口**。它的主要作用是告诉 MyBatis，这个接口是一个数据访问层（DAO）的映射器，MyBatis 会自动为其生成实现类，从而简化数据库操作。
 [[服务层，mapper和实体类]]
+[[@Mapper中的参数及其含义]]
 
 ---
 
