@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "spring boot/java学习/函数式接口/常见函数式接口.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -180,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97a4e0062e4f50d1",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
-    "spring boot/java学习/函数式接口/四大特征.md",
+    "spring boot/注解/@Value.md",
     "spring boot/java学习/函数式接口/常见函数式接口.md",
+    "spring boot/java学习/函数式接口/四大特征.md",
     "spring boot/java学习/lambda表达式/一般语法和例子.md",
     "spring boot/java学习/lambda表达式/常见用法.md",
     "spring boot/java学习/lambda表达式/疑难杂症/返回值.md",
@@ -197,7 +198,6 @@
     "spring boot/注解/@Bean.md",
     "未命名.canvas",
     "spring boot/注解/总览.md",
-    "spring boot/注解/@Value.md",
     "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
     "spring boot/maven/安装第三方库疑难杂症/地址有空格.md",
     "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
