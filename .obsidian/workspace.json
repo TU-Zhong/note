@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/函数式接口/常见函数式接口.md",
+                "file": "spring boot/java学习/stream流/提问/stream基本用法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常见函数式接口"
+              "title": "stream基本用法"
             }
           }
         ]
@@ -180,10 +180,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d54577b2263ad327",
+  "active": "97a4e0062e4f50d1",
   "lastOpenFiles": [
-    "spring boot/注解/@Value.md",
+    "spring boot/java学习/stream流/提问/集合数据处理基本用法.md",
+    "spring boot/java学习/stream流/提问/stream基本用法.md",
+    "spring boot/java学习/stream流/基本介绍.md",
+    "spring boot/java学习/stream流/提问/方法引用是什么.md",
+    "spring boot/java学习/stream流/提问/方法的参数和作用.md",
+    "spring boot/java学习/stream流/提问",
+    "spring boot/java学习/stream流",
     "spring boot/java学习/函数式接口/常见函数式接口.md",
+    "spring boot/注解/@Value.md",
     "spring boot/java学习/函数式接口/四大特征.md",
     "spring boot/java学习/lambda表达式/一般语法和例子.md",
     "spring boot/java学习/lambda表达式/常见用法.md",
@@ -210,14 +217,7 @@
     "spring boot/注解/@ConfigurationProperties.md",
     "spring boot/注解/@Mapper.md",
     "spring boot/注解/注解中的问题/@Mapper中的参数及其含义.md",
-    "spring boot/Mysql数据库/数据库连接.md",
-    "spring boot/概念辨析/服务层，mapper和实体类.md",
-    "gitee使用指南/git操作.md",
-    "gitee使用指南/aaa.md",
     "spring boot/Mysql数据库",
-    "spring boot/概念辨析",
-    "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
-    "spring boot/注解/注解中的问题",
-    "spring boot/注解"
+    "spring boot/概念辨析"
   ]
 }
