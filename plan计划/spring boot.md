@@ -1,4 +1,5 @@
 以下是重新整理的 **6个月Spring Web开发每日学习计划**，精确到每天需要掌握的知识点和实战内容，基于 **Spring Boot 3.2 + Java 17** 技术栈，每日学习量控制在3-4小时：
+C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF
 
 ---
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/stream流/提问/集合数据处理基本用法.md",
+                "file": "plan计划/spring boot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "集合数据处理基本用法"
+              "title": "spring boot"
             }
           }
         ]
@@ -182,25 +182,25 @@
   },
   "active": "97a4e0062e4f50d1",
   "lastOpenFiles": [
-    "spring boot/java学习/stream流/提问/方法的参数和作用.md",
+    "spring boot/java学习/lambda表达式/常见用法.md",
     "spring boot/java学习/stream流/提问/stream基本用法.md",
+    "spring boot/java学习/函数式接口/四大特征.md",
+    "plan计划/spring boot.md",
+    "spring boot/java学习/stream流/基本介绍.md",
+    "spring boot/java学习/stream流/提问/方法的参数和作用.md",
     "spring boot/java学习/stream流/提问/集合数据处理基本用法.md",
     "spring boot/java学习/函数式接口/常见函数式接口.md",
-    "spring boot/java学习/stream流/基本介绍.md",
     "spring boot/java学习/stream流/提问/方法引用是什么.md",
     "spring boot/java学习/stream流/提问",
     "spring boot/java学习/stream流",
     "spring boot/注解/@Value.md",
-    "spring boot/java学习/函数式接口/四大特征.md",
     "spring boot/java学习/lambda表达式/一般语法和例子.md",
-    "spring boot/java学习/lambda表达式/常见用法.md",
     "spring boot/java学习/lambda表达式/疑难杂症/返回值.md",
     "spring boot/java学习/函数式接口",
     "spring boot/java学习/lambda表达式/疑难杂症/lambda表达式只适用于函数式接口，即只有一个抽象方法的接口.md",
     "spring boot/java学习/lambda表达式/疑难杂症/接口有不止一个抽象方法怎么办.md",
     "spring boot/java学习/lambda表达式/疑难杂症",
     "spring boot/java学习/lambda表达式/lambda表达式通俗理解.md",
-    "plan计划/spring boot.md",
     "spring boot/java学习/lambda表达式",
     "spring boot/注解/@Bean.md",
     "未命名.canvas",
