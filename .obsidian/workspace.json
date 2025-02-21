@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plan计划/spring boot.md",
-                "mode": "source",
+                "file": "spring boot/java学习/核心知识点.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spring boot"
+              "title": "核心知识点"
             }
           }
         ]
@@ -182,10 +182,11 @@
   },
   "active": "97a4e0062e4f50d1",
   "lastOpenFiles": [
+    "plan计划/spring boot.md",
+    "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/lambda表达式/常见用法.md",
     "spring boot/java学习/stream流/提问/stream基本用法.md",
     "spring boot/java学习/函数式接口/四大特征.md",
-    "plan计划/spring boot.md",
     "spring boot/java学习/stream流/基本介绍.md",
     "spring boot/java学习/stream流/提问/方法的参数和作用.md",
     "spring boot/java学习/stream流/提问/集合数据处理基本用法.md",
@@ -216,7 +217,6 @@
     "spring boot/java学习",
     "spring boot/注解/@ConfigurationProperties.md",
     "spring boot/注解/@Mapper.md",
-    "spring boot/注解/注解中的问题/@Mapper中的参数及其含义.md",
     "spring boot/Mysql数据库",
     "spring boot/概念辨析"
   ]
