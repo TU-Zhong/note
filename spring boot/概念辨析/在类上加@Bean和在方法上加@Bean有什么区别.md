@@ -45,7 +45,7 @@ public class AppConfig {
 #### 特点：
 6. **方法级别注解**：标记在方法上，方法返回的对象是一个Bean。
 7. **显式定义Bean**：可以编写复杂的逻辑来创建Bean。
-8. **方法名作为Bean的id**：默认使用方法名作为Bean的id，例如 `userService`。
+8. **方法名作为Bean的id**：默认<mark style="background: #FFF3A3A6;">使用方法名</mark>作为Bean的id，例如 `userService`。
 9. **支持依赖注入**：可以通过方法参数注入其他Bean的依赖。
 10. **灵活性高**：适合需要手动控制Bean创建的场景。
 
