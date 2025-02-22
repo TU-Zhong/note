@@ -12,7 +12,7 @@
 
 ### 1. `@SpringBootConfiguration`
 - **作用**:  
-  标记当前类为 Spring Boot 应用的配置类。它本质上是 `@Configuration` 注解的变体，专门用于 Spring Boot 应用。
+  标记当前类为 Spring Boot 应用的<mark style="background: #FFF3A3A6;">配置类</mark>。它本质上是 `@Configuration` 注解的变体，专门用于 Spring Boot 应用。
 - **功能**:  
   允许在类中定义 `@Bean` 方法，用于注册 Spring 容器中的 Bean。
 - **等价代码**:  
