@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/概念辨析/bean/bean配置具体指什么.md",
-                "mode": "source",
+                "file": "spring boot/问题清单/2025_2_22.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bean配置具体指什么"
+              "title": "2025_2_22"
             }
           }
         ]
@@ -182,14 +182,15 @@
   },
   "active": "97a4e0062e4f50d1",
   "lastOpenFiles": [
-    "spring boot/概念辨析/bean/bean扫描实现.md",
+    "spring boot/注解/注解中的问题/那再类上使用@component注解和@Bean注解有什么不同？.md",
+    "spring boot/问题清单/2025_2_22.md",
     "spring boot/概念辨析/bean/bean管理具体指什么.md",
+    "spring boot/注解/总览.md",
+    "spring boot/概念辨析/bean/bean配置具体指什么.md",
+    "spring boot/概念辨析/bean/bean扫描实现.md",
     "spring boot/注解/@Component.md",
     "spring boot/概念辨析/bean",
-    "spring boot/注解/总览.md",
     "spring boot/概念辨析/在类上加@Bean和在方法上加@Bean有什么区别.md",
-    "spring boot/概念辨析/bean/bean配置具体指什么.md",
-    "spring boot/问题清单/2025_2_22.md",
     "spring boot/问题清单",
     "spring boot/概念辨析/ApplicationContext这个是什么，有什么用，详细解释一下.md",
     "spring boot/概念辨析/服务层，mapper和实体类.md",
