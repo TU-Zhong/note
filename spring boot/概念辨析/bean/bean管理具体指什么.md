@@ -23,6 +23,7 @@ public class UserService {
 ---
 
 ### **2. Bean的配置**
+<mark style="background: #FFF3A3A6;">说白了就是如何定义bean</mark>
 Spring支持多种方式配置Bean，包括XML、注解和Java配置类。
 
 #### 示例（基于注解的配置）：
@@ -44,7 +45,7 @@ public class AppConfig {
 
 ### **3. 依赖注入（DI）**
 Spring容器会自动解决Bean之间的依赖关系，并将所需的依赖注入到Bean中。
-
+<mark style="background: #FFF3A3A6;">依赖什么只需要在函数的参数中写出来就可以了</mark>
 #### 示例：
 ```java
 @Service
