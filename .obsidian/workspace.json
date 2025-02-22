@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/核心知识点.md",
-                "mode": "preview",
+                "file": "spring boot/概念辨析/bean/bean配置具体指什么.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心知识点"
+              "title": "bean配置具体指什么"
             }
           }
         ]
@@ -182,7 +182,22 @@
   },
   "active": "97a4e0062e4f50d1",
   "lastOpenFiles": [
+    "spring boot/概念辨析/bean/bean扫描实现.md",
+    "spring boot/概念辨析/bean/bean管理具体指什么.md",
+    "spring boot/注解/@Component.md",
+    "spring boot/概念辨析/bean",
+    "spring boot/注解/总览.md",
+    "spring boot/概念辨析/在类上加@Bean和在方法上加@Bean有什么区别.md",
+    "spring boot/概念辨析/bean/bean配置具体指什么.md",
+    "spring boot/问题清单/2025_2_22.md",
+    "spring boot/问题清单",
+    "spring boot/概念辨析/ApplicationContext这个是什么，有什么用，详细解释一下.md",
+    "spring boot/概念辨析/服务层，mapper和实体类.md",
+    "spring boot/具体代码问题/启动类代码.md",
+    "spring boot/具体代码问题",
+    "未命名 1.canvas",
     "plan计划/spring boot.md",
+    "plan计划/kali linux.md",
     "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/lambda表达式/常见用法.md",
     "spring boot/java学习/stream流/提问/stream基本用法.md",
@@ -199,25 +214,10 @@
     "spring boot/java学习/lambda表达式/疑难杂症/返回值.md",
     "spring boot/java学习/函数式接口",
     "spring boot/java学习/lambda表达式/疑难杂症/lambda表达式只适用于函数式接口，即只有一个抽象方法的接口.md",
-    "spring boot/java学习/lambda表达式/疑难杂症/接口有不止一个抽象方法怎么办.md",
     "spring boot/java学习/lambda表达式/疑难杂症",
-    "spring boot/java学习/lambda表达式/lambda表达式通俗理解.md",
     "spring boot/java学习/lambda表达式",
-    "spring boot/注解/@Bean.md",
     "未命名.canvas",
-    "spring boot/注解/总览.md",
-    "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
-    "spring boot/maven/安装第三方库疑难杂症/地址有空格.md",
-    "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
-    "spring boot/概念辨析/bean扫描实现.md",
-    "spring boot/java学习/java环境变量配置.md",
-    "spring boot/maven/安装第三方库疑难杂症/Untitled.md",
     "spring boot/maven/安装第三方库疑难杂症",
-    "spring boot/maven",
-    "spring boot/java学习",
-    "spring boot/注解/@ConfigurationProperties.md",
-    "spring boot/注解/@Mapper.md",
-    "spring boot/Mysql数据库",
-    "spring boot/概念辨析"
+    "spring boot/maven"
   ]
 }

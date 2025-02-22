@@ -1,0 +1,18 @@
+{
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}
