@@ -46,6 +46,11 @@ public class AppConfig {
 ### **3. 依赖注入（DI）**
 Spring容器会自动解决Bean之间的依赖关系，并将所需的依赖注入到Bean中。
 <mark style="background: #FFF3A3A6;">依赖什么只需要在函数的参数中写出来就可以了</mark>
+## 非配置类，普通组件
+<mark style="background: #FFF3A3A6;">只能在spring管理的bean中使用，否则会注入失败
+有些情况可以使用@Autowired有些可以不用，但是建议所有情况都进行使用，而且推荐构造方法注入（官方推荐），因为它可以确保依赖不可变，并且更容易进行单元测试。</mark>
+## 配置类
+[[@Bean注解方法的依赖注入]]
 #### 示例：
 ```java
 @Service
