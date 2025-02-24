@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/泛型/使用场景.md",
+                "file": "spring boot/java学习/泛型/通俗解释.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用场景"
+              "title": "通俗解释"
             }
           }
         ],
@@ -197,9 +197,10 @@
   },
   "active": "657a62670030a4a8",
   "lastOpenFiles": [
-    "spring boot/java学习/泛型/通俗解释.md",
-    "spring boot/java学习/泛型/使用场景.md",
     "spring boot/java学习/泛型/知识点和例子.md",
+    "spring boot/java学习/泛型/使用场景.md",
+    "spring boot/问题清单/2025_2_24.md",
+    "spring boot/java学习/泛型/通俗解释.md",
     "spring boot/java学习/接口/知识点和例子.md",
     "spring boot/java学习/接口/疑难杂症/默认方法，静态方法，私有方法，抽象方法各自有什么特征？编写的时候有什么注意事项？各方法具体用在什么时候？.md",
     "spring boot/java学习/接口/疑难杂症",
@@ -226,7 +227,6 @@
     "spring boot/重大bug调试过程/bug2：多个上下文冲突/问题清单/自动上下文和手动上下文的区别.md",
     "spring boot/具体代码问题/数据源配置",
     "spring boot/重大bug调试过程/bug2：多个上下文冲突/问题清单/是不同的上下文扫描相同的包就一定会报错吗？.md",
-    "spring boot/重大bug调试过程/如何分析调试异常信息.md",
     "spring boot/重大bug调试过程/bug2：多个上下文冲突/问题清单",
     "spring boot/重大bug调试过程/bug2：多个上下文冲突",
     "spring boot/新建文本文档.txt",
