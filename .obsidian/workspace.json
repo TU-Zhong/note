@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/成员变量的继承注意细节.md",
+                "file": "spring boot/java学习/java面向对象编程四大特性/继承/继承基本概念.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "成员变量的继承注意细节"
+              "title": "继承基本概念"
             }
           },
           {
@@ -211,23 +211,23 @@
   },
   "active": "085b2bfab32b0c8b",
   "lastOpenFiles": [
-    "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
+    "spring boot/问题清单/2025_2_25.md",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法重写注意细节.md",
     "spring boot/java学习/java面向对象编程四大特性/继承/继承基本概念.md",
+    "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/成员变量的继承注意细节.md",
+    "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/谨慎使用 protected：protected 允许子类访问，但可能导致父类内部细节泄露，破坏封装性。给我给出实际的例子并给出解释.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/封装的注意事项.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/封装知识点和例子.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/给我上述核心原则的错误案例，并告诉我为什么错了.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
     "spring boot/java学习/泛型/知识点和例子.md",
-    "spring boot/问题清单/2025_2_25.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项",
     "spring boot/java学习/java面向对象编程四大特性/继承",
     "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析",
-    "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
     "spring boot/java学习/java面向对象编程四大特性/封装",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
