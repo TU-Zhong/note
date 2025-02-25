@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/泛型/知识点和例子.md",
+                "file": "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
+              "title": "private,public,default,protected修饰符解析"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,18 +195,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "657a62670030a4a8",
+  "active": "085b2bfab32b0c8b",
   "lastOpenFiles": [
-    "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
+    "spring boot/java学习/泛型/知识点和例子.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/封装知识点和例子.md",
+    "spring boot/问题清单/2025_2_25.md",
+    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/封装的注意事项.md",
+    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/给我上述核心原则的错误案例，并告诉我为什么错了.md",
+    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症",
+    "spring boot/java学习/java面向对象编程四大特性/继承/未命名",
+    "spring boot/java学习/java面向对象编程四大特性/继承",
+    "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
+    "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析",
     "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
-    "spring boot/java学习/泛型/知识点和例子.md",
     "spring boot/java学习/java面向对象编程四大特性/封装",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
     "spring boot/java学习/泛型/疑难杂症/未命名.md",
-    "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数",
     "spring boot/java学习/泛型/疑难杂症/泛型的通配符？和T有什么区别？.md",
     "spring boot/java学习/泛型/疑难杂症/泛型做方法参数的时候不能传递基本数据类型，为什么？.md",
@@ -223,15 +230,9 @@
     "spring boot/java学习/java面向对象编程四大特性",
     "spring boot/java学习/未命名.md",
     "spring boot/java学习/java面向对象编程四大特性/多态",
-    "spring boot/java学习/面向接口编程",
     "spring boot/java学习/接口/疑难杂症/子接口继承父接口的时候继承了什么.md",
     "spring boot/重大bug调试过程/bug2：多个上下文冲突/问题清单.md",
     "spring boot/java学习/接口/疑难杂症/默认方法，静态方法，私有方法，抽象方法各自有什么特征？编写的时候有什么注意事项？各方法具体用在什么时候？.md",
-    "spring boot/java学习/接口/疑难杂症/为什么默认方法不能是private和static 的？.md",
-    "spring boot/java学习/泛型/通俗解释.md",
-    "spring boot/java学习/泛型/疑难杂症",
-    "spring boot/java学习/泛型/使用场景.md",
-    "spring boot/java学习/接口/疑难杂症",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
