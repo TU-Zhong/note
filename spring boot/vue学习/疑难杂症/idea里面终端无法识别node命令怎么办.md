@@ -1,0 +1,1 @@
+File->Settings->Tools->Terminal，发现Shell Path配置的不是本地的cmd地址，修改为本地cmd路径（一般是C:\Windows\System32）后，保存重启Intellij IDEA即可。

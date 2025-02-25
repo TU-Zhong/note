@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/vue学习/核心知识点.md",
+                "file": "gitee使用指南/git操作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "核心知识点"
+              "title": "git操作"
             }
           }
         ],
@@ -197,8 +197,11 @@
   },
   "active": "085b2bfab32b0c8b",
   "lastOpenFiles": [
+    "spring boot/vue学习/疑难杂症/idea里面终端无法识别node命令怎么办.md",
+    "spring boot/vue学习/疑难杂症/nodejs安装及配置.md",
     "spring boot/vue学习/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
     "spring boot/vue学习/核心知识点.md",
+    "spring boot/vue学习/疑难杂症",
     "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
     "spring boot/vue学习",
     "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
@@ -229,11 +232,8 @@
     "spring boot/java学习/泛型/疑难杂症/泛型的通配符？和T有什么区别？.md",
     "spring boot/java学习/泛型/疑难杂症/泛型做方法参数的时候不能传递基本数据类型，为什么？.md",
     "spring boot/java学习/泛型/疑难杂症/静态工厂方法/详细说说这个静态工厂方法是什么东西，哪些类有？怎么使用的？.md",
-    "spring boot/java学习/泛型/疑难杂症/静态工厂方法/这些静态工厂方法用在什么地方？你说的方法名表达意图体现在哪里？.md",
     "spring boot/java学习/泛型/疑难杂症/静态工厂方法",
-    "spring boot/java学习/泛型/疑难杂症/类初始化.md",
     "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析",
-    "spring boot/java学习/java面向对象编程四大特性",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
