@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/泛型/知识点和例子.md",
-                "mode": "preview",
+                "file": "spring boot/java学习/内部类和匿名类/初始化块.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
+              "title": "初始化块"
             }
           },
           {
@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "spring boot/java学习/核心知识点.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,8 +196,11 @@
   },
   "active": "e26a3a2bfa179d71",
   "lastOpenFiles": [
-    "spring boot/java学习/核心知识点.md",
+    "spring boot/java学习/内部类和匿名类/知识点和例子.md",
+    "spring boot/java学习/内部类和匿名类/初始化块.md",
     "spring boot/java学习/泛型/知识点和例子.md",
+    "spring boot/java学习/内部类和匿名类",
+    "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/泛型/疑难杂症/泛型做方法参数的时候不能传递基本数据类型，为什么？.md",
     "spring boot/java学习/泛型/疑难杂症/泛型数组是什么？为什么不能用.md",
     "spring boot/java学习/泛型/疑难杂症/静态工厂方法/这些静态工厂方法用在什么地方？你说的方法名表达意图体现在哪里？.md",
@@ -221,8 +224,6 @@
     "gitee使用指南/git操作.md",
     "spring boot/vue学习/疑难杂症/idea里面终端无法识别node命令怎么办.md",
     "spring boot/vue学习/疑难杂症/nodejs安装及配置.md",
-    "spring boot/vue学习/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
-    "spring boot/vue学习/核心知识点.md",
     "spring boot/vue学习/疑难杂症",
     "spring boot/vue学习",
     "未命名.canvas",
@@ -232,7 +233,6 @@
     "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析",
     "spring boot/java学习/java面向对象编程四大特性/封装",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数",
-    "spring boot/java学习/泛型/疑难杂症/静态工厂方法",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
