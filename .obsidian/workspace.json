@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/内部类和匿名类/知识点和例子.md",
+                "file": "vue学习/typescript学习/基础语法/函数/箭头函数.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
+              "title": "箭头函数"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/疑难杂症/普通函数构成.md",
-                "mode": "preview",
+                "file": "vue学习/typescript学习/基础语法/疑难杂症/如何调用已经写好的函数.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "普通函数构成"
+              "title": "如何调用已经写好的函数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,14 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c6d056eb07e178b",
+  "active": "e26a3a2bfa179d71",
   "lastOpenFiles": [
-    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型/函数参数和返回值是否声明变量类型.md",
-    "vue学习/typescript学习/基础语法/疑难杂症/普通函数构成.md",
-    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型",
+    "vue学习/typescript学习/基础语法/函数/疑问/作用域特性具体指的是什么？.md",
+    "vue学习/typescript学习/基础语法/函数/疑问/给我用傻子也能听懂的话给我解释箭头函数和普通函数this到底有什么区别.md",
+    "vue学习/typescript学习/基础语法/函数/箭头函数.md",
+    "vue学习/typescript学习/基础语法/函数/疑问",
+    "vue学习/typescript学习/基础语法/函数",
     "vue学习/typescript学习/基础语法/大致基础语法.md",
-    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型/什么时候需要显示声明变量类型.md",
+    "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
+    "vue学习/typescript学习/基础语法/语法错误集合",
+    "vue学习/typescript学习/基础语法/疑难杂症/如何调用已经写好的函数.md",
     "vue学习/typescript学习/基础语法/疑难杂症/let age = 25;是不是可以不用分号？.md",
+    "spring boot/java学习/内部类和匿名类/知识点和例子.md",
+    "vue学习/typescript学习/基础语法/疑难杂症/普通函数构成.md",
+    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型/函数参数和返回值是否声明变量类型.md",
+    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型",
+    "vue学习/typescript学习/基础语法/疑难杂症/显示声明变量类型/什么时候需要显示声明变量类型.md",
     "vue学习/typescript学习/基础语法/疑难杂症",
     "vue学习/typescript学习/基础语法",
     "spring boot/java学习/核心知识点.md",
@@ -210,7 +218,6 @@
     "spring boot/概念辨析/bean/@Bean注解方法的依赖注入.md",
     "spring boot/概念辨析/服务层，mapper和实体类.md",
     "spring boot/概念辨析/在类上加@Bean和在方法上加@Bean有什么区别.md",
-    "spring boot/java学习/内部类和匿名类/知识点和例子.md",
     "spring boot/java学习/内部类和匿名类/初始化块.md",
     "spring boot/java学习/内部类和匿名类/疑难杂症/这个task还是Runnable类吗？为什么可以直接重写？.md",
     "spring boot/java学习/内部类和匿名类/疑难杂症",
@@ -224,16 +231,8 @@
     "spring boot/java学习/泛型/疑难杂症/通俗解释Animal=Dog报错.md",
     "spring boot/java学习/泛型/疑难杂症/类初始化.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/“完全不在乎类型”的场景.md",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/当方法参数需要接受 任意泛型类型的对象时，可以用 问好 作为通配符。请用小孩也能懂的话给我解释解释这句话的意思。为什么这个时候不用T。.md",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型的通配符？和T有什么区别？.md",
-    "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
     "spring boot/java学习/java面向对象编程四大特性/抽象",
-    "vue学习/疑难杂症",
-    "vue学习",
     "未命名.canvas",
-    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症",
     "未命名 2.canvas",
     "未命名 1.canvas"
   ]
