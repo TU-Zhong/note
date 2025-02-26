@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e26a3a2bfa179d71",
+            "id": "e2fc9a58372738b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
-                "mode": "preview",
+                "file": "vue学习/typescript学习/基础语法/函数/箭头函数.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数组知识点"
+              "title": "箭头函数"
             }
           },
           {
-            "id": "42ba9574fbbb2e4b",
+            "id": "185db716e9a2a561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
-                "mode": "preview",
+                "file": "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "有没有可以查找特定索引位置的值的函数"
+              "title": "map函数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,20 +194,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42ba9574fbbb2e4b",
+  "active": "e2fc9a58372738b7",
   "lastOpenFiles": [
+    "vue学习/typescript学习/基础语法/大致基础语法.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/splice()函数.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/元组.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/如何输出不带回车（换行符）.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/标准化输出方式.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组",
     "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
     "vue学习/vue/vue项目结构.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解",
     "vue学习/typescript学习/基础语法/数据类型和运算符",
-    "vue学习/typescript学习/基础语法/大致基础语法.md",
     "spring boot/java学习/核心知识点.md",
     "README.md",
     "vue学习/vue/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
@@ -228,11 +231,7 @@
     "vue学习/typescript学习/基础语法/函数/疑问/显示声明变量类型/函数参数和返回值是否声明变量类型.md",
     "vue学习/typescript学习/基础语法/函数/疑问/显示声明变量类型",
     "vue学习/typescript学习/基础语法/函数/疑问/显示声明变量类型/什么时候需要显示声明变量类型.md",
-    "vue学习/typescript学习/基础语法/疑难杂症",
     "spring boot/概念辨析/bean/@Bean注解方法的依赖注入.md",
-    "spring boot/概念辨析/服务层，mapper和实体类.md",
-    "spring boot/概念辨析/在类上加@Bean和在方法上加@Bean有什么区别.md",
-    "spring boot/java学习/内部类和匿名类/初始化块.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
