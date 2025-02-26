@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "657a62670030a4a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/泛型/疑难杂症/通俗解释Animal=Dog报错.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "通俗解释Animal=Dog报错"
-            }
-          },
-          {
-            "id": "085b2bfab32b0c8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/泛型/疑难杂症/通俗解释Animal=Dog报错.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "通俗解释Animal=Dog报错"
-            }
-          },
-          {
             "id": "e26a3a2bfa179d71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/接口/知识点和例子.md",
+                "file": "spring boot/java学习/泛型/知识点和例子.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "知识点和例子"
+            }
+          },
+          {
+            "id": "7c6d056eb07e178b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/java学习/核心知识点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "核心知识点"
             }
           }
         ]
@@ -208,17 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "657a62670030a4a8",
+  "active": "e26a3a2bfa179d71",
   "lastOpenFiles": [
-    "spring boot/java学习/泛型/疑难杂症/类初始化.md",
-    "spring boot/java学习/泛型/疑难杂症/通俗解释Animal=Dog报错.md",
-    "spring boot/java学习/接口/知识点和例子.md",
+    "spring boot/java学习/核心知识点.md",
     "spring boot/java学习/泛型/知识点和例子.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型做方法参数的时候不能传递基本数据类型，为什么？.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型数组是什么？为什么不能用.md",
+    "spring boot/java学习/泛型/疑难杂症/静态工厂方法/这些静态工厂方法用在什么地方？你说的方法名表达意图体现在哪里？.md",
+    "spring boot/java学习/泛型/疑难杂症/静态工厂方法/详细说说这个静态工厂方法是什么东西，哪些类有？怎么使用的？.md",
+    "spring boot/java学习/接口/知识点和例子.md",
+    "spring boot/java学习/泛型/疑难杂症/通俗解释Animal=Dog报错.md",
+    "spring boot/java学习/泛型/疑难杂症/类初始化.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/“完全不在乎类型”的场景.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/当方法参数需要接受 任意泛型类型的对象时，可以用 问好 作为通配符。请用小孩也能懂的话给我解释解释这句话的意思。为什么这个时候不用T。.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
-    "spring boot/java学习/泛型/疑难杂症/泛型的通配符？和T有什么区别？.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型的通配符？和T有什么区别？.md",
     "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
     "spring boot/问题清单/2025_2_24.md",
     "spring boot/问题清单/2025_2_23.md",
@@ -233,12 +224,7 @@
     "spring boot/vue学习/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
     "spring boot/vue学习/核心知识点.md",
     "spring boot/vue学习/疑难杂症",
-    "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
     "spring boot/vue学习",
-    "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
-    "spring boot/java学习/java面向对象编程四大特性/封装/封装知识点和例子.md",
-    "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
-    "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法重写注意细节.md",
     "未命名.canvas",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项",
