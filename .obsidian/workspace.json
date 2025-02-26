@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
-                "mode": "source",
+                "file": "spring boot/java学习/接口/知识点和例子.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "向上转型，向下转型，动态绑定"
+              "title": "知识点和例子"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/java面向对象编程四大特性/抽象/知识点和相应例子.md",
+                "file": "spring boot/java学习/泛型/知识点和例子.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和相应例子"
+              "title": "知识点和例子"
+            }
+          },
+          {
+            "id": "e26a3a2bfa179d71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/“完全不在乎类型”的场景.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "“完全不在乎类型”的场景"
             }
           }
         ],
@@ -197,8 +211,20 @@
   },
   "active": "085b2bfab32b0c8b",
   "lastOpenFiles": [
-    "spring boot/vue学习/vue项目结构.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/“完全不在乎类型”的场景.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/当方法参数需要接受 任意泛型类型的对象时，可以用 问好 作为通配符。请用小孩也能懂的话给我解释解释这句话的意思。为什么这个时候不用T。.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
+    "spring boot/java学习/泛型/知识点和例子.md",
+    "spring boot/java学习/泛型/疑难杂症/泛型的通配符？和T有什么区别？.md",
+    "spring boot/java学习/接口/知识点和例子.md",
+    "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
+    "spring boot/问题清单/2025_2_24.md",
+    "spring boot/问题清单/2025_2_23.md",
+    "spring boot/问题清单/2025_2_22.md",
+    "spring boot/问题清单/2025_2_26.md",
     "spring boot/java学习/java面向对象编程四大特性/抽象/知识点和相应例子.md",
+    "spring boot/vue学习/vue项目结构.md",
     "spring boot/java学习/java面向对象编程四大特性/抽象",
     "gitee使用指南/git操作.md",
     "spring boot/vue学习/疑难杂症/idea里面终端无法识别node命令怎么办.md",
@@ -209,29 +235,17 @@
     "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
     "spring boot/vue学习",
     "spring boot/java学习/java面向对象编程四大特性/多态/多态知识点及例子.md",
-    "spring boot/java学习/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/封装知识点和例子.md",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/方法重写注意细节.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/给我上述核心原则的错误案例，并告诉我为什么错了.md",
     "未命名.canvas",
     "链接到之前回答.md",
-    "spring boot/java学习/java面向对象编程四大特性/继承/注意事项/成员变量的继承注意细节.md",
-    "spring boot/java学习/java面向对象编程四大特性/继承/继承基本概念.md",
-    "spring boot/问题清单/2025_2_25.md",
-    "spring boot/java学习/核心知识点.md",
-    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/谨慎使用 protected：protected 允许子类访问，但可能导致父类内部细节泄露，破坏封装性。给我给出实际的例子并给出解释.md",
-    "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症/封装的注意事项.md",
-    "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
-    "spring boot/java学习/泛型/知识点和例子.md",
     "spring boot/java学习/java面向对象编程四大特性/封装/疑难杂症",
     "spring boot/java学习/java面向对象编程四大特性/继承/注意事项",
     "spring boot/java学习/java面向对象编程四大特性/继承",
     "spring boot/java学习/java面向对象编程四大特性/封装/概念辨析",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
     "spring boot/java学习/java面向对象编程四大特性/封装",
-    "spring boot/java学习/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
-    "spring boot/java学习/泛型/疑难杂症/未命名.md",
     "spring boot/java学习/泛型/疑难杂症/泛型方法的参数",
     "spring boot/java学习/泛型/疑难杂症/静态工厂方法",
     "未命名 2.canvas",
