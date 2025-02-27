@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "请列出typescript的常用数据类型，运算符，并给出相应的例子"
+            }
+          },
+          {
+            "id": "17833c261fbc449a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "vue学习/typescript学习/基础语法/对象/知识点和例子.md",
                 "mode": "preview",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "知识点和例子"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,18 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e50db35fe4d5c5d5",
+  "active": "17833c261fbc449a",
   "lastOpenFiles": [
-    "vue学习/typescript学习/概念.md",
-    "vue学习/typescript学习/基础语法/对象/详解/深拷贝和浅拷贝的区别（通俗解释）.md",
+    "vue学习/typescript学习/基础语法/对象/详解/索引签名.md",
     "vue学习/typescript学习/基础语法/对象/知识点和例子.md",
+    "vue学习/typescript学习/基础语法/对象/详解/typescript注解详解.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
+    "vue学习/typescript学习/基础语法/大致基础语法.md",
+    "vue学习/typescript学习/基础语法/概念.md",
+    "vue学习/typescript学习/基础语法/对象/详解/深拷贝和浅拷贝的区别（通俗解释）.md",
     "vue学习/typescript学习/基础语法/对象/详解/扩展运算符....md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
-    "vue学习/typescript学习/基础语法/大致基础语法.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
     "vue学习/typescript学习/基础语法/对象/详解/接口和类型别名的区别.md",
     "vue学习/typescript学习/基础语法/对象/详解/通俗解释接口和类型别名的区别.md",
-    "vue学习/typescript学习/基础语法/对象/详解/typescript注解详解.md",
     "vue学习/typescript学习/基础语法/对象/详解/对象显示声明数据类型.md",
     "vue学习/typescript学习/基础语法/对象/详解",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
@@ -215,7 +231,6 @@
     "vue学习/vue/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
     "vue学习/vue/疑难杂症/nodejs安装及配置.md",
     "vue学习/vue",
-    "vue学习/typescript学习/基础语法/函数/疑问/作用域特性具体指的是什么？.md",
     "vue学习/typescript学习/基础语法/函数/疑问",
     "vue学习/typescript学习/基础语法/函数",
     "未命名.canvas",
