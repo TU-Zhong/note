@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -182,8 +182,9 @@
   },
   "active": "f6fc84a9ddd543b5",
   "lastOpenFiles": [
+    "vue学习/typescript学习/基础语法/类/详细知识点/函数式接口.md",
     "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
-    "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
+    "vue学习/typescript学习/基础语法/类/详细知识点",
     "vue学习/typescript学习/基础语法/类/类知识点和例子.md",
     "vue学习/typescript学习/基础语法/大致基础语法.md",
     "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
@@ -209,7 +210,6 @@
     "vue学习/typescript学习/基础语法/对象/详解/通俗解释接口和类型别名的区别.md",
     "vue学习/typescript学习/基础语法/对象/详解/对象显示声明数据类型.md",
     "vue学习/typescript学习/基础语法/对象/详解",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
     "vue学习/typescript学习/基础语法/对象",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作",
@@ -217,7 +217,6 @@
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解",
     "vue学习/typescript学习/基础语法/数据类型和运算符",
     "vue学习/vue",
-    "vue学习/typescript学习/基础语法/函数/疑问",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
