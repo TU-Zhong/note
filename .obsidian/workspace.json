@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/类/知识点和例子.md",
-                "mode": "preview",
+                "file": "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
+              "title": "接口知识点和例子"
             }
           }
         ]
@@ -182,8 +182,12 @@
   },
   "active": "f6fc84a9ddd543b5",
   "lastOpenFiles": [
+    "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
+    "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
+    "vue学习/typescript学习/基础语法/类/类知识点和例子.md",
     "vue学习/typescript学习/基础语法/大致基础语法.md",
-    "vue学习/typescript学习/基础语法/类/知识点和例子.md",
+    "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
+    "README.md",
     "vue学习/typescript学习/基础语法/类",
     "vue学习/typescript学习/基础语法/对象/详解/reduce()函数.md",
     "vue学习/typescript学习/基础语法/概念.md",
@@ -207,10 +211,6 @@
     "vue学习/typescript学习/基础语法/对象/详解",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
     "vue学习/typescript学习/基础语法/对象",
-    "vue学习/typescript学习/基础语法/未命名.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/元组.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/如何输出不带回车（换行符）.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/标准化输出方式.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组",
