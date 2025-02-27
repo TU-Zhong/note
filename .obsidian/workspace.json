@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2fc9a58372738b7",
+            "id": "e50db35fe4d5c5d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/对象/知识点和例子.md",
-                "mode": "source",
+                "file": "vue学习/typescript学习/基础语法/对象/详解/接口和类型别名的区别.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
-            }
-          },
-          {
-            "id": "185db716e9a2a561",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "map函数"
+              "title": "接口和类型别名的区别"
             }
           }
         ]
@@ -194,17 +180,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e2fc9a58372738b7",
+  "active": "e50db35fe4d5c5d5",
   "lastOpenFiles": [
-    "vue学习/typescript学习/基础语法/大致基础语法.md",
     "vue学习/typescript学习/基础语法/对象/知识点和例子.md",
+    "vue学习/typescript学习/基础语法/对象/详解/通俗解释接口和类型别名的区别.md",
+    "vue学习/typescript学习/基础语法/对象/详解/接口和类型别名的区别.md",
+    "vue学习/typescript学习/基础语法/对象/详解/typescript注解详解.md",
+    "vue学习/typescript学习/概念.md",
+    "vue学习/typescript学习/基础语法/对象/详解/对象显示声明数据类型.md",
+    "vue学习/typescript学习/基础语法/对象/详解",
+    "vue学习/typescript学习/基础语法/大致基础语法.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
     "vue学习/typescript学习/基础语法/对象",
     "vue学习/typescript学习/基础语法/未命名.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
     "vue学习/typescript学习/基础语法/函数/箭头函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/splice()函数.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/元组.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/如何输出不带回车（换行符）.md",
@@ -212,7 +205,6 @@
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/请列出typescript的常用数据类型，运算符，并给出相应的例子.md",
     "vue学习/vue/vue项目结构.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解",
     "vue学习/typescript学习/基础语法/数据类型和运算符",
@@ -226,12 +218,6 @@
     "vue学习/typescript学习/基础语法/函数/疑问",
     "vue学习/typescript学习/基础语法/函数",
     "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
-    "vue学习/typescript学习/基础语法/语法错误集合",
-    "vue学习/typescript学习/基础语法/函数/疑问/如何调用已经写好的函数.md",
-    "vue学习/typescript学习/基础语法/函数/疑问/let age = 25;是不是可以不用分号？.md",
-    "spring boot/java学习/内部类和匿名类/知识点和例子.md",
-    "vue学习/typescript学习/基础语法/函数/疑问/普通函数构成.md",
-    "vue学习/typescript学习/基础语法/函数/疑问/显示声明变量类型/函数参数和返回值是否声明变量类型.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
