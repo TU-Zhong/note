@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/typescript学习/基础语法/模块/知识点和语法.md",
+                "file": "想说的话/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和语法"
+              "title": "未命名"
             }
           }
         ]
@@ -182,14 +182,22 @@
   },
   "active": "f6fc84a9ddd543b5",
   "lastOpenFiles": [
-    "vue学习/typescript学习/基础语法/大致基础语法.md",
+    "README.md",
+    "想说的话/未命名.md",
+    "vue学习/typescript学习/可行的学习路线.md",
+    "想说的话",
+    "vue学习/vue/核心知识点.md",
+    "vue学习/vue/报错集合/script标签如果写了setup那么不能导出.md",
     "vue学习/typescript学习/基础语法/模块/知识点和语法.md",
+    "vue学习/vue/报错集合",
+    "vue学习/vue/代码解析/main.ts.md",
+    "vue学习/vue/代码解析",
+    "vue学习/typescript学习/基础语法/大致基础语法.md",
     "vue学习/typescript学习/基础语法/模块",
     "vue学习/typescript学习/基础语法/概念.md",
     "vue学习/vue/vue项目结构.md",
     "vue学习/vue/疑难杂症/nodejs安装及配置.md",
     "vue学习/vue/疑难杂症/idea里面终端无法识别node命令怎么办.md",
-    "vue学习/vue/核心知识点.md",
     "vue学习/vue/疑难杂症/npm run build创建的dist文件夹中的assest和src中的assest有什么区别？.md",
     "gitee使用指南/git操作.md",
     "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
@@ -197,7 +205,6 @@
     "vue学习/typescript学习/基础语法/类/详细知识点",
     "vue学习/typescript学习/基础语法/类/类知识点和例子.md",
     "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
-    "README.md",
     "vue学习/typescript学习/基础语法/类",
     "vue学习/typescript学习/基础语法/对象/详解/reduce()函数.md",
     "spring boot/java学习/lambda表达式/一般语法和例子.md",
@@ -207,17 +214,10 @@
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出/splice()函数.md",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/类型断言.md",
-    "vue学习/typescript学习/基础语法/对象/知识点和例子.md",
-    "vue学习/typescript学习/基础语法/对象/详解/扩展运算符....md",
-    "vue学习/typescript学习/基础语法/对象/详解/索引签名.md",
-    "vue学习/typescript学习/基础语法/函数/箭头函数.md",
     "vue学习/typescript学习/基础语法/对象/详解",
     "vue学习/typescript学习/基础语法/对象",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解",
-    "vue学习/typescript学习/基础语法/数据类型和运算符",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
