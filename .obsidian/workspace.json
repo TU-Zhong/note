@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
+                "file": "vue学习/html和css/html/标签详解/文本标签/具体标签解释/span.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "文本标签通用属性"
+              "title": "span"
             }
           }
         ]
@@ -183,9 +183,10 @@
   "active": "f6fc84a9ddd543b5",
   "lastOpenFiles": [
     "vue学习/html和css/html/标签详解/文本标签/文本标签.md",
+    "vue学习/html和css/html/标签详解/文本标签/具体标签解释/span.md",
+    "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释/abbr.md",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释/accessKey.md",
-    "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释",
     "vue学习/html和css/html/标签详解/文本标签",
     "vue学习/html和css/html/标签分类.md",
@@ -217,7 +218,6 @@
     "vue学习/typescript学习/基础语法/类/详细知识点",
     "vue学习/typescript学习/基础语法/类/类知识点和例子.md",
     "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
-    "vue学习/typescript学习/基础语法/对象/详解/reduce()函数.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
