@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "想说的话/劝学.md",
+                "file": "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "劝学"
+              "title": "文本标签通用属性"
             }
           }
         ]
@@ -182,9 +182,18 @@
   },
   "active": "f6fc84a9ddd543b5",
   "lastOpenFiles": [
-    "想说的话/未命名.md",
-    "想说的话/劝学.md",
+    "vue学习/html和css/html/标签详解/文本标签/文本标签.md",
+    "vue学习/html和css/html/标签详解/文本标签/具体标签解释/abbr.md",
+    "vue学习/html和css/html/标签详解/文本标签/具体标签解释/accessKey.md",
+    "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
+    "vue学习/html和css/html/标签详解/文本标签/具体标签解释",
+    "vue学习/html和css/html/标签详解/文本标签",
+    "vue学习/html和css/html/标签分类.md",
+    "vue学习/html和css/html/标签详解",
     "vue学习/html和css/学习路线.md",
+    "vue学习/html和css/html",
+    "想说的话/劝学.md",
+    "想说的话/未命名.md",
     "vue学习/html和css",
     "README.md",
     "vue学习/typescript学习/可行的学习路线.md",
@@ -208,16 +217,7 @@
     "vue学习/typescript学习/基础语法/类/详细知识点",
     "vue学习/typescript学习/基础语法/类/类知识点和例子.md",
     "vue学习/typescript学习/基础语法/语法错误集合/错误1.md",
-    "vue学习/typescript学习/基础语法/类",
     "vue学习/typescript学习/基础语法/对象/详解/reduce()函数.md",
-    "spring boot/java学习/lambda表达式/一般语法和例子.md",
-    "spring boot/java学习/lambda表达式/lambda表达式通俗理解.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/map函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
-    "vue学习/typescript学习/基础语法/对象/详解",
-    "vue学习/typescript学习/基础语法/对象",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/输出",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
