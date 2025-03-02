@@ -1,7 +1,7 @@
 
 
 以下是 `grid-template-columns: repeat(3, 1fr);` 的详细解释，以及该属性的其他常用值和用法：
-
+[[grid-template-rows]]
 ---
 [[常用属性值通俗解释]]
 [[资源分配规则]]

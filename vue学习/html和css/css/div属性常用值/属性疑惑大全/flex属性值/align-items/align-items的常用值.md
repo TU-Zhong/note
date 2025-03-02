@@ -5,13 +5,13 @@
 ---
 
 ### **常用值及效果**
-| 值              | 作用（以 Flexbox 默认垂直方向为例） | 示意图                            |
-|------------------|-----------------------------------|---------------------------------|
-| **`stretch`**    | **拉伸子项**至填满容器高度（默认值） | ![stretch](https://s2.loli.net/2024/07/08/xVrHp8yT12fCJX6.png) |
-| **`flex-start`** | 子项在容器**顶部对齐**              | ![flex-start](https://s2.loli.net/2024/07/08/5ys4nE9L7S3jtYF.png) |
-| **`flex-end`**   | 子项在容器**底部对齐**              | ![flex-end](https://s2.loli.net/2024/07/08/3c5A8WZ6YQlTgXM.png) |
-| **`center`**     | 子项在容器**垂直居中**              | ![center](https://s2.loli.net/2024/07/08/NsWwZbHxJ6e7lYv.png) |
-| **`baseline`**   | 子项的**文字基线对齐**              | ![baseline](https://s2.loli.net/2024/07/08/1Fw5oBfKbM9Xc8Q.png) |
+| 值                | 作用（以 Flexbox 默认垂直方向为例） |
+| ---------------- | ---------------------- |
+| **`stretch`**    | **拉伸子项**至填满容器高度（默认值）   |
+| **`flex-start`** | 子项在容器**顶部对齐**          |
+| **`flex-end`**   | 子项在容器**底部对齐**          |
+| **`center`**     | 子项在容器**垂直居中**          |
+| **`baseline`**   | 子项的**文字基线对齐**          |
 
 ---
 
