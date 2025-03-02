@@ -58,8 +58,8 @@
 ---
 
 ### **注意事项**
-- **父容器必须有高度**：如果父容器没有固定高度（如 `height: 100vh` 或 `height: 200px`），`align-items` 可能无法生效。
-- **Grid 布局中的行为**：在 Grid 中，`align-items` 控制网格项在单元格内的垂直对齐方式（需设置 `display: grid`）。
+- <mark style="background: #FFF3A3A6;">**父容器必须有高度**：如果父容器没有固定高度（如 `height: 100vh` 或 `height: 200px`），`align-items` 可能无法生效。</mark>
+- <mark style="background: #FFF3A3A6;">**Grid 布局中的行为**：在 Grid 中，`align-items` 控制网格项在单元格内的垂直对齐方式（需设置 `display: grid`）。</mark>
 
 ---
 
