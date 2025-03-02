@@ -3,7 +3,7 @@
 以下是 `<div>` 元素中常用 CSS 属性的关键值及典型用法说明：
 
 ---
-
+[[小例子]]
 ### **1. `display`**
 控制元素显示模式。
 
@@ -15,7 +15,7 @@
 | `flex`           | 弹性布局容器             | `display: flex;`        |
 | `grid`           | 网格布局容器             | `display: grid;`        |
 | `none`           | 隐藏元素（不占空间）     | `display: none;`        |
-
+[[flex和grid的通俗解释]]
 ---
 
 ### **2. `width` / `height`**
