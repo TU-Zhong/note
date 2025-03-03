@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "知识点和例子"
             }
-          },
-          {
-            "id": "1f5d3793814420f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue学习/html和css/html/标签详解/表格标签/行分组和样式.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "行分组和样式"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "9fc1baa7abcb9e05",
   "lastOpenFiles": [
+    "vue学习/html和css/html/标签详解/表格标签/行分组和样式.md",
     "vue学习/html和css/html/标签详解/表格标签/知识点和例子.md",
     "vue学习/html和css/html/标签详解/表格标签/在  tbody  中的元素占据两行似乎不能拿  tfoot  中的元素的格子，怎么解释这个事实？.md",
-    "vue学习/html和css/html/标签详解/表格标签/行分组和样式.md",
     "vue学习/html和css/html/标签详解/表格标签/假如同一列的元素中colspans全部设置成3，但是浏览器显示就只有一个格子了，怎么解释这个事实？.md",
     "vue学习/html和css/html/标签详解/表格标签/那假如一个元素占据了两行，但该元素的所在行没有下一行了，就不会再占据两行，怎么解释这个事实？.md",
     "vue学习/html和css/html/标签详解/表格标签/合并单元格原理.md",
