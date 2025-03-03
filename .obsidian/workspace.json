@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "vue学习/html和css/html/标签详解/表格标签/知识点和例子.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -208,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "9fc1baa7abcb9e05",
   "lastOpenFiles": [
     "vue学习/html和css/html/标签详解/表格标签/假如同一列的元素中colspans全部设置成3，但是浏览器显示就只有一个格子了，怎么解释这个事实？.md",
     "vue学习/html和css/html/标签详解/表格标签/知识点和例子.md",
