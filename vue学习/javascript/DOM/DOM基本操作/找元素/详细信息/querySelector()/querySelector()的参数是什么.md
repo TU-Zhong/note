@@ -72,6 +72,9 @@ const invalidInput = document.querySelector("input:invalid");
 "ul.list li:nth-child(2)"<mark style="background: #FFF3A3A6;">条件辨析，这个必须要弄明白是怎么个事
 </mark>
 [[条件辨析]]
+[[匹配条件分析]]
+[[匹配条件分析2]]
+这个匹配表达式从左往右从右往左分析都可以
 ```javascript
 // 查找第二个列表项
 const secondItem = document.querySelector("ul.list li:nth-child(2)");
