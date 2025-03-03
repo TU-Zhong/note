@@ -67,7 +67,11 @@ const invalidInput = document.querySelector("input:invalid");
 #### 4. 复杂层级
 <mark style="background: #FFF3A3A6;">^= 匹配前缀；$=匹配后缀；*= 包含后面的这个字符串的字符串</mark>
 [[匹配条件分析]]
-<mark style="background: #FFF3A3A6;">nth-child(2)查找父元素的第二个子元素；nth-of-type(2)查找父元素的第二个li元素。</mark>
+<mark style="background: #FFF3A3A6;">nth-child(2)查找父元素的第二个子元素且要是li,否则不会匹配；nth-of-type(2)查找父元素的第二个li元素。</mark>
+
+"ul.list li:nth-child(2)"<mark style="background: #FFF3A3A6;">条件辨析，这个必须要弄明白是怎么个事
+</mark>
+[[条件辨析]]
 ```javascript
 // 查找第二个列表项
 const secondItem = document.querySelector("ul.list li:nth-child(2)");
@@ -86,14 +90,14 @@ const specialBtn = document.querySelector("button[class$='-btn']");
    `querySelector()` 始终返回 **第一个匹配的元素**，没有匹配时返回 `null`。
 
 2. **转义特殊字符**  
-   如果 ID 或类名包含特殊字符（如 `.`、`#`），需用反斜杠转义：
+   <mark style="background: #FFF3A3A6;">如果 ID 或类名包含特殊字符（如 `.`、`#`），需用反斜杠转义：</mark>
    ```javascript
    // 查找 ID 为 "user.name" 的元素
    const element = document.querySelector("#user\\.name");
    ```
 
-3. **作用域限制**  
-   可在特定元素内查找（缩小范围）：
+3. <mark style="background: #FFF3A3A6;">**作用域限制**  
+   可在特定元素内查找（缩小范围）：</mark>
    ```javascript
    const container = document.getElementById("app");
    // 只在 container 内查找
