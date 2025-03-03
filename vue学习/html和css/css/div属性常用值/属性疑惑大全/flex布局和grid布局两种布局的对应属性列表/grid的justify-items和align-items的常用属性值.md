@@ -12,12 +12,12 @@
 ---
 
 ### **常用属性值**
-| 属性值          | 效果                                | 示意图（以单元格为边界）                           |
-|----------------|-----------------------------------|-------------------------------------------|
-| `start`        | 对齐到单元格的 **起始边**（左/上）             | ![start](https://via.placeholder.com/150x50?text=靠左/上对齐) |
-| `end`          | 对齐到单元格的 **结束边**（右/下）             | ![end](https://via.placeholder.com/150x50?text=靠右/下对齐)   |
-| `center`       | 单元格内 **居中**                     | ![center](https://via.placeholder.com/150x50?text=居中)     |
-| `stretch`      | **拉伸填满** 单元格（默认值）              | ![stretch](https://via.placeholder.com/150x50?text=拉伸铺满)  |
+| 属性值       | 效果                   | 示意图（以单元格为边界）                                             |
+| --------- | -------------------- | -------------------------------------------------------- |
+| `start`   | 对齐到单元格的 **起始边**（左/上） | ![start](https://via.placeholder.com/150x50?text=靠左/上对齐) |
+| `end`     | 对齐到单元格的 **结束边**（右/下） | ![end](https://via.placeholder.com/150x50?text=靠右/下对齐)   |
+| `center`  | 单元格内 **居中**          | ![center](https://via.placeholder.com/150x50?text=居中)    |
+| `stretch` | **拉伸填满** 单元格（默认值）    | ![stretch](https://via.placeholder.com/150x50?text=拉伸铺满) |
 
 ---
 
