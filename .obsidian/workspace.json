@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/html和css/html/标签分类.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "标签分类"
-            }
-          },
-          {
-            "id": "bc0f82eaf9f90d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/知识点和例子.md",
+                "file": "vue学习/html和css/html/标签详解/表格标签/知识点和例子.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,21 +22,20 @@
             }
           },
           {
-            "id": "5db05fa3186457ac",
+            "id": "9b032327815c8c47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/跨域属性.md",
-                "mode": "preview",
+                "file": "vue学习/html和css/html/标签详解/媒体标签/知识点和例子.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "跨域属性"
+              "title": "知识点和例子"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,10 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db05fa3186457ac",
+  "active": "9fc1baa7abcb9e05",
   "lastOpenFiles": [
-    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/知识点和例子.md",
     "vue学习/html和css/html/标签分类.md",
+    "vue学习/html和css/html/标签详解/表格标签/知识点和例子.md",
+    "vue学习/html和css/html/标签详解/表格标签",
+    "vue学习/html和css/html/标签详解/媒体标签/知识点和例子.md",
+    "vue学习/html和css/html/概念/路径规则.md",
+    "vue学习/html和css/html/标签详解/媒体标签",
+    "vue学习/html和css/学习路线.md",
+    "vue学习/问题汇总.md",
+    "vue学习/typescript学习/基础语法/大致基础语法.md",
+    "vue学习/typescript学习/可行的学习路线.md",
+    "vue学习/html和css/概念.md",
+    "vue学习/html和css/html/标签详解/文本标签/文本标签.md",
+    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/知识点和例子.md",
+    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/通俗易懂解释属性.md",
+    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/跨域属性.md",
     "vue学习/html和css/html/标签详解/表单标签/文本域/如何禁止用户拖拽文本域使其放大.md",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释/div/div.md",
     "vue学习/html和css/html/布局 非常重要.md",
@@ -221,32 +219,19 @@
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表/flex布局和grid布局两种布局的对应属性列表.md",
     "vue学习/html和css/html/标签详解/表单标签/文本域/常用属性.md",
     "vue学习/html和css/html/标签详解/表单标签/知识点和例子.md",
-    "vue学习/html和css/概念.md",
-    "vue学习/html和css/学习路线.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/place-items/我还是没搞懂那个place-item这个属性到底要怎么用，什么时候才有效？一般是怎么用的？.md",
     "vue学习/html和css/css/div属性常用值/知识点和例子.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/margin和padding.md",
     "vue学习/html和css/css/div属性常用值/div.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/place-items/解答.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/grid-template-rows.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/grid-template-columns.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/资源分配规则.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/常用属性值通俗解释.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items的常用值.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items(只适用于flex和grid布局).md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/flex和grid的通俗解释.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/那space-evenly和space-around有什么区别？.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/justify-content这个属性值干什么的？用傻子也能听懂过的话解释.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/place-items",
     "vue学习/html和css/html/标签详解/表单标签/form标签",
     "vue学习/html和css/html/标签详解/表单标签/单选多选按钮",
     "vue学习/html和css/html/标签详解/表单标签/文本域",
     "vue学习/html和css/html/标签详解/表单标签/input",
     "vue学习/html和css/html/标签详解/表单标签",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
