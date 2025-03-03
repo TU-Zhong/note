@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b59aa00595365fb8",
+            "id": "8b15861ebb5b281c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "8b15861ebb5b281c",
+            "id": "9b42a5123164bb67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,12 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b15861ebb5b281c",
+  "active": "9b42a5123164bb67",
   "lastOpenFiles": [
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/place-items/我还是没搞懂那个place-item这个属性到底要怎么用，什么时候才有效？一般是怎么用的？.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/place-items/解答.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/margin和padding.md",
     "vue学习/html和css/css/div属性常用值/知识点和例子.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/flex和grid的通俗解释.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/justify-content这个属性值干什么的？用傻子也能听懂过的话解释.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items(只适用于flex和grid布局).md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items的常用值.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/那space-evenly和space-around有什么区别？.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/margin和padding.md",
     "vue学习/html和css/css/div属性常用值/div.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/place-items",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释/div/div.md",
@@ -211,11 +216,6 @@
     "vue学习/html和css/概念.md",
     "vue学习/html和css/html/标签详解/文本标签/具体标签解释/div/假如我想自由布置div块，比如把几个div标签布置在同一行；或者左边一个块，高更大，是右边两个块的高度之和，我想把左边放一个，右边两个块按上下排列，应该怎么实现？分别给出解释.md",
     "vue学习/html和css/html/标签详解/文本标签/文本标签通用属性.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items(只适用于flex和grid布局).md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/那space-evenly和space-around有什么区别？.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/justify-content/justify-content这个属性值干什么的？用傻子也能听懂过的话解释.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/flex和grid的通俗解释.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex属性值/align-items/align-items的常用值.md",
     "vue学习/问题汇总.md",
     "vue学习/html和css/html/标签详解/表单标签/知识点和例子.md",
     "vue学习/html和css/html/标签详解/表单标签/一个表单练习题.md",

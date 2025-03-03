@@ -10,16 +10,18 @@
 <div class="test"> 
 <div class="row1"> 
 <h1>这是何哥的博客</h1> 
-</div> <div class="row1">
-<label style="display: block">搜索
-<input type="text"> </label> 
+</div> 
+<div class="row1">
+<label style="display: block">
+<input type="text"> 搜索
+</label> 
 </div> 
 </div>
 
 我这个只有test设置了 grid 和place-items:center,为什么<label>和<h1>也居中了？
 ```
 解答：
-
+[[解答]]
 ### **一句话总结**  
 **`place-items` 是给「网格布局（Grid）」或「弹性盒子布局（Flexbox）」用的**，用来一次性设置子元素在「横轴」和「竖轴」上的对齐方式。
 
