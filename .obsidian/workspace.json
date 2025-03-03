@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -195,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd9f1f59c145bb35",
+  "active": "95952c093c6ae097",
   "lastOpenFiles": [
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/知识点和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/(element.matches('.active.highlight')).md",
