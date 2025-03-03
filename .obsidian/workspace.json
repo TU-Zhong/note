@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/vue/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
-                "mode": "source",
+                "file": "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大白话讲讲什么叫vue框架，有什么用？有什么优势？"
+              "title": "给我列出详细的找元素的知识点和例子"
+            }
+          },
+          {
+            "id": "0b9b6c8f18be9610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/querySelector()的参数是什么.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "querySelector()的参数是什么"
+            }
+          },
+          {
+            "id": "aeb31ab6d3b7c729",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/querySelector()的参数是什么.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "querySelector()的参数是什么"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,13 +209,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fc1baa7abcb9e05",
+  "active": "aeb31ab6d3b7c729",
   "lastOpenFiles": [
+    "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/匹配条件分析.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/querySelector()的参数是什么.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()",
+    "vue学习/html和css/css/给我列出 css中选择器：的知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/什么叫伪类选择器.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/属性选择器.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/css选择器有多个匹配条件怎么办.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
+    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
+    "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素",
+    "vue学习/javascript/DOM/DOM节点的分类和各自的作用.md",
+    "vue学习/javascript/DOM/DOM基本操作",
+    "vue学习/javascript/DOM/DOM到底是什么.md",
     "vue学习/typescript学习/可行的学习路线.md",
+    "vue学习/javascript/DOM",
+    "vue学习/vue/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
     "vue学习/javascript/与typescript的基础语法区别.md",
     "vue学习/html和css/html/标签分类.md",
     "vue学习/html和css/html/标签详解/列表标签/知识点和例子.md",
-    "vue学习/html和css/css/给我列出 css中选择器：的知识点和例子.md",
     "vue学习/html和css/html/标签详解/列表标签",
     "vue学习/html和css/css/名词.md",
     "vue学习/html和css/学习路线.md",
@@ -197,27 +244,9 @@
     "vue学习/html和css/html/标签详解/表格标签/那假如一个元素占据了两行，但该元素的所在行没有下一行了，就不会再占据两行，怎么解释这个事实？.md",
     "vue学习/html和css/html/标签详解/表格标签/合并单元格原理.md",
     "vue学习/html和css/html/标签详解/表格标签",
-    "vue学习/html和css/html/标签详解/媒体标签/知识点和例子.md",
-    "vue学习/html和css/html/概念/路径规则.md",
     "vue学习/html和css/html/标签详解/媒体标签",
-    "vue学习/问题汇总.md",
-    "vue学习/typescript学习/基础语法/大致基础语法.md",
-    "vue学习/html和css/概念.md",
-    "vue学习/html和css/html/标签详解/文本标签/文本标签.md",
-    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/知识点和例子.md",
-    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/通俗易懂解释属性.md",
-    "vue学习/html和css/html/标签详解/元信息标签/具体标签解释/link/跨域属性.md",
-    "vue学习/html和css/html/标签详解/表单标签/文本域/如何禁止用户拖拽文本域使其放大.md",
-    "vue学习/html和css/html/标签详解/文本标签/具体标签解释/div/div.md",
-    "vue学习/html和css/html/布局 非常重要.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表/grid的justify-items和align-items的常用属性值.md",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/place-items",
-    "vue学习/html和css/html/标签详解/表单标签/form标签",
-    "vue学习/html和css/html/标签详解/表单标签/单选多选按钮",
-    "vue学习/html和css/html/标签详解/表单标签/文本域",
-    "vue学习/html和css/html/标签详解/表单标签/input",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
