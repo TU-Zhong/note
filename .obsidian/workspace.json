@@ -8,35 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12126ee50034eaa3",
+            "id": "c7f87267daf67c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
-                "mode": "preview",
+                "file": "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/textContent/textContent知识点.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给我列出详细的找元素的知识点和例子"
+              "title": "textContent知识点"
             }
           },
           {
-            "id": "fd9f1f59c145bb35",
+            "id": "4318fd919e448616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
+                "file": "vue学习/html和css/html/标签详解/表单标签/input/常用属性列表和含义.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给我列出详细的找元素的知识点和例子"
+              "title": "常用属性列表和含义"
+            }
+          },
+          {
+            "id": "d6ce83ee1edaa204",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/code1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "code1"
+            }
+          },
+          {
+            "id": "a8720db3245f7470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/Uncaught SyntaxError：Cannot use import statement outside a module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Uncaught SyntaxError：Cannot use import statement outside a module"
+            }
+          },
+          {
+            "id": "5e736341434c081f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/报错2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "报错2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,44 +236,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "c7f87267daf67c7e",
   "lastOpenFiles": [
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/textContent/会清空所有的子元素.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/textContent/textContent知识点.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml/innerHtml赋值方法.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/textContent",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml",
+    "vue学习/html和css/html/标签详解/表单标签/input/常用属性列表和含义.md",
+    "vue学习/html和css/html/标签详解/表单标签/input/accept.md",
+    "vue学习/html和css/html/标签详解/表单标签/知识点和例子.md",
+    "vue学习/html和css/html/标签详解/表单标签/一个表单练习题.md",
+    "想说的话/劝学.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/报错2.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/code1.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/Uncaught SyntaxError：Cannot use import statement outside a module.md",
+    "vue学习/html和css/html/标签详解/表单标签/input/hidden属性有什么用.md",
+    "vue学习/html和css/html/标签详解/表单标签/input/step傻子解释.md",
+    "vue学习/html和css/html/标签详解/表单标签/单选多选按钮/label两种写法.md",
+    "vue学习/html和css/html/标签详解/表单标签/单选多选按钮/单选多选按钮知识点.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml/innerHtml赋值代码消毒.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml/innerHtml.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点",
+    "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/知识点和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/(element.matches('.active.highlight')).md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
-    "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/querySelector()的参数是什么.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找",
     "gitee使用指南/git操作.md",
     "vue学习/javascript/DOM/DOM到底是什么.md",
     "vue学习/javascript/DOM/DOM节点的分类和各自的作用.md",
-    "vue学习/javascript/与typescript的基础语法区别.md",
-    "vue学习/问题汇总.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/匹配条件分析.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/匹配条件分析2.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/条件辨析.md",
-    "vue学习/html和css/css/名词.md",
-    "vue学习/html和css/html/标签详解/文本标签/具体标签解释/div/div.md",
-    "vue学习/html和css/概念.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()",
-    "vue学习/html和css/css/给我列出 css中选择器：的知识点和例子.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/什么叫伪类选择器.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/属性选择器.md",
-    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/css选择器有多个匹配条件怎么办.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/有没有可以查找特定索引位置的值的函数.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/操作/遍历方法.md",
-    "vue学习/typescript学习/基础语法/数据类型和运算符/详解/数组/数组知识点.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素",
-    "vue学习/javascript/DOM/DOM基本操作",
-    "vue学习/typescript学习/可行的学习路线.md",
-    "vue学习/javascript/DOM",
-    "vue学习/vue/大白话讲讲什么叫vue框架，有什么用？有什么优势？.md",
-    "vue学习/html和css/html/标签分类.md",
-    "vue学习/html和css/html/标签详解/列表标签",
-    "vue学习/html和css/html/标签详解/表格标签",
-    "vue学习/html和css/html/标签详解/媒体标签",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
