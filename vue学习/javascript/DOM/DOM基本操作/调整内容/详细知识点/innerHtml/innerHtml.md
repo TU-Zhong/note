@@ -1,4 +1,4 @@
-
+[[insertAdjacentHTML知识点和例子]]<mark style="background: #FFF3A3A6;">和这个函数的作用作比较。</mark>
 
 `innerHTML` 是 JavaScript 中用于操作网页内容的核心属性之一，它的作用是通过HTML字符串直接控制DOM元素的子内容。以下是通俗易懂的解释和示例：
 
