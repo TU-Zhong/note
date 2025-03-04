@@ -223,12 +223,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "a9966a218d0e42f4",
   "lastOpenFiles": [
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/replace/replaceWith和replaceWithChildre的区别.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/replace",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/css选择器有多个匹配条件怎么办.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/匹配条件分析.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/replace/replaceWith和replaceWithChildre的区别.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/replace",
     "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml/innerHtml.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/insertAdjacentHTML/insertAdjacentHTML知识点和例子.md",
@@ -254,9 +256,7 @@
     "vue学习/html和css/html/标签详解/表单标签/input/hidden属性有什么用.md",
     "vue学习/html和css/html/标签详解/表单标签/input/step傻子解释.md",
     "vue学习/html和css/html/标签详解/表单标签/单选多选按钮/label两种写法.md",
-    "vue学习/html和css/html/标签详解/表单标签/单选多选按钮/单选多选按钮知识点.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错",
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点/innerHtml/innerHtml赋值代码消毒.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/详细知识点",
     "vue学习/javascript/DOM/DOM基本操作/调整内容",
