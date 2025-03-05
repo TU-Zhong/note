@@ -34,6 +34,20 @@
               "icon": "lucide-file",
               "title": "问题汇总"
             }
+          },
+          {
+            "id": "3c5744d471572e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/如果一个标签有两个或多个类，浏览器选择哪个样式？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "如果一个标签有两个或多个类，浏览器选择哪个样式？"
+            }
           }
         ],
         "currentTab": 1
@@ -195,20 +209,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "5086d4833bd73a17",
   "lastOpenFiles": [
+    "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/调整样式的常用操作和例子.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整样式/这些具体是怎么用的？哪个active是在哪里？js文件中？css文件中？还是html文件中？删除类是什么意思？删除了这个标签的这个样式还是css文件中删除了这个样式？切换类这个toggle函数的参数是什么？怎么用的？.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/如果一个标签有两个或多个类，浏览器选择哪个样式？.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/css选择权重.md",
+    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
+    "vue学习/问题汇总.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/概念",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/名词解释.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/css选择权重.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/cssdom通俗解释.md",
     "vue学习/html和css/css/给我列出 css中选择器：的知识点和例子.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/如果一个标签有两个或多个类，浏览器选择哪个样式？.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/querySelector()/属性选择器.md",
-    "vue学习/javascript/DOM/DOM基本操作/基本操作和意识.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式",
-    "vue学习/问题汇总.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/Uncaught SyntaxError：Cannot use import statement outside a module.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/报错/报错2.md",
     "vue学习/javascript/DOM/DOM基本操作/调整内容/代码报错/code1.md",
