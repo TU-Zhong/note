@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/问题汇总.md",
-                "mode": "source",
+                "file": "vue学习/javascript/DOM/DOM基本操作/事件监听/给我列出javascript的常用事件监听器，以及使用事件监听器的常用方法，以及注意事项。.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "问题汇总"
+              "title": "给我列出javascript的常用事件监听器，以及使用事件监听器的常用方法，以及注意事项。"
             }
           }
         ],
@@ -211,10 +211,10 @@
   },
   "active": "6c739324485039dd",
   "lastOpenFiles": [
+    "vue学习/问题汇总.md",
     "vue学习/javascript/DOM/DOM基本操作/事件监听/事件冒泡和捕获通俗解释.md",
     "vue学习/javascript/DOM/DOM基本操作/事件监听/父级监听能被触发几次？.md",
     "vue学习/javascript/DOM/DOM基本操作/事件监听/给我列出javascript的常用事件监听器，以及使用事件监听器的常用方法，以及注意事项。.md",
-    "vue学习/问题汇总.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/给我列出详细的找元素的知识点和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/(element.matches('.active.highlight')).md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/知识点和例子.md",

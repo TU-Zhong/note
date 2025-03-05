@@ -98,7 +98,7 @@ element.removeEventListener('事件类型', 回调函数);
 #### **1. 事件冒泡与捕获**
 - **冒泡**：事件从目标元素向上传播到根元素（默认阶段）。
 - **捕获**：事件从根元素向下传播到目标元素。
-
+[[事件冒泡和捕获通俗解释]]
   ```javascript
   element.addEventListener('click', handler, { 
     capture: true, // 捕获阶段触发
