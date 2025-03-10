@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/Project/greedy_snake/实现步骤.md",
-                "mode": "source",
+                "file": "spring boot/java学习/Project/greedy_snake/出现问题.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "实现步骤"
+              "title": "出现问题"
             }
           }
         ],
@@ -225,8 +225,10 @@
   },
   "active": "99ff44d096ff7271",
   "lastOpenFiles": [
-    "vue学习/bilibili首页制作/如何在这个img标签之上再设置一个div,显示在图片之上？.md",
+    "spring boot/java学习/Project/greedy_snake/蛇身移动逻辑.md",
+    "spring boot/java学习/Project/greedy_snake/出现问题.md",
     "spring boot/java学习/Project/greedy_snake/实现步骤.md",
+    "vue学习/bilibili首页制作/如何在这个img标签之上再设置一个div,显示在图片之上？.md",
     "spring boot/java学习/Project/greedy_snake",
     "spring boot/java学习/Project/未命名.md",
     "spring boot/java学习/未命名.md",
@@ -256,9 +258,7 @@
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/(element.matches('.active.highlight')).md",
     "vue学习/javascript/DOM/DOM基本操作/找元素/详细信息/表单查找/知识点和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/这些具体是怎么用的？哪个active是在哪里？js文件中？css文件中？还是html文件中？删除类是什么意思？删除了这个标签的这个样式还是css文件中删除了这个样式？切换类这个toggle函数的参数是什么？怎么用的？.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整样式/调整样式的常用操作和例子.md",
     "vue学习/javascript/DOM/DOM基本操作/事件监听",
-    "vue学习/javascript/DOM/DOM基本操作/调整样式/概念/如果一个标签有两个或多个类，浏览器选择哪个样式？.md",
     "vue学习/javascript/DOM/DOM基本操作/调整样式/概念",
     "vue学习/javascript/DOM/DOM基本操作/调整样式",
     "未命名.canvas",
