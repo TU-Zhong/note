@@ -8,77 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab3eade47087fabc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/基础知识/多线程/知识点和例子.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "知识点和例子"
-            }
-          },
-          {
             "id": "7ac708c8238bbbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/知识点和例子.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "知识点和例子"
-            }
-          },
-          {
-            "id": "56d6cea01e386aa0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/基础知识/多线程/知识点和例子.md",
+                "file": "spring boot/java学习/基础知识/多线程/练习题/练习题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知识点和例子"
+              "title": "练习题"
             }
           },
           {
-            "id": "29396038050fd772",
+            "id": "b0fe5cfc691d5bac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/疑问/锁方法.md",
+                "file": "spring boot/java学习/基础知识/多线程/概念解释/显示锁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "锁方法"
-            }
-          },
-          {
-            "id": "23880f547a7a6b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/基础知识/多线程/疑问/那被锁住的类中的其他静态方法能被调用吗.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "那被锁住的类中的其他静态方法能被调用吗"
+              "title": "显示锁"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,9 +196,17 @@
   },
   "active": "7ac708c8238bbbc2",
   "lastOpenFiles": [
+    "spring boot/java学习/基础知识/多线程/练习题/参考答案.md",
+    "spring boot/java学习/基础知识/多线程/练习题/练习题.md",
+    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
+    "spring boot/java学习/基础知识/多线程/练习题",
+    "spring boot/java学习/基础知识/多线程/概念解释/显示锁.md",
+    "spring boot/java学习/基础知识/多线程/概念解释/锁中断/thread.interrupt();假如线程已经拿到了锁，还会中断吗.md",
+    "spring boot/java学习/基础知识/多线程/概念解释/锁中断/锁中断.md",
+    "spring boot/java学习/基础知识/多线程/概念解释/锁中断",
+    "spring boot/java学习/基础知识/多线程/概念解释/公平锁，非公平锁.md",
     "spring boot/java学习/基础知识/多线程/疑问/那被锁住的类中的其他静态方法能被调用吗.md",
     "spring boot/java学习/基础知识/多线程/疑问/锁方法.md",
-    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/多线程/疑问/那在实例和静态方法上放synchronized修饰符锁的是什么？.md",
     "spring boot/java学习/基础知识/多线程/概念解释/线程怎么拿到锁？.md",
     "spring boot/java学习/基础知识/多线程/概念解释/什么叫锁？.md",
@@ -263,18 +228,10 @@
     "spring boot/java学习/基础知识/多线程",
     "spring boot/java学习/Project/greedy_snake/出现问题.md",
     "vue学习/javascript/DOM/DOM基本操作/事件监听/事件冒泡和捕获通俗解释.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整样式/调整样式的常用操作和例子.md",
-    "vue学习/javascript/DOM/DOM基本操作/调整内容/知识点和例子.md",
     "spring boot/java学习/Project/greedy_snake/java编译命令行‘",
-    "spring boot/java学习/Project/greedy_snake/蛇身移动逻辑.md",
-    "spring boot/java学习/Project/greedy_snake/实现步骤.md",
-    "vue学习/bilibili首页制作/如何在这个img标签之上再设置一个div,显示在图片之上？.md",
     "spring boot/java学习/Project/greedy_snake",
-    "spring boot/java学习/Project/未命名.md",
     "spring boot/java学习/Project",
     "spring boot/java学习/基础知识",
-    "vue学习/bilibili首页制作",
-    "vue学习/html和css/css/实用场景",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
