@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/练习题/练习题2/参考答案.md",
+                "file": "spring boot/java学习/Project/工厂模式例子/参考答案.md",
                 "mode": "preview",
                 "source": false
               },
@@ -197,8 +197,11 @@
   },
   "active": "ab65e90efa0a8f18",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/多线程/练习题/练习题2/题目.md",
+    "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
+    "spring boot/java学习/Project/工厂模式例子/参考答案.md",
     "spring boot/java学习/基础知识/多线程/练习题/练习题2/参考答案.md",
+    "spring boot/java学习/Project/工厂模式例子",
+    "spring boot/java学习/基础知识/多线程/练习题/练习题2/题目.md",
     "spring boot/java学习/基础知识/多线程/练习题/练习题1/参考答案.md",
     "spring boot/java学习/基础知识/多线程/练习题/练习题2",
     "spring boot/java学习/基础知识/多线程/练习题/练习题1",
@@ -227,12 +230,9 @@
     "spring boot/java学习/基础知识/多线程/疑问",
     "spring boot/java学习/基础知识/多线程/概念解释/我看到Runnable可直接作为Thread构造方法的参数，Callable不可以吗？.md",
     "spring boot/java学习/基础知识/多线程/代码解释/Callable示例代码解释.md",
-    "spring boot/java学习/基础知识/多线程/概念解释/线程就是Runnable接口，Callable接口和Thread接口的实现吗.md",
-    "spring boot/java学习/基础知识/多线程/概念解释/名词2.md",
     "spring boot/java学习/基础知识/多线程/概念解释",
     "spring boot/java学习/基础知识/多线程/代码解释",
     "spring boot/java学习/基础知识/多线程",
-    "spring boot/java学习/Project/greedy_snake/java编译命令行‘",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
