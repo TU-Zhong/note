@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebae3060bc276b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/基础知识/正则表达式/分析例子/非捕获组和点字面量是什么意思？.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "非捕获组和点字面量是什么意思？"
-            }
-          },
-          {
             "id": "f4a427182da8a922",
             "type": "leaf",
             "state": {
@@ -34,8 +20,23 @@
               "icon": "lucide-file",
               "title": "知识点和例子"
             }
+          },
+          {
+            "id": "1b6345c294ab180f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matcher的常用方法"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebae3060bc276b0b",
+  "active": "1b6345c294ab180f",
   "lastOpenFiles": [
     "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2/代码.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/代码.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1",
     "spring boot/java学习/基础知识/正则表达式/分析例子/非捕获组和点字面量是什么意思？.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/分析例子.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/捕获组有什么用？.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/正则表达式分析.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子",
     "spring boot/java学习/基础知识/正则表达式/分析例子",
     "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
     "spring boot/java学习/Project/工厂模式例子/参考答案.md",
@@ -221,17 +229,10 @@
     "spring boot/java学习/基础知识/多线程/练习题",
     "spring boot/java学习/基础知识/多线程/概念解释/锁中断/thread.interrupt();假如线程已经拿到了锁，还会中断吗.md",
     "spring boot/java学习/基础知识/多线程/概念解释/锁中断/锁中断.md",
-    "spring boot/java学习/基础知识/多线程/概念解释/锁中断",
     "spring boot/java学习/基础知识/多线程/概念解释/公平锁，非公平锁.md",
     "spring boot/java学习/基础知识/多线程/疑问/那被锁住的类中的其他静态方法能被调用吗.md",
     "spring boot/java学习/基础知识/多线程/疑问/锁方法.md",
     "spring boot/java学习/基础知识/多线程/疑问/那在实例和静态方法上放synchronized修饰符锁的是什么？.md",
-    "spring boot/java学习/基础知识/多线程/概念解释/线程怎么拿到锁？.md",
-    "spring boot/java学习/基础知识/多线程/概念解释/什么叫锁？.md",
-    "spring boot/java学习/基础知识/多线程/疑问/锁住类这不是没有在类上加synchronized关键字吗问什么叫锁住类.md",
-    "spring boot/java学习/基础知识/多线程/疑问/synchronized关键字一般用在哪儿？我看到它可以作为方法修饰符，又可以包含代码块？.md",
-    "spring boot/java学习/基础知识/多线程/疑问",
-    "spring boot/java学习/基础知识/多线程/概念解释",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
