@@ -35,8 +35,7 @@
               "title": "Matcher的常用方法"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b6345c294ab180f",
+  "active": "f4a427182da8a922",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2/代码.md",
+    "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
+    "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/代码.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1",
