@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
-                "mode": "preview",
+                "file": "spring boot/方法论/springboot学习过程.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "使用正则表达式批量查找，替换文本"
+              "title": "springboot学习过程"
             }
           }
         ],
@@ -197,11 +197,15 @@
   },
   "active": "7a5da25354e90a7c",
   "lastOpenFiles": [
-    "gitee使用指南/git操作.md",
+    "spring boot/方法论/核心素养.md",
+    "spring boot/方法论/springboot学习过程.md",
+    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
+    "spring boot/java学习/基础知识/正则表达式/小项目/知识点/JFileChooser fc=new JFileChooser();         if (fc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION) {给我解释一下这段是干什么的.md",
+    "spring boot/java学习/基础知识/正则表达式/小项目/知识点",
+    "gitee使用指南/git操作.md",
     "spring boot/java学习/基础知识/正则表达式/小项目",
     "spring boot/idea快捷键.md",
-    "spring boot/方法论/核心素养.md",
     "spring boot/方法论/未命名.md",
     "spring boot/方法论",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/这个Box.createHorizontalGlue()也在1,0位置，输入框也在1,0位置，怎么就看到了输入框？这个box没有感觉到存在哪怕空白也没有？.md",
@@ -228,11 +232,7 @@
     "spring boot/java学习/基础知识/gui/JFrame/布局",
     "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
     "spring boot/java学习/Project/练习2/参考答案.md",
-    "spring boot/java学习/基础知识/gui/JFrame",
     "spring boot/java学习/Project/练习2/未命名.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2/代码.md",
-    "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/代码.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
