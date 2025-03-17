@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "3a1d2e364e01f2a0",
+            "id": "7a5da25354e90a7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/gui/JFrame/布局/布局.md",
+                "file": "spring boot/idea快捷键.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "布局"
+              "title": "idea快捷键"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95952c093c6ae097",
+  "active": "7a5da25354e90a7c",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/panel.add(Box.createHorizontalGlue(),gbc);Box类在add方法内有什么常用用法？各有什么用？.md",
+    "spring boot/方法论/核心素养.md",
+    "spring boot/方法论/未命名.md",
+    "spring boot/方法论",
+    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/这个Box.createHorizontalGlue()也在1,0位置，输入框也在1,0位置，怎么就看到了输入框？这个box没有感觉到存在哪怕空白也没有？.md",
+    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/例子.md",
     "spring boot/java学习/基础知识/gui/JFrame/核心知识点和例子.md",
+    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/panel.add(Box.createHorizontalGlue(),gbc);Box类在add方法内有什么常用用法？各有什么用？.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/布局.md",
     "spring boot/java学习/基础知识/gui/JFrame/概念/一般组件是怎么设置布局的？一共有哪些常用的设置布局的方法？这些布局有哪些常用的参数设置？一一详细解答.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/例子.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/GridBagConstraints这个是什么意思？.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/傻子解释.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/如何知道组件的坐标.md",
@@ -223,15 +228,11 @@
     "spring boot/java学习/基础知识/gui/JFrame",
     "spring boot/java学习/基础知识/gui",
     "spring boot/java学习/Project/练习2/未命名.md",
-    "spring boot/java学习/Project/练习2",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2/代码.md",
     "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/代码.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/非捕获组和点字面量是什么意思？.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/分析例子.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/捕获组有什么用？.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/正则表达式分析.md",
-    "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
