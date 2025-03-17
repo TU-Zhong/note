@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/idea快捷键.md",
-                "mode": "source",
+                "file": "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "idea快捷键"
+              "title": "使用正则表达式批量查找，替换文本"
             }
           }
         ],
@@ -197,6 +197,10 @@
   },
   "active": "7a5da25354e90a7c",
   "lastOpenFiles": [
+    "gitee使用指南/git操作.md",
+    "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
+    "spring boot/java学习/基础知识/正则表达式/小项目",
+    "spring boot/idea快捷键.md",
     "spring boot/方法论/核心素养.md",
     "spring boot/方法论/未命名.md",
     "spring boot/方法论",
@@ -212,7 +216,6 @@
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/为什么我这里都设置了GridBagConstraints.EAST那个JLabel还在中间不在右边？.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout",
-    "spring boot/idea快捷键.md",
     "spring boot/java学习/基础知识/gui/JFrame/组件有哪些常用的通用方法？比如setBorser这种设置边框的.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut/示例.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut",
@@ -226,13 +229,10 @@
     "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
     "spring boot/java学习/Project/练习2/参考答案.md",
     "spring boot/java学习/基础知识/gui/JFrame",
-    "spring boot/java学习/基础知识/gui",
     "spring boot/java学习/Project/练习2/未命名.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子2/代码.md",
     "spring boot/java学习/基础知识/正则表达式/知识点和例子.md",
     "spring boot/java学习/基础知识/正则表达式/分析例子/简单例子/例子1/代码.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/非捕获组和点字面量是什么意思？.md",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/分析例子.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
