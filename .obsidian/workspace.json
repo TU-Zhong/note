@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/方法论/springboot学习过程.md",
+                "file": "spring boot/注解/@ConfigurationProperties.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "springboot学习过程"
+              "title": "@ConfigurationProperties"
+            }
+          },
+          {
+            "id": "a8cbd926156ad37d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/java学习/基础知识/接口/知识点和例子.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识点和例子"
+            }
+          },
+          {
+            "id": "bb253d6621d0f207",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/POST Text Body,POST Parameters Body,POST Form with a Text Field,POST Form with a File Field,这些是什么？.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POST Text Body,POST Parameters Body,POST Form with a Text Field,POST Form with a File Field,这些是什么？"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -195,44 +223,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a5da25354e90a7c",
+  "active": "bb253d6621d0f207",
   "lastOpenFiles": [
-    "spring boot/方法论/核心素养.md",
+    "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/json是什么.md",
+    "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/public Result register(String username,String password){为什么我这里没用@RequestParam注解也可以接受x-www-form-urlencoded的数据？.md",
+    "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单",
+    "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/POST Text Body,POST Parameters Body,POST Form with a Text Field,POST Form with a File Field,这些是什么？.md",
+    "spring boot/java学习/基础知识/接口/疑难杂症/默认方法，静态方法，私有方法，抽象方法各自有什么特征？编写的时候有什么注意事项？各方法具体用在什么时候？.md",
+    "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null",
+    "spring boot/java学习/基础知识/接口/知识点和例子.md",
+    "spring boot/java学习/基础知识/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
+    "spring boot/java学习/基础知识/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
+    "spring boot/小项目/大事件接口文档.md",
+    "spring boot/小项目",
+    "spring boot/问题清单/2025_3_18.md",
+    "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
+    "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
+    "spring boot/maven/安装第三方库疑难杂症/地址有空格.md",
+    "spring boot/概念辨析/当某个接口（如 UserService）有且仅有一个实现类（如 UserServiceImpl）时，Spring Boot 会 自动将该实现类绑定到接口。.md",
+    "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
+    "spring boot/注解/@ConfigurationProperties.md",
+    "spring boot/注解/总览.md",
+    "spring boot/概念辨析/服务层，mapper和实体类.md",
+    "spring boot/注解/@Bean.md",
+    "spring boot/注解/@Component.md",
     "spring boot/方法论/springboot学习过程.md",
+    "spring boot/方法论/核心素养.md",
     "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/知识点/JFileChooser fc=new JFileChooser();         if (fc.showOpenDialog(this) == JFileChooser.APPROVE_OPTION) {给我解释一下这段是干什么的.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/知识点",
     "gitee使用指南/git操作.md",
     "spring boot/java学习/基础知识/正则表达式/小项目",
-    "spring boot/idea快捷键.md",
-    "spring boot/方法论/未命名.md",
     "spring boot/方法论",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/这个Box.createHorizontalGlue()也在1,0位置，输入框也在1,0位置，怎么就看到了输入框？这个box没有感觉到存在哪怕空白也没有？.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/例子.md",
-    "spring boot/java学习/基础知识/gui/JFrame/核心知识点和例子.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/panel.add(Box.createHorizontalGlue(),gbc);Box类在add方法内有什么常用用法？各有什么用？.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/布局.md",
-    "spring boot/java学习/基础知识/gui/JFrame/概念/一般组件是怎么设置布局的？一共有哪些常用的设置布局的方法？这些布局有哪些常用的参数设置？一一详细解答.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/GridBagConstraints这个是什么意思？.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/傻子解释.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/如何知道组件的坐标.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问/为什么我这里都设置了GridBagConstraints.EAST那个JLabel还在中间不在右边？.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问",
     "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout",
-    "spring boot/java学习/基础知识/gui/JFrame/组件有哪些常用的通用方法？比如setBorser这种设置边框的.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut/示例.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/borderLayout/示例.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/JPanel/Jpanel是什么.md",
     "spring boot/java学习/基础知识/gui/JFrame/布局/JPanel",
-    "spring boot/java学习/基础知识/gui/JFrame/概念/setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);方法的几个参数分别有什么用？.md",
-    "spring boot/java学习/基础知识/gui/JFrame/概念",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/borderLayout",
-    "spring boot/java学习/基础知识/gui/JFrame/布局",
-    "spring boot/java学习/基础知识/正则表达式/分析例子/Matcher的常用方法.md",
-    "spring boot/java学习/Project/练习2/参考答案.md",
-    "spring boot/java学习/Project/练习2/未命名.md",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
