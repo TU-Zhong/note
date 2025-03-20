@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/注解/总览.md",
+                "file": "spring boot/java学习/基础知识/多线程/知识点和例子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "总览"
+              "title": "知识点和例子"
+            }
+          },
+          {
+            "id": "666b25a619bb5145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/方法论/springboot学习过程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "springboot学习过程"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,12 +195,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b87a66fdcddbbefe",
+  "active": "666b25a619bb5145",
   "lastOpenFiles": [
-    "spring boot/注解/@ExceptionHandler.md",
-    "spring boot/注解/总览.md",
-    "spring boot/概念辨析/全局异常处理.md",
+    "spring boot/方法论/未命名.md",
+    "spring boot/方法论/核心素养.md",
+    "spring boot/重大bug调试过程/bug4：一直401/一直返回401，未授权。.md",
+    "spring boot/java学习/基础知识/多线程/疑问/给我解释一下ThreadLocal的get和set方法.md",
+    "spring boot/重大bug调试过程/bug4：一直401",
+    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
+    "spring boot/java学习/基础知识/多线程/疑问/使用傻子也能听懂的话告诉我ThreadLocal是什么，和exutorService线程池有什么区别？.md",
+    "spring boot/问题清单/三月/2025_3_20.md",
+    "spring boot/问题清单/二月/2025_2_22.md",
+    "spring boot/问题清单/二月",
+    "spring boot/问题清单/三月",
+    "spring boot/概念辨析/拦截器/拦截器解释.md",
+    "spring boot/概念辨析/拦截器/通俗解释.md",
     "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/POST Text Body,POST Parameters Body,POST Form with a Text Field,POST Form with a File Field,这些是什么？.md",
+    "spring boot/概念辨析/拦截器",
+    "spring boot/注解/总览.md",
+    "spring boot/注解/@ExceptionHandler.md",
+    "spring boot/概念辨析/全局异常处理.md",
     "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/public Result register(String username,String password){为什么我这里没用@RequestParam注解也可以接受x-www-form-urlencoded的数据？.md",
     "spring boot/java学习/基础知识/gui/JFrame/核心知识点和例子.md",
     "spring boot/注解/@ConfigurationProperties.md",
@@ -198,26 +227,12 @@
     "spring boot/java学习/基础知识/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
     "spring boot/小项目/大事件接口文档.md",
     "spring boot/小项目",
-    "spring boot/问题清单/2025_3_18.md",
+    "spring boot/问题清单/三月/2025_3_18.md",
     "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
     "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
-    "spring boot/maven/安装第三方库疑难杂症/地址有空格.md",
-    "spring boot/概念辨析/当某个接口（如 UserService）有且仅有一个实现类（如 UserServiceImpl）时，Spring Boot 会 自动将该实现类绑定到接口。.md",
-    "spring boot/注解/注解中的问题/@ConfigurationProperties的嵌套对象.md",
-    "spring boot/概念辨析/服务层，mapper和实体类.md",
-    "spring boot/注解/@Bean.md",
-    "spring boot/注解/@Component.md",
-    "spring boot/方法论/springboot学习过程.md",
-    "spring boot/方法论/核心素养.md",
-    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
-    "spring boot/java学习/基础知识/正则表达式/小项目/使用正则表达式批量查找，替换文本.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/知识点",
     "spring boot/java学习/基础知识/正则表达式/小项目",
     "spring boot/方法论",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/疑问",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/JPanel",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
