@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/方法论/springboot学习过程.md",
+                "file": "spring boot/问题清单/三月/2025_3_22very_important.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "springboot学习过程"
+              "title": "2025_3_22very_important"
             }
           }
         ],
@@ -197,6 +197,15 @@
   },
   "active": "666b25a619bb5145",
   "lastOpenFiles": [
+    "spring boot/java学习/基础知识/gui/方法论/别傻乎乎的去一行一行代码敲，很莽.md",
+    "spring boot/问题清单/三月/2025_3_22very_important.md",
+    "想说的话/未命名.md",
+    "spring boot/java学习/基础知识/gui/方法论",
+    "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut/示例.md",
+    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/傻子解释.md",
+    "spring boot/小项目/贪吃蛇大作战/技术.md",
+    "spring boot/方法论/springboot学习过程.md",
+    "spring boot/小项目/贪吃蛇大作战",
     "spring boot/方法论/未命名.md",
     "spring boot/方法论/核心素养.md",
     "spring boot/重大bug调试过程/bug4：一直401/一直返回401，未授权。.md",
@@ -221,18 +230,9 @@
     "spring boot/java学习/基础知识/接口/知识点和例子.md",
     "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单/json是什么.md",
     "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null/问题清单",
-    "spring boot/java学习/基础知识/接口/疑难杂症/默认方法，静态方法，私有方法，抽象方法各自有什么特征？编写的时候有什么注意事项？各方法具体用在什么时候？.md",
     "spring boot/重大bug调试过程/bug3：数据无法传入方法，一直显示null",
-    "spring boot/java学习/基础知识/泛型/疑难杂症/泛型方法的参数/泛型方法的T一般要加在哪儿？ ？符号一般要加在哪儿？.md",
-    "spring boot/java学习/基础知识/泛型/疑难杂症/泛型方法的参数/有多个参数怎么办.md",
-    "spring boot/小项目/大事件接口文档.md",
     "spring boot/小项目",
-    "spring boot/问题清单/三月/2025_3_18.md",
-    "spring boot/maven/安装第三方库疑难杂症/安装命令.md",
-    "spring boot/maven/安装第三方库疑难杂症/下载地址.md",
     "spring boot/java学习/基础知识/正则表达式/小项目/知识点",
-    "spring boot/java学习/基础知识/正则表达式/小项目",
-    "spring boot/方法论",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
