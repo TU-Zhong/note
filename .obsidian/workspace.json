@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
-                "mode": "preview",
+                "file": "spring boot/java学习/Project/小计算器实现/源码/panel.java   (面板).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右"
+              "title": "panel.java   (面板)"
             }
           },
           {
@@ -209,8 +209,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "666b25a619bb5145",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
+    "spring boot/java学习/Project/小计算器实现/源码/check.md",
+    "spring boot/java学习/Project/小计算器实现/源码/convertToAnswer.md",
+    "spring boot/java学习/Project/小计算器实现/源码/panel.java   (面板).md",
+    "spring boot/java学习/Project/小计算器实现/源码/find.md",
+    "spring boot/java学习/Project/小计算器实现/实现思路.md",
+    "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
+    "spring boot/java学习/Project/小计算器实现/源码",
+    "spring boot/java学习/Project/小计算器实现",
     "spring boot/java学习/Project/工厂模式例子/参考答案.md",
     "spring boot/java学习/Project/练习2/未命名.md",
     "spring boot/java学习/Project/练习2/参考答案.md",
@@ -235,18 +243,9 @@
     "想说的话/未命名.md",
     "spring boot/java学习/基础知识/gui/方法论",
     "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut/示例.md",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/GridBagLayout/傻子解释.md",
-    "spring boot/小项目/贪吃蛇大作战/技术.md",
-    "spring boot/方法论/springboot学习过程.md",
     "spring boot/小项目/贪吃蛇大作战",
-    "spring boot/方法论/未命名.md",
-    "spring boot/方法论/核心素养.md",
-    "spring boot/重大bug调试过程/bug4：一直401/一直返回401，未授权。.md",
-    "spring boot/java学习/基础知识/多线程/疑问/给我解释一下ThreadLocal的get和set方法.md",
     "spring boot/重大bug调试过程/bug4：一直401",
     "spring boot/问题清单/二月",
-    "spring boot/问题清单/三月",
-    "spring boot/概念辨析/拦截器",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
