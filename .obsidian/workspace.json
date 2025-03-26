@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/Project/小计算器实现/源码/panel.java   (面板).md",
-                "mode": "source",
+                "file": "spring boot/java学习/Project/小计算器实现/实现思路.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "panel.java   (面板)"
+              "title": "实现思路"
             }
           },
           {
@@ -209,13 +209,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d54577b2263ad327",
+  "active": "666b25a619bb5145",
   "lastOpenFiles": [
+    "spring boot/java学习/Project/小计算器实现/源码/panel.java   (面板).md",
+    "spring boot/java学习/Project/小计算器实现/逆波兰表达式进行计算的思路和例子.md",
+    "spring boot/java学习/Project/小计算器实现/实现思路.md",
+    "spring boot/java学习/Project/小计算器实现/逆波兰表达式的规则.md",
+    "spring boot/java学习/Project/小计算器实现/源码/find.md",
     "spring boot/java学习/Project/小计算器实现/源码/check.md",
     "spring boot/java学习/Project/小计算器实现/源码/convertToAnswer.md",
-    "spring boot/java学习/Project/小计算器实现/源码/panel.java   (面板).md",
-    "spring boot/java学习/Project/小计算器实现/源码/find.md",
-    "spring boot/java学习/Project/小计算器实现/实现思路.md",
     "spring boot/java学习/Project/工厂模式例子/给我出一个java中应用工厂设计模式的题目，不要用到第三方库和框架。300行左右.md",
     "spring boot/java学习/Project/小计算器实现/源码",
     "spring boot/java学习/Project/小计算器实现",
@@ -242,7 +244,6 @@
     "spring boot/java学习/基础知识/gui/方法论/别傻乎乎的去一行一行代码敲，很莽.md",
     "想说的话/未命名.md",
     "spring boot/java学习/基础知识/gui/方法论",
-    "spring boot/java学习/基础知识/gui/JFrame/布局/FlowLayOut/示例.md",
     "spring boot/小项目/贪吃蛇大作战",
     "spring boot/重大bug调试过程/bug4：一直401",
     "spring boot/问题清单/二月",
