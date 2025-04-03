@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/vue/Vue3/基础语法/属性绑定命令/基础语法.md",
+                "file": "vue学习/vue/Vue3/基础语法/属性绑定命令/给我列出属性绑定命令 v-bind指令的常用知识点和例子，包括绑定样式，使用对象语法绑定样式，直接绑定内联样式，使用三目运算符绑定样式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基础语法"
+              "title": "给我列出属性绑定命令 v-bind指令的常用知识点和例子，包括绑定样式，使用对象语法绑定样式，直接绑定内联样式，使用三目运算符绑定样式"
             }
           },
           {
@@ -196,11 +196,14 @@
   },
   "active": "8919d58a0be028b7",
   "lastOpenFiles": [
+    "vue学习/vue/Vue3/基础语法/属性绑定命令/基础语法.md",
     "vue学习/vue/Vue3/基础语法/属性绑定命令/给我列出属性绑定命令 v-bind指令的常用知识点和例子，包括绑定样式，使用对象语法绑定样式，直接绑定内联样式，使用三目运算符绑定样式.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表/flex布局和grid布局两种布局的对应属性列表.md",
+    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/grid-template-rows.md",
+    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
+    "vue学习/vue/Vue3/基础语法/属性绑定命令/属性绑定和文本渲染的区别.md",
     "vue学习/vue/Vue3/基础语法/文本插值/基础知识点.md",
     "vue学习/vue/Vue3/报错/bug3.md",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/属性绑定和文本渲染的区别.md",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/基础语法.md",
     "vue学习/vue/Vue3/基础语法/文本插值/文本渲染命令.md",
     "vue学习/vue/Vue3/基础语法/属性绑定命令",
     "vue学习/vue/Vue3/基础语法/基础语法.md",
@@ -226,9 +229,6 @@
     "spring boot/苍穹外卖/问题/软编码.md",
     "spring boot/苍穹外卖/问题/接口设计.md",
     "spring boot/苍穹外卖/问题/swagger.md",
-    "spring boot/苍穹外卖/问题/日志输出，代码调试.md",
-    "spring boot/苍穹外卖/问题/ngix反向代理.md",
-    "spring boot/苍穹外卖/问题/第一个，版本问题.md",
     "spring boot/苍穹外卖/问题",
     "spring boot/苍穹外卖/总体",
     "spring boot/苍穹外卖",

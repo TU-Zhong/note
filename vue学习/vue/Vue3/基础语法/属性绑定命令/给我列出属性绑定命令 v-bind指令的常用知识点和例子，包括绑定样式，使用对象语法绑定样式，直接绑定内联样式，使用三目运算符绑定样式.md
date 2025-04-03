@@ -17,6 +17,8 @@
 ### 二、样式绑定专题
 #### **1. 绑定 class**
 **对象语法**（根据条件切换类名）：
+<mark style="background: #FFF3A3A6;">示例：</mark>
+[[bug3]]
 ```html
 <div :class="{ active: isActive, 'text-danger': hasError }"></div>
 ```
@@ -36,6 +38,9 @@ data() {
 ```
 
 ---
+<mark style="background: #FFF3A3A6;">冒号作用：</mark>
+[[{active： isActive,Erroroo：isError}]]
+
 
 #### **2. 绑定内联样式**
 **对象语法**（推荐）：
