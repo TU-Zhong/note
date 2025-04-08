@@ -6,7 +6,7 @@
 
 ### 一、核心概念解析
 
-#### 1. 默认行为（浅层监听）
+#### 1. <mark style="background: #FFF3A3A6;">默认行为（浅层监听）</mark>
 ```javascript
 watch(obj, (newVal) => {
   console.log('对象变化', newVal)

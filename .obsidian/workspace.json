@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/vue/Vue3/基础语法/setup/问题.md",
+                "file": "vue学习/vue/Vue3/基础语法/watch/问题/给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "问题"
+              "title": "给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？"
             }
           },
           {
@@ -197,9 +197,12 @@
   "active": "8919d58a0be028b7",
   "lastOpenFiles": [
     "vue学习/vue/Vue3/基础语法/watch/问题/watch里面的深度监视是什么意思？.md",
+    "vue学习/vue/Vue3/基础语法/watch/详细知识点和例子.md",
+    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/易错点 第一个参数传入对象时不同的传入方法.md",
     "vue学习/vue/Vue3/基础语法/setup/问题.md",
     "vue学习/vue/Vue3/基础语法/响应式数据/问题1/这个stopWatch调用的是什么？是自己吗？但是stopWatch不是要watch(sum,..)这个赋值吗？怎么调用的？.md",
-    "vue学习/vue/Vue3/基础语法/watch/问题/给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？.md",
     "vue学习/vue/Vue3/基础语法/watch/问题",
     "vue学习/vue/Vue3/基础语法/watch",
     "vue学习/vue/Vue3/基础语法/响应式数据/问题1/给我说说这个触发依赖收集和更新派发，给出一个清晰的例子并进行分析.md",
@@ -212,7 +215,6 @@
     "vue学习/typescript学习/基础语法/类/接口知识点和例子.md",
     "vue学习/typescript学习/基础语法/类/详细知识点/函数式接口.md",
     "vue学习/vue/Vue3/基础语法/属性绑定命令/基础语法.md",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
     "vue学习/vue/Vue3/export关键字/export default {   name：'Person', }给我解释一下这个name是干什么的，export default又是干什么的.md",
     "vue学习/vue/Vue3/基础语法/setup",
     "vue学习/vue/Vue3/export关键字/这个语句中 是怎么规定使用的？在导出的模块中根本没有这个东西.md",
@@ -228,9 +230,7 @@
     "vue学习/vue/Vue3/基础语法/属性绑定命令/属性绑定和文本渲染的区别.md",
     "vue学习/vue/Vue3/基础语法/文本插值/基础知识点.md",
     "vue学习/vue/Vue3/报错/bug3.md",
-    "vue学习/vue/Vue3/基础语法/文本插值/文本渲染命令.md",
     "vue学习/vue/Vue3/基础语法/属性绑定命令",
-    "vue学习/vue/Vue3/基础语法/基础语法.md",
     "vue学习/vue/Vue3/报错/bug2",
     "未命名.canvas",
     "未命名 2.canvas",

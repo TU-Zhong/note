@@ -7,7 +7,12 @@ stopWatch();
 })
 ```
 
+思路:
+涉及到后面的闭包概念
 
+1.  <mark style="background: #FFF3A3A6;">首先 `const stopWatch = watch(sum, callback)`  stopWatch就已经是停止函数了</mark>
+2. <mark style="background: #FFF3A3A6;">watch监听第一个参数，sum一旦变化就会调用callback里面的逻辑</mark>
+3. <mark style="background: #FFF3A3A6;">然后一旦符合if里面的条件，就直接调用停止函数（stopWatch）,终止监听过程</mark>
 
 以下是关于 `watch` 停止监听机制的详细解析：
 
