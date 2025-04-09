@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vue学习/vue/Vue3/基础语法/watch/问题/给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？.md",
+                "file": "vue学习/vue/Vue3/基础语法/watch/问题/watchEffect/怎么决定监视函数内的哪些值.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？"
+              "title": "怎么决定监视函数内的哪些值"
             }
           },
           {
@@ -196,12 +196,17 @@
   },
   "active": "8919d58a0be028b7",
   "lastOpenFiles": [
-    "vue学习/vue/Vue3/基础语法/watch/问题/watch里面的深度监视是什么意思？.md",
-    "vue学习/vue/Vue3/基础语法/watch/详细知识点和例子.md",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/watchEffect/知识点和例子.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/watchEffect/怎么决定监视函数内的哪些值.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/watchEffect",
+    "vue学习/vue/Vue3/基础语法/给我列出这个createApp({  })里面具体要写什么内容，并给出例子.md",
     "vue学习/vue/Vue3/基础语法/watch/问题/给我说说为什么可以自己调用自己，stopWatch明明什么都没写为什么newSum到了10之后这个函数就停下来了？.md",
+    "vue学习/vue/Vue3/基础语法/watch/问题/watch里面的深度监视是什么意思？.md",
     "vue学习/vue/Vue3/基础语法/watch/问题/易错点 第一个参数传入对象时不同的传入方法.md",
+    "vue学习/vue/Vue3/基础语法/watch/认识.md",
+    "vue学习/vue/Vue3/基础语法/watch/详细知识点和例子.md",
     "vue学习/vue/Vue3/基础语法/setup/问题.md",
+    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
     "vue学习/vue/Vue3/基础语法/响应式数据/问题1/这个stopWatch调用的是什么？是自己吗？但是stopWatch不是要watch(sum,..)这个赋值吗？怎么调用的？.md",
     "vue学习/vue/Vue3/基础语法/watch/问题",
     "vue学习/vue/Vue3/基础语法/watch",
@@ -226,12 +231,7 @@
     "vue学习/vue/Vue3/基础语法/属性绑定命令/给我列出属性绑定命令 v-bind指令的常用知识点和例子，包括绑定样式，使用对象语法绑定样式，直接绑定内联样式，使用三目运算符绑定样式.md",
     "vue学习/vue/Vue3/基础语法/事件处理指令",
     "vue学习/html和css/css/div属性常用值/属性疑惑大全/flex布局和grid布局两种布局的对应属性列表/flex布局和grid布局两种布局的对应属性列表.md",
-    "vue学习/html和css/css/div属性常用值/属性疑惑大全/grid属性值/grid-template-columns/grid-template-rows.md",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/属性绑定和文本渲染的区别.md",
-    "vue学习/vue/Vue3/基础语法/文本插值/基础知识点.md",
-    "vue学习/vue/Vue3/报错/bug3.md",
     "vue学习/vue/Vue3/基础语法/属性绑定命令",
-    "vue学习/vue/Vue3/报错/bug2",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
