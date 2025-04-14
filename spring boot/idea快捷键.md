@@ -3,7 +3,10 @@
 学会使用这些快捷键，可以将手指尽量多的留在键盘上，避免手指在鼠标和键盘间来回切换，以提高开发效率。
 
  
+快速定位当前文件到文件夹，快捷键需要自己设置
+在FIle->settings->keymap 查找 select in project view 设置快捷键，自己设置的alt+:(冒号)
 
+快速创建新文件：光标移动到要创建新文件的文件夹，然后按alt+insert
  
 
 1、<mark style="background: #FFF3A3A6;">进入/返回方法快捷键</mark>
