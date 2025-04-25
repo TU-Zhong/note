@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/苍穹外卖/问题清单/2025_4_24.md",
+                "file": "数字马力笔试准备/java/java  IO/代码解释/代码解释.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025_4_24"
+              "title": "代码解释"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +182,32 @@
   },
   "active": "d54577b2263ad327",
   "lastOpenFiles": [
+    "数字马力笔试准备/java/java  IO/代码解释",
+    "数字马力笔试准备/java/java  IO/常见用法.md",
+    "数字马力笔试准备/java/java  IO/代码解释/代码解释.md",
+    "数字马力笔试准备/java/java  IO/傻子解释.md",
+    "数字马力笔试准备/java/语法问题/str引用拷贝等.md",
+    "数字马力笔试准备/java/语法问题/文件读取，更改.md",
+    "数字马力笔试准备/未命名.md",
+    "数字马力笔试准备/java/java  IO",
+    "数字马力笔试准备/需要具备的知识.md",
+    "数字马力笔试准备/java/2025_4_25.md",
+    "数字马力笔试准备/java/语法问题",
+    "spring boot/苍穹外卖/问题清单/2025_4_24.md",
+    "数字马力笔试准备/java",
+    "数字马力笔试准备",
+    "spring boot/java学习/未命名",
+    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/解释@Before.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/切面.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/@annotation注解是干什么的.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/@Target和@Retention.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/不是说jwt加密是不可逆的吗，这个怎么得到原来的claims的.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/代码解释.md",
+    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解",
+    "未命名/面试准备.md",
     "spring boot/苍穹外卖/问题/2025_4_24/BaseContext的threadLocal和当前线程是怎么绑定的.md",
     "spring boot/苍穹外卖/问题/2025_4_24/为什么这里的JwtTokenAdminInterceptor使用BaseContext可以获得id,然后选中代码这里又可以赋值id？BaseContext里面的localThread到底怎么使用的？明明没有调用里面的localThread.md",
-    "spring boot/苍穹外卖/问题清单/2025_4_24.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/不是说jwt加密是不可逆的吗，这个怎么得到原来的claims的.md",
     "spring boot/苍穹外卖/问题/2025_4_24/这个setSigningKey是在哪里设置的？token上吗.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/代码解释.md",
     "spring boot/苍穹外卖/问题/2025_4_24",
     "spring boot/苍穹外卖/问题清单/2025_4_23.md",
     "spring boot/苍穹外卖/问题/2025_4_23/jwt令牌校验这个拦截器什么时候调用，有什么功能.md",
@@ -198,26 +218,6 @@
     "spring boot/java学习/要点/2025_4_21.md",
     "WebRTC视频通信项目文档.md",
     "spring boot/java学习/要点",
-    "WebRTC视频通信项目文档 1.md",
-    "spring boot/java学习/项目知识/类导入.md",
-    "spring boot/java学习/项目知识",
-    "vue学习/vue/Vue3/基础语法/属性绑定命令/{active： isActive,Erroroo：isError}.md",
-    "未命名.md",
-    "spring boot/java学习/基础知识/stream流/例子/例子1/数组排序.md",
-    "spring boot/java学习/基础知识/stream流/例子/例子1/如何使用数组对List进行初始化.md",
-    "spring boot/java学习/基础知识/stream流/例子/例子1/使用.collect(toList())和toList()有什么区别？.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/封装/概念辨析/private,public,default,protected修饰符解析.md",
-    "spring boot/java学习/基础知识/stream流/例子/例子1",
-    "spring boot/java学习/基础知识/stream流/例子",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/多态知识点及例子.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/为什么需要向上转型和向下转型.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/抽象/知识点和相应例子.md",
-    "spring boot/java学习/基础知识/接口/疑难杂症/默认方法，静态方法，私有方法，抽象方法各自有什么特征？编写的时候有什么注意事项？各方法具体用在什么时候？.md",
-    "未命名",
-    "vue学习/typescript学习/刷题语法具体问题/报错",
-    "vue学习/typescript学习/刷题语法具体问题/问题1",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
