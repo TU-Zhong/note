@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字马力笔试准备/java/java NIO/Channel/Channel解释.md",
+                "file": "数字马力笔试准备/java/java NIO/Channel/全代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Channel解释"
+              "title": "全代码"
             }
           }
         ],
@@ -197,7 +197,11 @@
   },
   "active": "d648824cd9f2aca2",
   "lastOpenFiles": [
+    "数字马力笔试准备/java/java NIO/Buffer代码解释.md",
     "数字马力笔试准备/java/java NIO/Buffer代码.md",
+    "数字马力笔试准备/java/java NIO/Channel/创建文件解释.md",
+    "数字马力笔试准备/java/java NIO/Channel/全代码.md",
+    "数字马力笔试准备/java/java NIO/Channel/Channel解释.md",
     "数字马力笔试准备/日期/2025_4_26/java 多线程.md",
     "数字马力笔试准备/日期/2025_4_26/2025_4_26.md",
     "数字马力笔试准备/java/java 多线程/基础知识点/专业术语版.md",
@@ -226,11 +230,7 @@
     "数字马力笔试准备/日期/2025_4_26",
     "数字马力笔试准备/未命名.md",
     "数字马力笔试准备/java/java 多线程",
-    "数字马力笔试准备/需要具备的知识.md",
-    "数字马力笔试准备/操作系统/题目/进程调度/多级反馈队列调度算法.md",
     "数字马力笔试准备/操作系统/题目/进程调度",
-    "数字马力笔试准备/操作系统/题目/可变式分区管理，在内存中形成若干很小的碎片，这是采用什么方法也无法利用的，这样的说法正确吗？.md",
-    "数字马力笔试准备/操作系统/题目/8块600G磁盘分别作RAID 10和RAID 50，整个虚拟盘可用容量分别是？（）.md",
     "数字马力笔试准备/操作系统/题目",
     "数字马力笔试准备/操作系统",
     "未命名.canvas",
