@@ -3,7 +3,13 @@
 （敲黑板）这代码可不得了！咱们拆开来看：
 
 ---
+### **正确用法的优势**
 
+通过 `thenCompose`：
+
+1. **自动拆箱**：<mark style="background: #FFF3A3A6;">将嵌套的 `CompletableFuture` 展开</mark>
+2. **保持链式**：<mark style="background: #FFF3A3A6;">整个流程还是单层的</mark> `CompletableFuture<Order>`
+3. **异常传递**：<mark style="background: #FFF3A3A6;">支付过程中的异常会直接传递到最终future</mark>
 ### **代码结构解析**
 ```java
 .thenCompose(order -> 
@@ -48,125 +54,6 @@
 
 ---
 
-### **执行流程图解**
-```
-[下单任务] → 成功 → order → [支付任务] → 支付结果
-   ｜                   ↗
-   └── 主线程继续执行 ——
-```
 
----
 
-### **内存变化演示**
-假设初始`CompletableFuture<Order>`：
-```java
-CompletableFuture<Order> orderFuture = createOrderAsync();
-```
 
-执行`thenCompose`后变为：
-```java
-CompletableFuture<PaymentResult> paymentFuture = 
-    orderFuture.thenCompose(this::startPayment);
-```
-
----
-
-### **异常处理要点**
-1. 如果下单失败（orderFuture异常），支付流程直接被跳过
-2. 支付过程中的异常会传递到最终future
-3. 典型处理方式：
-```java
-paymentFuture.exceptionally(ex -> {
-    System.out.println("支付失败：" + ex.getMessage());
-    return new PaymentResult(FAIL);
-});
-```
-
----
-
-### **底层原理拆解**
-1. **任务编排**：通过`UniCompose`对象建立依赖关系
-2. **线程切换**：当订单future完成时，支付任务提交到线程池
-3. **结果传递**：通过CAS操作更新支付结果状态
-
-核心代码段（简化版）：
-```java
-public <U> CompletableFuture<U> thenCompose(Function<T, CompletableFuture<U>> fn) {
-    CompletableFuture<U> result = new CompletableFuture<>();
-    whenComplete((t, ex) -> {
-        if (ex != null) {
-            result.completeExceptionally(ex);
-        } else {
-            try {
-                fn.apply(t).whenComplete((u, e) -> {
-                    if (e != null) {
-                        result.completeExceptionally(e);
-                    } else {
-                        result.complete(u);
-                    }
-                });
-            } catch (Throwable e) {
-                result.completeExceptionally(e);
-            }
-        }
-    });
-    return result;
-}
-```
-
----
-
-### **性能优化建议**
-1. **指定线程池**：避免使用公共池
-   ```java
-   .supplyAsync(() -> {...}, paymentThreadPool)
-   ```
-2. **超时控制**：防止支付操作无限挂起
-   ```java
-   .completeOnTimeout(defaultResult, 30, TimeUnit.SECONDS)
-   ```
-3. **上下文传递**：如需传递ThreadLocal变量，需做包装
-   ```java
-   // 使用阿里巴巴TTL组件
-   CompletableFuture.supplyAsync(TtlRunnable.get(() -> {...}))
-   ```
-
----
-
-### **完整使用案例**
-```java
-public CompletableFuture<Void> purchaseFlow() {
-    return createOrderAsync() // 创建订单
-        .thenCompose(order -> 
-            CompletableFuture.supplyAsync(() -> {
-                log.info("开始支付：{}", order.getId());
-                return paymentService.process(order);
-            }, paymentPool))
-        .thenAccept(paymentResult -> {
-            if (paymentResult.success()) {
-                log.info("支付成功");
-            } else {
-                log.warn("支付失败");
-            }
-        });
-}
-
-// 调用方式
-purchaseFlow().whenComplete((v, ex) -> {
-    if (ex != null) {
-        System.out.println("整个流程异常：" + ex);
-    }
-});
-```
-
----
-
-### **常见坑点提醒**
-1. **线程池阻塞**：支付任务中有同步IO操作会卡住线程
-2. **循环嵌套**：在`thenCompose`里又调用包含`thenCompose`的方法
-3. **内存泄漏**：长时间未完成的future没有超时控制
-4. **上下文丢失**：异步切换线程导致ThreadLocal数据丢失
-
----
-
-掌握这个模式，就能像搭积木一样构建复杂的异步流程啦！(๑•̀ㅂ•́)و✧
