@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字马力笔试准备/java/java NIO/Channel/全代码.md",
+                "file": "数字马力笔试准备/操作系统/2025_4_26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全代码"
+              "title": "2025_4_26"
+            }
+          },
+          {
+            "id": "9666c2edaaf5e3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数字马力笔试准备/操作系统/2025_4_26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025_4_26"
             }
           }
         ]
@@ -182,9 +196,17 @@
   },
   "active": "c23e79c5e9520ff3",
   "lastOpenFiles": [
+    "数字马力笔试准备/操作系统/题目/8块600G磁盘分别作RAID 10和RAID 50，整个虚拟盘可用容量分别是？（）.md",
+    "数字马力笔试准备/操作系统/2025_4_26.md",
+    "数字马力笔试准备/操作系统/题目/会导致创建新进程的操作是.md",
+    "数字马力笔试准备/操作系统/题目/PCB包含什么.md",
+    "数字马力笔试准备/操作系统/题目/信号量.md",
+    "数字马力笔试准备/操作系统/题目/多线程中栈与堆是公有的还是私有的（）.md",
+    "数字马力笔试准备/操作系统/题目",
+    "数字马力笔试准备/java/java NIO/Channel/全代码.md",
+    "数字马力笔试准备/操作系统",
     "数字马力笔试准备/java/java NIO/Channel/Channel解释.md",
     "数字马力笔试准备/java/java NIO/Channel/FileChannel.open方法的作用.md",
-    "数字马力笔试准备/java/java NIO/Channel/全代码.md",
     "数字马力笔试准备/java/2025_4_25.md",
     "数字马力笔试准备/java/java NIO/Channel/创建文件解释.md",
     "数字马力笔试准备/java/java  IO/提到java IO会想到什么.md",
@@ -210,14 +232,6 @@
     "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/解释@Before.md",
     "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/切面.md",
     "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/@annotation注解是干什么的.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解/@Target和@Retention.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/不是说jwt加密是不可逆的吗，这个怎么得到原来的claims的.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/代码解释.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/切面和注解",
-    "未命名/面试准备.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/BaseContext的threadLocal和当前线程是怎么绑定的.md",
-    "spring boot/苍穹外卖/问题/2025_4_24/为什么这里的JwtTokenAdminInterceptor使用BaseContext可以获得id,然后选中代码这里又可以赋值id？BaseContext里面的localThread到底怎么使用的？明明没有调用里面的localThread.md",
-    "spring boot/苍穹外卖/问题/2025_4_24",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
