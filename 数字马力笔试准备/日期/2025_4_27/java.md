@@ -6,4 +6,7 @@
 		公平锁，非公平锁 
 		独占锁，共享锁
 	4. ReentrantLock   ReentrantReadWriteLock  [[ReentrantLock   ReentrantReadWriteLock]]
-	5. 什么叫可重入锁
+	5. 什么<mark style="background: #FFF3A3A6;">叫可重入锁</mark>    [[可重入锁]]
+		[[现在说可重入，如果一个函数嵌套了其他函数，且这两个函数都有锁，而且是同一个锁。那么同一时间这个锁归谁？]]
+3. java 包装类，<mark style="background: #FFF3A3A6;">自动装箱，拆箱</mark>
+	
