@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数字马力笔试准备/日期/2025_4_29/redis.md",
+                "file": "数字马力笔试准备/日期/2025_4_29/2025_4_29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redis"
+              "title": "2025_4_29"
             }
           },
           {
@@ -196,6 +196,10 @@
   },
   "active": "d648824cd9f2aca2",
   "lastOpenFiles": [
+    "数字马力笔试准备/日期/2025_4_29/redis.md",
+    "数字马力笔试准备/日期/2025_4_29/2025_4_29.md",
+    "数字马力笔试准备/日期/2025_4_25.md",
+    "数字马力笔试准备/redis操作/给我用傻子也能听懂的话解释stringRedisTemplate和RedisTemplate分别是什么，有什么不同.md",
     "spring boot/重大bug调试过程/bug1：lombok/问题：lombok插件一直无法正确生成代码.md",
     "gitee使用指南/git操作.md",
     "Pasted image 20250428100850.png",
@@ -204,9 +208,7 @@
     "Pasted image 20250428093319.png",
     "Pasted image 20250428093306.png",
     "未命名.canvas",
-    "数字马力笔试准备/日期/2025_4_29/redis.md",
     "spring boot/重大bug调试过程/bug1：lombok/debug过程.md",
-    "数字马力笔试准备/日期/2025_4_29/2025_4_29.md",
     "数字马力笔试准备/日期/2025_4_29",
     "数字马力笔试准备/java/java 多线程/基础知识点/yield和sleep.md",
     "数字马力笔试准备/java/语法问题/父类和子类的加载顺序.md",
@@ -231,7 +233,6 @@
     "数字马力笔试准备/java/语法问题/告诉我java中类里面的成员变量，成员方法，局部变量等一系列组成部分是存放在内存中的哪些位置.md",
     "数字马力笔试准备/日期/2025_4_27/java.md",
     "数字马力笔试准备/操作系统/题目/信号量.md",
-    "数字马力笔试准备/操作系统/题目/同一进程下的线程共享进程的什么资源.md",
     "数字马力笔试准备/日期/2025_4_28",
     "数字马力笔试准备/java/java锁/可重入锁",
     "数字马力笔试准备/java/java锁",
