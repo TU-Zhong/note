@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/未命名.md",
+                "file": "spring boot/redis项目黑马点评/redis使用/不存到session中了，存在redis中，.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "不存到session中了，存在redis中，"
             }
           },
           {
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,10 +211,13 @@
   },
   "active": "a415fc3c69c1be6f",
   "lastOpenFiles": [
+    "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
+    "spring boot/redis项目黑马点评/redis使用/不存到session中了，存在redis中，.md",
+    "spring boot/redis项目黑马点评/项目/短信验证.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/基于逻辑过期方式解决缓存击穿问题.md",
-    "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/未命名.md",
+    "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/分布式 lock和unlock.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名",
-    "spring boot/redis项目黑马点评/springboot注解/@Resource.md",
+    "spring boot/redis项目黑马点评/springboot知识/springboot注解/@Resource.md",
     "Pasted image 20250509151702.png",
     "spring boot/redis项目黑马点评/项目/实现商户缓存查询与数据库双写一致.md",
     "spring boot/redis项目黑马点评/项目/项目.md",
@@ -248,14 +251,11 @@
     "Pasted image 20250505090637.png",
     "Pasted image 20250505084149.png",
     "spring boot/redis项目黑马点评/问题/告诉我当前的redis中的数据删除之后，后续为什么同样的键又更新了？.md",
-    "spring boot/redis项目黑马点评/Mybatis使用/动态sql编写.md",
     "spring boot/redis项目黑马点评/问题",
     "spring boot/redis项目黑马点评/项目/商户缓存查询",
     "spring boot/redis项目黑马点评/项目",
-    "spring boot/redis项目黑马点评/springboot使用经验/JsonUtil.md",
-    "spring boot/redis项目黑马点评/Mybatis使用/未命名.md",
     "spring boot/redis项目黑马点评/redis使用",
-    "spring boot/redis项目黑马点评/springboot使用经验",
+    "spring boot/redis项目黑马点评/springboot知识/springboot使用经验",
     "数字马力笔试准备/操作系统/题目/内存管理",
     "未命名.canvas",
     "未命名 2.canvas",

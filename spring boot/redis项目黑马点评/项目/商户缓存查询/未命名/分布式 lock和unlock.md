@@ -59,7 +59,7 @@ return shop;
 
 }
 ```
-这里的没有显示锁reentrylock也可以使用trylock和unlock方法，为什么？这个trylock(lockKey)锁的是什么？
+<mark style="background: #FFF3A3A6;">这里的没有显示锁reentrylock也可以使用trylock和unlock方法，为什么？这个trylock(lockKey)锁的是什么？</mark>
 
 你观察得很仔细！这里的 `trylock(lockKey)` 和 `unlock(lockKey)` **并不是** Java 标准库 `java.util.concurrent.locks.ReentrantLock` 或其父接口 `Lock` 的直接方法。
 
@@ -102,7 +102,7 @@ return shop;
 
 Java
 
-```
+```java
 // 伪代码，示意分布式锁的简单实现
 // @Autowired // 假设 stringRedisTemplate 已注入
 // private StringRedisTemplate stringRedisTemplate;
