@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/redis项目黑马点评/redis使用/不存到session中了，存在redis中，.md",
+                "file": "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不存到session中了，存在redis中，"
+              "title": "Redis自封装工具类"
             }
           },
           {
@@ -211,8 +211,8 @@
   },
   "active": "a415fc3c69c1be6f",
   "lastOpenFiles": [
-    "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
     "spring boot/redis项目黑马点评/redis使用/不存到session中了，存在redis中，.md",
+    "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
     "spring boot/redis项目黑马点评/项目/短信验证.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/基于逻辑过期方式解决缓存击穿问题.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/分布式 lock和unlock.md",
