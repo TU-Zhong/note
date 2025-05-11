@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "这个association,collection,和discriminator标签分别是什么意思，有什么用？"
             }
+          },
+          {
+            "id": "266a6c78f7f9790c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "discriminator关键字"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,16 +195,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa1cfdf431e75e72",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
-    "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
-    "spring boot/Mybatis/注解和xml如何进行选择.md",
-    "spring boot/Mybatis/查询/映射.md",
+    "spring boot/Mybatis/查询/discriminator",
     "spring boot/Mybatis/查询/参数.md",
+    "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
+    "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
+    "spring boot/Mybatis/查询/结果映射.md",
+    "spring boot/Mybatis/查询/discriminator/discriminator关键字例子.md",
+    "spring boot/Mybatis/计划.md",
+    "spring boot/Mybatis/查询/映射.md",
+    "Pasted image 20250502153709.png",
+    "Pasted image 20250502152346.png",
+    "Pasted image 20250501162326.png",
+    "Pasted image 20250501161745.png",
+    "Pasted image 20250430114610.png",
+    "Pasted image 20250429192125.png",
+    "Pasted image 20250428100850.png",
+    "Pasted image 20250428093333.png",
+    "Pasted image 20250428093319.png",
+    "Pasted image 20250428093306.png",
+    "spring boot/Mybatis/注解和xml如何进行选择.md",
     "spring boot/Mybatis/查询/练习题.md",
     "spring boot/Mybatis/查询/数据库join 关键字.md",
-    "spring boot/Mybatis/查询/结果映射.md",
-    "spring boot/Mybatis/计划.md",
     "spring boot/Mybatis/未命名.md",
     "spring boot/Mybatis/查询",
     "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
@@ -200,7 +228,6 @@
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名/分布式 lock和unlock.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名",
     "spring boot/redis项目黑马点评/springboot知识/springboot注解/@Resource.md",
-    "Pasted image 20250509151702.png",
     "spring boot/redis项目黑马点评/项目/实现商户缓存查询与数据库双写一致.md",
     "spring boot/redis项目黑马点评/项目/项目.md",
     "spring boot/redis项目黑马点评/项目/httpClient编写.md",
@@ -209,21 +236,9 @@
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/例子.md",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/给我说明线程，锁，条件，等待集等概念之间的关系.md",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
-    "spring boot/java学习/基础知识/多线程/未命名.md",
-    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么",
-    "数字马力笔试准备/日期/2025_4_25.md",
-    "Pasted image 20250501162058.png",
-    "Pasted image 20250501162326.png",
-    "Pasted image 20250502080716.png",
     "数字马力笔试准备/日期/2025_5_6/第一天",
     "数字马力笔试准备/日期/2025_5_6",
-    "Pasted image 20250505092637.png",
-    "Pasted image 20250505092139.png",
-    "Pasted image 20250505091937.png",
-    "Pasted image 20250505091221.png",
-    "Pasted image 20250505090637.png",
-    "Pasted image 20250505084149.png",
     "spring boot/redis项目黑马点评/问题",
     "spring boot/redis项目黑马点评/项目/商户缓存查询",
     "spring boot/redis项目黑马点评/项目",

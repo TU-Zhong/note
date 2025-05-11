@@ -1,5 +1,5 @@
 好的，我们来分别详细解释一下 MyBatis 结果映射中的 `<association>`、`<collection>` 和 `<discriminator>` 这三个标签的含义和用途。
-
+[[discriminator关键字例子]]
 这三个标签都是在 `<resultMap>` 元素内部使用的，用于处理更复杂的数据库查询结果到 Java 对象的映射。
 
 ---
