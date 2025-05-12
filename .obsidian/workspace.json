@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
-                "mode": "source",
+                "file": "spring boot/Mybatis/练习/练习题.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "discriminator关键字"
+              "title": "练习题"
             }
           }
         ],
@@ -195,16 +195,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d54577b2263ad327",
+  "active": "266a6c78f7f9790c",
   "lastOpenFiles": [
+    "spring boot/Mybatis/练习/测试/测试类 junit5.md",
+    "spring boot/Mybatis/练习/练习题.md",
+    "spring boot/Mybatis/练习",
+    "spring boot/Mybatis/练习/测试",
+    "gitee使用指南/未命名.md",
+    "gitee使用指南/git操作.md",
+    "spring boot/Mybatis/功能/Mybatis功能.md",
+    "spring boot/Mybatis/查询/映射.md",
+    "spring boot/Mybatis/未命名.md",
+    "spring boot/Mybatis/查询/嵌套查询/嵌套查询 介绍.md",
+    "spring boot/Mybatis/功能",
+    "spring boot/Mybatis/查询/嵌套查询/标签解释.md",
+    "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
+    "spring boot/Mybatis/查询/嵌套查询",
     "spring boot/Mybatis/查询/discriminator",
     "spring boot/Mybatis/查询/参数.md",
-    "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
     "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
     "spring boot/Mybatis/查询/结果映射.md",
     "spring boot/Mybatis/查询/discriminator/discriminator关键字例子.md",
     "spring boot/Mybatis/计划.md",
-    "spring boot/Mybatis/查询/映射.md",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
@@ -218,7 +230,6 @@
     "spring boot/Mybatis/注解和xml如何进行选择.md",
     "spring boot/Mybatis/查询/练习题.md",
     "spring boot/Mybatis/查询/数据库join 关键字.md",
-    "spring boot/Mybatis/未命名.md",
     "spring boot/Mybatis/查询",
     "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
     "spring boot/Mybatis",
@@ -230,19 +241,8 @@
     "spring boot/redis项目黑马点评/springboot知识/springboot注解/@Resource.md",
     "spring boot/redis项目黑马点评/项目/实现商户缓存查询与数据库双写一致.md",
     "spring boot/redis项目黑马点评/项目/项目.md",
-    "spring boot/redis项目黑马点评/项目/httpClient编写.md",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/内部锁.md",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/指定锁的超时获取.md",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/例子.md",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/给我说明线程，锁，条件，等待集等概念之间的关系.md",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么",
     "数字马力笔试准备/日期/2025_5_6/第一天",
-    "数字马力笔试准备/日期/2025_5_6",
-    "spring boot/redis项目黑马点评/问题",
-    "spring boot/redis项目黑马点评/项目/商户缓存查询",
-    "spring boot/redis项目黑马点评/项目",
-    "spring boot/redis项目黑马点评/redis使用",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
