@@ -8,45 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa1cfdf431e75e72",
+            "id": "a492cfb5b2aae7d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
+                "file": "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "这个association,collection,和discriminator标签分别是什么意思，有什么用？"
+              "title": "异步知识点"
             }
           },
           {
-            "id": "266a6c78f7f9790c",
+            "id": "686c1c7d9d1200fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
+                "file": "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java多线程中的临界区是什么意思"
-            }
-          },
-          {
-            "id": "45f3a6e10a039edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/继承基本概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "继承基本概念"
+              "title": "这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗"
             }
           }
         ],
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
+                "file": "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "java多线程中的临界区是什么意思 的大纲"
+              "title": "这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗 的大纲"
             }
           },
           {
@@ -195,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 267.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +195,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "266a6c78f7f9790c",
+  "active": "686c1c7d9d1200fd",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码解释/解释代码.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码解释/thenApply返回了一个承诺，然后呢，如果任务还没有完成这个承诺会怎么样？会继续到下一步吗？这个异步非阻塞到底是个什么东西？.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码例子.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码解释",
+    "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
+    "spring boot/java学习/基础知识/lambda表达式/lambda表达式通俗理解.md",
+    "spring boot/java学习/基础知识/多线程/异步",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/指定锁的超时获取.md",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/给我说明线程，锁，条件，等待集等概念之间的关系.md",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/内部锁.md",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/例子.md",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/锁静态方法和实例方法对其他线程访问该类有什么区别.md",
+    "spring boot/java学习/基础知识/多线程/消费者和生产者案例.md",
     "spring boot/java学习/基础知识/多线程/知识点和例子.md",
-    "spring boot/java学习/基础知识/面向接口编程/面向对象.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/子类构造方法调用流程.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/is-a.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/接口例子.md",
-    "spring boot/java学习/基础知识/面向接口编程/多态/子类构造方法调用流程.md",
+    "spring boot/java学习/基础知识/面向接口编程/面向对象.md",
+    "spring boot/java学习/基础知识/多线程/练习题/练习题2/参考答案.md",
+    "spring boot/java学习/基础知识/多线程/练习题/练习题1/练习题.md",
+    "spring boot/java学习/基础知识/多线程/练习题/练习题1/参考答案.md",
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/抽象类.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/向上转型，向下转型，动态绑定.md",
     "spring boot/java学习/基础知识/java面向对象编程四大特性/抽象/知识点和相应例子.md",
     "spring boot/java学习/基础知识/面向接口编程/多态",
     "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/成员变量的继承注意细节.md",
     "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/方法重写注意细节.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/多态知识点及例子.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/为什么需要向上转型和向下转型.md",
-    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/继承基本概念.md",
-    "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
-    "spring boot/未命名.md",
-    "spring boot/Mybatis/练习/练习题.md",
-    "spring boot/Mybatis/练习/题解.md",
-    "spring boot/Mybatis/练习/分页查询.md",
-    "spring boot/Mybatis/查询特定状态的订单，并按日期排序 题解.md",
-    "spring boot/Mybatis/练习/动态sql.md",
-    "spring boot/Mybatis/注解和xml如何进行选择.md",
-    "spring boot/Mybatis/未命名.md",
     "spring boot/Mybatis/练习",
     "spring boot/Mybatis/练习/测试",
     "spring boot/Mybatis/功能",
@@ -255,8 +243,6 @@
     "Pasted image 20250428093306.png",
     "spring boot/Mybatis/查询",
     "spring boot/Mybatis",
-    "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名",
-    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
