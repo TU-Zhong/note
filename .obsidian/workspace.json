@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/Mybatis/练习/练习题.md",
+                "file": "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "练习题"
+              "title": "java多线程中的临界区是什么意思"
+            }
+          },
+          {
+            "id": "45f3a6e10a039edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/继承基本概念.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "继承基本概念"
             }
           }
         ],
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gitee使用指南/git操作.md",
+                "file": "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git操作 的大纲"
+              "title": "java多线程中的临界区是什么意思 的大纲"
             }
           },
           {
@@ -181,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,32 +211,38 @@
   },
   "active": "266a6c78f7f9790c",
   "lastOpenFiles": [
+    "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/java多线程中的临界区是什么意思.md",
+    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
+    "spring boot/java学习/基础知识/面向接口编程/面向对象.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/is-a.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/接口例子.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/子类构造方法调用流程.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/抽象类.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态/向上转型，向下转型，动态绑定.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/抽象/知识点和相应例子.md",
+    "spring boot/java学习/基础知识/面向接口编程/多态",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/成员变量的继承注意细节.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/方法继承的注意细节.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/注意事项/方法重写注意细节.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型注意事项.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/多态知识点及例子.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/向上转型，向下转型，动态绑定.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/多态/概念辨析/为什么需要向上转型和向下转型.md",
+    "spring boot/java学习/基础知识/java面向对象编程四大特性/继承/继承基本概念.md",
+    "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
+    "spring boot/未命名.md",
+    "spring boot/Mybatis/练习/练习题.md",
     "spring boot/Mybatis/练习/题解.md",
     "spring boot/Mybatis/练习/分页查询.md",
-    "spring boot/Mybatis/练习/练习题.md",
     "spring boot/Mybatis/查询特定状态的订单，并按日期排序 题解.md",
     "spring boot/Mybatis/练习/动态sql.md",
     "spring boot/Mybatis/注解和xml如何进行选择.md",
     "spring boot/Mybatis/未命名.md",
-    "spring boot/Mybatis/计划.md",
-    "spring boot/Mybatis/练习/动态更新订单状态.md",
-    "spring boot/Mybatis/查询/这个association,collection,和discriminator标签分别是什么意思，有什么用？.md",
-    "spring boot/Mybatis/查询/嵌套查询/标签解释.md",
-    "spring boot/Mybatis/查询/嵌套查询/嵌套查询 介绍.md",
-    "spring boot/Mybatis/练习/测试/测试类 junit5.md",
     "spring boot/Mybatis/练习",
     "spring boot/Mybatis/练习/测试",
-    "gitee使用指南/未命名.md",
-    "gitee使用指南/git操作.md",
-    "spring boot/Mybatis/功能/Mybatis功能.md",
-    "spring boot/Mybatis/查询/映射.md",
     "spring boot/Mybatis/功能",
-    "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
     "spring boot/Mybatis/查询/嵌套查询",
     "spring boot/Mybatis/查询/discriminator",
-    "spring boot/Mybatis/查询/参数.md",
-    "spring boot/Mybatis/查询/结果映射.md",
-    "spring boot/Mybatis/查询/discriminator/discriminator关键字例子.md",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
@@ -233,16 +253,10 @@
     "Pasted image 20250428093333.png",
     "Pasted image 20250428093319.png",
     "Pasted image 20250428093306.png",
-    "spring boot/Mybatis/查询/练习题.md",
-    "spring boot/Mybatis/查询/数据库join 关键字.md",
     "spring boot/Mybatis/查询",
-    "spring boot/redis项目黑马点评/redis使用/Redis自封装工具类.md",
     "spring boot/Mybatis",
-    "spring boot/redis项目黑马点评/redis使用/不存到session中了，存在redis中，.md",
-    "spring boot/redis项目黑马点评/项目/短信验证.md",
     "spring boot/redis项目黑马点评/项目/商户缓存查询/未命名",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么",
-    "数字马力笔试准备/日期/2025_5_6/第一天",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
