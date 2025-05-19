@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
+                "file": "spring boot/java学习/基础知识/多线程/异步/代码例子.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗"
+              "title": "代码例子"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
+                "file": "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗 的大纲"
+              "title": "异步知识点 的大纲"
             }
           },
           {
@@ -197,12 +197,13 @@
   },
   "active": "686c1c7d9d1200fd",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/多线程/异步/代码解释/解释代码.md",
+    "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码例子.md",
+    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/多线程/异步/代码解释/thenApply返回了一个承诺，然后呢，如果任务还没有完成这个承诺会怎么样？会继续到下一步吗？这个异步非阻塞到底是个什么东西？.md",
     "spring boot/java学习/基础知识/多线程/异步/代码解释/这个lengthFuture是一个异步任务，这个任务是什么？这个新任务有什么用？也可以像一个future那样使用吗.md",
-    "spring boot/java学习/基础知识/多线程/异步/代码例子.md",
+    "spring boot/java学习/基础知识/多线程/异步/代码解释/解释代码.md",
     "spring boot/java学习/基础知识/多线程/异步/代码解释",
-    "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
     "spring boot/java学习/基础知识/lambda表达式/lambda表达式通俗理解.md",
     "spring boot/java学习/基础知识/多线程/异步",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/指定锁的超时获取.md",
@@ -211,7 +212,6 @@
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/例子.md",
     "spring boot/java学习/基础知识/多线程/多线程中的临界区是什么/锁静态方法和实例方法对其他线程访问该类有什么区别.md",
     "spring boot/java学习/基础知识/多线程/消费者和生产者案例.md",
-    "spring boot/java学习/基础知识/多线程/知识点和例子.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/子类构造方法调用流程.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/is-a.md",
     "spring boot/java学习/基础知识/面向接口编程/多态/接口例子.md",

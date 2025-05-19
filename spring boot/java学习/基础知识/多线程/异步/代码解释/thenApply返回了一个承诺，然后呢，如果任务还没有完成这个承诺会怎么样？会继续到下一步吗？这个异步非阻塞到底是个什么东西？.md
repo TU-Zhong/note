@@ -2,19 +2,19 @@
 
 **1. `thenApply` 返回了一个承诺，然后呢，如果（前一个）任务还没有完成，这个承诺会怎么样？会继续到下一步吗？**
 
-- **`thenApply` 立即返回新的承诺：** 当你调用 `future.thenApply(lambda)` 时，`thenApply` 方法会**立即**返回一个新的 `CompletableFuture` 对象（我们之前例子中的 `lengthFuture`）。这个返回动作本身是**非常快的，非阻塞的**。你的主调用线程不会在这里等待。
+- **`thenApply` 立即返回新的承诺：** 当你调用 `future.thenApply(lambda)` 时，`thenApply` <mark style="background: #FFF3A3A6;">方法会</mark>**立即**<mark style="background: #FFF3A3A6;">返回一个新的</mark> `CompletableFuture` 对象（我们之前例子中的 `lengthFuture`）。<mark style="background: #FFF3A3A6;">这个返回动作本身是</mark>**非常快的，非阻塞的**。<mark style="background: #FFF3A3A6;">你的主调用线程不会在这里等待。</mark>
     
 - **新承诺的状态：**
-    
+    <mark style="background: #FFF3A3A6;">很重要：</mark>
     - 如果 `future`（`thenApply` 所依赖的前一个 `CompletableFuture`）**在那一刻还没有完成**，那么新返回的 `lengthFuture` 也处于**未完成状态**。它就像一个空的盒子，或者一张“待兑现的支票”。它知道自己最终需要包含一个整数（字符串长度），但计算这个整数的“原料”（原始字符串）还没准备好。
-    - 这个 `lengthFuture` 内部已经“记住”了当 `future` 完成时需要执行的 `lambda` 函数（即 `result -> result.length()`）。
+    - 这个 `lengthFuture` <mark style="background: #FFF3A3A6;">内部已经“记住”了当</mark> `future` <mark style="background: #FFF3A3A6;">完成时需要执行的 `lambda` 函数</mark>（即 `result -> result.length()`）。
 - **会继续到下一步吗？**
     
     - **对于调用 `thenApply` 的那个线程来说，是的，它会立即继续执行 `thenApply` 后面的代码。** 例如：
         
         Java
         
-        ```
+        ```java
         CompletableFuture<String> initialFuture = CompletableFuture.supplyAsync(() -> {
             try { TimeUnit.SECONDS.sleep(2); } catch (InterruptedException e) {}
             return "Hello";
@@ -32,14 +32,15 @@
         // 如果你想在这里获取结果，才会阻塞
         // Integer length = lengthFuture.get(); // 这才会阻塞
         ```
-        
-    - **对于 `CompletableFuture` 的链式流程来说，`thenApply` 中的 `lambda` (即 `s -> s.length()`) 不会立即执行。** 它会“等待”，直到 `initialFuture` 成功完成并产出结果。一旦 `initialFuture` 产出字符串 "Hello"，`CompletableFuture` 框架就会自动调度执行 `s -> s.length()` 这个 `lambda`，并将 "Hello" 作为参数 `s` 传进去。执行完毕后，`lengthFuture` 的结果才会被填充为 5。
+        <mark style="background: #FFF3A3A6;">// 如果你想在这里获取结果，才会阻塞
+        // Integer length = lengthFuture.get(); // 这才会阻塞</mark>
+    - **对于 `CompletableFuture` 的链式流程来说，`thenApply` 中的 `lambda` (即 `s -> s.length()`) 不会立即执行。** <mark style="background: #FFF3A3A6;">它会“等待”</mark>，直到 `initialFuture` 成功完成并产出结果。一旦 `initialFuture` 产出字符串 "Hello"，`CompletableFuture` 框架就会自动调度执行 `s -> s.length()` 这个 `lambda`，并将 "Hello" 作为参数 `s` 传进去。执行完毕后，`lengthFuture` 的结果才会被填充为 5。
 
 **简单来说：`thenApply` 就像是给 `CompletableFuture` 系统下了一个“预约订单”：“等 `future` 好了之后，麻烦帮我用它的结果执行这个 `lambda`，然后把 `lambda` 的结果放到这个新的承诺 (`lengthFuture`) 里。” 下完订单后，你（调用线程）就可以先忙别的去了。**
 
 **2. 这个异步非阻塞到底是个什么东西？**
 
-这是一个核心概念，我们用一个生活中的例子来理解：
+<mark style="background: #FFF3A3A6;">这是一个核心概念，我们用一个生活中的例子来理解：</mark>
 
 想象一下你去一家很受欢迎的咖啡店点咖啡：
 
