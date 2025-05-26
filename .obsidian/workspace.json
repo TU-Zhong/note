@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/苍穹外卖/优化建议/Redis优化.md",
+                "file": "spring boot/苍穹外卖/优化建议/缓存双删.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redis优化"
+              "title": "缓存双删"
             }
           }
         ]
@@ -182,8 +182,14 @@
   },
   "active": "ca3ccdcdd1a914b1",
   "lastOpenFiles": [
+    "spring boot/苍穹外卖/优化建议/Redis操作.md",
     "spring boot/苍穹外卖/优化建议/用户登录退出 优化建议.md",
+    "spring boot/苍穹外卖/优化建议/缓存双删.md",
+    "spring boot/java学习/测试/逻辑路径.md",
+    "spring boot/java学习/测试/四则运算 测试.md",
     "spring boot/苍穹外卖/问题汇总.md",
+    "spring boot/java学习/测试",
+    "spring boot/苍穹外卖/优化建议/Redis优化.md",
     "spring boot/苍穹外卖/未命名/自定义异常，全局异常处理器捕获.md",
     "spring boot/苍穹外卖/未命名",
     "spring boot/苍穹外卖/问题/接口设计.md",
@@ -192,7 +198,6 @@
     "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决",
     "spring boot/Mybatis/查询/嵌套查询/嵌套查询 介绍.md",
     "spring boot/Mybatis/查询/嵌套查询/标签解释.md",
-    "spring boot/苍穹外卖/优化建议/Redis优化.md",
     "spring boot/苍穹外卖/总体/大概.md",
     "spring boot/苍穹外卖/切面AOP/AOP.md",
     "spring boot/苍穹外卖/切面AOP/如何使用.md",
@@ -210,14 +215,9 @@
     "spring boot/Mybatis/查询/结果映射.md",
     "spring boot/Mybatis/查询/映射.md",
     "spring boot/Mybatis/功能/Mybatis功能.md",
-    "spring boot/Mybatis/练习/测试/测试类 junit5.md",
-    "spring boot/苍穹外卖/代码解释/preHandle,postHandle,afterCompletion,分别有什么用？.md",
-    "spring boot/苍穹外卖/代码解释/jwt拦截器 逻辑解释.md",
-    "spring boot/苍穹外卖/代码解释/拦截器 参数.md",
     "spring boot/苍穹外卖/代码解释",
     "spring boot/java学习/算法/排序",
     "spring boot/java学习/基础知识/多线程/异步/代码解释",
-    "spring boot/java学习/基础知识/多线程/异步",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
