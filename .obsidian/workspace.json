@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/苍穹外卖/优化建议/缓存双删.md",
+                "file": "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "缓存双删"
+              "title": "Collection,List,Set,Queue"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
+                "file": "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "异步知识点 的大纲"
+              "title": "Collection,List,Set,Queue 的大纲"
             }
           },
           {
@@ -182,18 +182,24 @@
   },
   "active": "ca3ccdcdd1a914b1",
   "lastOpenFiles": [
+    "spring boot/java学习/基础知识/集合/框架.md",
+    "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
+    "spring boot/苍穹外卖/问题汇总.md",
+    "spring boot/java学习/基础知识/集合",
+    "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决/要插入的类，参数里面有空值的时候怎么解决.md",
+    "spring boot/Redis 日期 序列化.md",
+    "spring boot/苍穹外卖/bug",
+    "spring boot/苍穹外卖/优化建议/未命名.md",
+    "spring boot/苍穹外卖/优化建议/Redis优化.md",
     "spring boot/苍穹外卖/优化建议/Redis操作.md",
-    "spring boot/苍穹外卖/优化建议/用户登录退出 优化建议.md",
     "spring boot/苍穹外卖/优化建议/缓存双删.md",
+    "spring boot/苍穹外卖/优化建议/用户登录退出 优化建议.md",
     "spring boot/java学习/测试/逻辑路径.md",
     "spring boot/java学习/测试/四则运算 测试.md",
-    "spring boot/苍穹外卖/问题汇总.md",
     "spring boot/java学习/测试",
-    "spring boot/苍穹外卖/优化建议/Redis优化.md",
     "spring boot/苍穹外卖/未命名/自定义异常，全局异常处理器捕获.md",
     "spring boot/苍穹外卖/未命名",
     "spring boot/苍穹外卖/问题/接口设计.md",
-    "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决/要插入的类，参数里面有空值的时候怎么解决.md",
     "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
     "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决",
     "spring boot/Mybatis/查询/嵌套查询/嵌套查询 介绍.md",
@@ -210,14 +216,8 @@
     "spring boot/苍穹外卖/分页查询/RequestParam和Patnvariable.md",
     "spring boot/苍穹外卖/登录",
     "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
-    "spring boot/java学习/算法/排序/冒泡排序.md",
     "spring boot/苍穹外卖/分页查询",
-    "spring boot/Mybatis/查询/结果映射.md",
-    "spring boot/Mybatis/查询/映射.md",
-    "spring boot/Mybatis/功能/Mybatis功能.md",
     "spring boot/苍穹外卖/代码解释",
-    "spring boot/java学习/算法/排序",
-    "spring boot/java学习/基础知识/多线程/异步/代码解释",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
