@@ -1,7 +1,8 @@
 好的，我们来分别聊聊 Java 中 `Collection`, `List`, `Set`, 和 `Queue` 这些核心集合接口的基本用法。
 
 ## 1. `Collection<E>` 接口
-
+<mark style="background: #FFF3A3A6;">这两个必须要同时重写并且符合要求，总父类Object的equals() 默认比较两个对象的引用地址，而我们平常使用equals使用的则是比较两个对象的内容是否相等，所以需要重写equals方法，然后由于可能业务需要只需要对象的一部分属性相等即可认为两个对象相等，那么这个时候如果hashCode中包含了对象的其他字段，那么可能就会 应该被认为相等的两个对象被判定为不相等。</mark>
+[[hashCode方法 和 equals方法]]
 `Collection` 是集合层次结构中最顶层的接口，它代表了一组对象，这些对象被称为元素（elements）。它定义了所有集合类都应该具备的最基本功能。你可以把它看作是所有“容器”的“老祖宗”。
 
 **基本用法 (Common Methods):**
@@ -10,9 +11,11 @@
     - `boolean add(E e)`: 向集合中添加一个元素。如果集合内容因此改变，则返回 `true`。
     - `boolean addAll(Collection<? extends E> c)`: 将指定集合中的所有元素添加到此集合中。
 - **删除元素:**
+	<mark style="background: #FFF3A3A6;">remove是删除出现的第一个o元素。（如果有多个的话）</mark>
     - `boolean remove(Object o)`: 从集合中移除指定元素的单个实例（如果存在）。
+    <mark style="background: #FFF3A3A6;">这个是删除c中存在的所有元素，不是单个元素。</mark>
     - `boolean removeAll(Collection<?> c)`: 移除此集合中也包含在指定集合中的所有元素。
-    - `boolean retainAll(Collection<?> c)`: 仅保留此集合中那些也包含在指定集合中的元素（取交集）。
+    - `boolean retainAll(Collection<?> c)`: <mark style="background: #FFF3A3A6;">仅保留此集合中那些也包含在指定集合中的元素（取交集）</mark>。
     - `void clear()`: 移除此集合中的所有元素。
 - **查询与检查:**
     - `int size()`: 返回集合中的元素数量。

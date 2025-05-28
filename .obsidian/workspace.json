@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
+                "file": "spring boot/java学习/基础知识/集合/线程安全问题/Collection的线程安全包装类的性能差异.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collection,List,Set,Queue"
+              "title": "Collection的线程安全包装类的性能差异"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 321.5
   },
   "right": {
     "id": "1d74083dd7f5d490",
@@ -182,8 +182,16 @@
   },
   "active": "ca3ccdcdd1a914b1",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/集合/框架.md",
+    "spring boot/java学习/基础知识/集合/线程安全问题/线程安全与不安全.md",
+    "spring boot/java学习/基础知识/集合/线程安全问题/Collection的线程安全包装类的性能差异.md",
+    "spring boot/java学习/基础知识/集合/Map.md",
+    "spring boot/java学习/基础知识/集合/线程安全问题",
     "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
+    "spring boot/java学习/基础知识/集合/hashCode和equals方法/hashCode方法 和 equals方法.md",
+    "spring boot/java学习/基础知识/集合/hashCode和equals方法/这两个方法主要和Hash结构有关，和里面的桶有关.md",
+    "spring boot/java学习/基础知识/集合/hashCode和equals方法/哈希结构中的桶.md",
+    "spring boot/java学习/基础知识/集合/hashCode和equals方法",
+    "spring boot/java学习/基础知识/集合/框架.md",
     "spring boot/苍穹外卖/问题汇总.md",
     "spring boot/java学习/基础知识/集合",
     "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决/要插入的类，参数里面有空值的时候怎么解决.md",
@@ -207,17 +215,9 @@
     "spring boot/苍穹外卖/总体/大概.md",
     "spring boot/苍穹外卖/切面AOP/AOP.md",
     "spring boot/苍穹外卖/切面AOP/如何使用.md",
-    "spring boot/Mybatis/未命名.md",
-    "spring boot/Mybatis/计划.md",
-    "spring boot/idea快捷键.md",
-    "spring boot/苍穹外卖/登录/未命名.md",
     "spring boot/苍穹外卖/切面AOP",
     "spring boot/苍穹外卖/优化建议",
-    "spring boot/苍穹外卖/分页查询/RequestParam和Patnvariable.md",
     "spring boot/苍穹外卖/登录",
-    "spring boot/java学习/基础知识/多线程/异步/异步知识点.md",
-    "spring boot/苍穹外卖/分页查询",
-    "spring boot/苍穹外卖/代码解释",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
