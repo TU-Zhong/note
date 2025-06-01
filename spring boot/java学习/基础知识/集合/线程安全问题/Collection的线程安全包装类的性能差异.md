@@ -16,7 +16,8 @@
     - **`ConcurrentLinkedQueue`**：专为高并发设计的队列，添加操作通常有更好的吞吐量。
 
 Java
-
+代码解释
+[[代码1]]
 ```java
 import java.util.ArrayList;
 import java.util.Collections;

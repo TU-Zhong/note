@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/集合/线程安全问题/Collection的线程安全包装类的性能差异.md",
+                "file": "spring boot/爬虫/大纲/http/详细信息.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Collection的线程安全包装类的性能差异"
+              "title": "详细信息"
             }
           }
         ]
@@ -182,8 +182,23 @@
   },
   "active": "ca3ccdcdd1a914b1",
   "lastOpenFiles": [
-    "spring boot/java学习/基础知识/集合/线程安全问题/线程安全与不安全.md",
+    "spring boot/爬虫/大纲/http/http.md",
+    "spring boot/爬虫/大纲/http/必须掌握的东西.md",
+    "spring boot/爬虫/大纲/http/详细信息.md",
+    "906117332077836663634BF341D534A5.jpg",
+    "Pasted image 20250428093306.png",
+    "Pasted image 20250428093326.png",
+    "Pasted image 20250428093319.png",
+    "spring boot/爬虫/大纲/http",
+    "spring boot/爬虫/大纲/大纲.md",
+    "spring boot/爬虫/大纲",
+    "未命名 1/白帽.md",
+    "spring boot/爬虫",
     "spring boot/java学习/基础知识/集合/线程安全问题/Collection的线程安全包装类的性能差异.md",
+    "未命名 1",
+    "spring boot/java学习/基础知识/集合/线程安全问题/线程安全与不安全.md",
+    "spring boot/java学习/基础知识/集合/线程安全问题/代码解释/代码1.md",
+    "spring boot/java学习/基础知识/集合/线程安全问题/代码解释",
     "spring boot/java学习/基础知识/集合/Map.md",
     "spring boot/java学习/基础知识/集合/线程安全问题",
     "spring boot/java学习/基础知识/集合/Collection,List,Set,Queue.md",
@@ -206,28 +221,13 @@
     "spring boot/java学习/测试/四则运算 测试.md",
     "spring boot/java学习/测试",
     "spring boot/苍穹外卖/未命名/自定义异常，全局异常处理器捕获.md",
-    "spring boot/苍穹外卖/未命名",
     "spring boot/苍穹外卖/问题/接口设计.md",
-    "spring boot/Mybatis/查询/discriminator/discriminator关键字.md",
-    "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决",
-    "spring boot/Mybatis/查询/嵌套查询/嵌套查询 介绍.md",
-    "spring boot/Mybatis/查询/嵌套查询/标签解释.md",
-    "spring boot/苍穹外卖/总体/大概.md",
-    "spring boot/苍穹外卖/切面AOP/AOP.md",
-    "spring boot/苍穹外卖/切面AOP/如何使用.md",
-    "spring boot/苍穹外卖/切面AOP",
-    "spring boot/苍穹外卖/优化建议",
-    "spring boot/苍穹外卖/登录",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
     "Pasted image 20250501161745.png",
     "Pasted image 20250430114610.png",
     "Pasted image 20250429192125.png",
-    "Pasted image 20250428100850.png",
-    "Pasted image 20250428093333.png",
-    "Pasted image 20250428093319.png",
-    "Pasted image 20250428093306.png",
     "未命名.canvas",
     "未命名 2.canvas",
     "未命名 1.canvas"
