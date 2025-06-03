@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/爬虫/大纲/http/详细信息.md",
+                "file": "spring boot/java学习/基础知识/多线程/锁/偏向锁，轻量级锁，重量级锁/线程尝试通过 CAS 原子地将对象头中的 Mark Word（里面包含了锁的状态信息）更新为一个指向自己栈上锁记录的指针这个对象头是什么东西，自己栈又是什么东西？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "详细信息"
+              "title": "线程尝试通过 CAS 原子地将对象头中的 Mark Word（里面包含了锁的状态信息）更新为一个指向自己栈上锁记录的指针这个对象头是什么东西，自己栈又是什么东西？"
             }
           }
         ]
@@ -180,17 +180,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca3ccdcdd1a914b1",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
+    "spring boot/java学习/基础知识/多线程/锁/偏向锁，轻量级锁，重量级锁/介绍.md",
+    "spring boot/java学习/基础知识/多线程/锁/偏向锁，轻量级锁，重量级锁/线程尝试通过 CAS 原子地将对象头中的 Mark Word（里面包含了锁的状态信息）更新为一个指向自己栈上锁记录的指针这个对象头是什么东西，自己栈又是什么东西？.md",
+    "spring boot/java学习/基础知识/多线程/锁/偏向锁，轻量级锁，重量级锁/不需要进行 CAS (Compare-And-Swap) 操作或互斥量的获取这个是什么意思？.md",
+    "spring boot/java学习/基础知识/多线程/锁/给我说明线程，锁，条件，等待集等概念之间的关系.md",
+    "spring boot/java学习/基础知识/多线程/概念解释/什么叫锁？.md",
     "spring boot/爬虫/大纲/http/http.md",
+    "spring boot/java学习/基础知识/多线程/锁/偏向锁，轻量级锁，重量级锁",
+    "spring boot/爬虫/大纲/请求-响应周期/大概.md",
+    "spring boot/爬虫/大纲/大纲.md",
     "spring boot/爬虫/大纲/http/必须掌握的东西.md",
     "spring boot/爬虫/大纲/http/详细信息.md",
+    "spring boot/爬虫/大纲/请求-响应周期",
     "906117332077836663634BF341D534A5.jpg",
     "Pasted image 20250428093306.png",
     "Pasted image 20250428093326.png",
     "Pasted image 20250428093319.png",
     "spring boot/爬虫/大纲/http",
-    "spring boot/爬虫/大纲/大纲.md",
     "spring boot/爬虫/大纲",
     "未命名 1/白帽.md",
     "spring boot/爬虫",
@@ -211,17 +219,9 @@
     "spring boot/java学习/基础知识/集合",
     "spring boot/苍穹外卖/要插入的类，参数里面有空值的时候怎么解决/要插入的类，参数里面有空值的时候怎么解决.md",
     "spring boot/Redis 日期 序列化.md",
-    "spring boot/苍穹外卖/bug",
     "spring boot/苍穹外卖/优化建议/未命名.md",
     "spring boot/苍穹外卖/优化建议/Redis优化.md",
     "spring boot/苍穹外卖/优化建议/Redis操作.md",
-    "spring boot/苍穹外卖/优化建议/缓存双删.md",
-    "spring boot/苍穹外卖/优化建议/用户登录退出 优化建议.md",
-    "spring boot/java学习/测试/逻辑路径.md",
-    "spring boot/java学习/测试/四则运算 测试.md",
-    "spring boot/java学习/测试",
-    "spring boot/苍穹外卖/未命名/自定义异常，全局异常处理器捕获.md",
-    "spring boot/苍穹外卖/问题/接口设计.md",
     "Pasted image 20250502153709.png",
     "Pasted image 20250502152346.png",
     "Pasted image 20250501162326.png",
