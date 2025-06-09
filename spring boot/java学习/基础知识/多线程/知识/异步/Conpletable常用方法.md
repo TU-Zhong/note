@@ -83,7 +83,7 @@
         
         Java
         
-        ```
+        ```java
         CompletableFuture<String> userIdFuture = CompletableFuture.supplyAsync(() -> getUserId());
         CompletableFuture<String> userDetailsFuture = userIdFuture.thenCompose(userId ->
             CompletableFuture.supplyAsync(() -> getUserDetails(userId))
