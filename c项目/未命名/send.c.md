@@ -9,6 +9,7 @@ wsadata
 创建网络套接字
 [[int sockfd = socket(AF_INET, SOCK_DGRAM, 0)]]
 
+[[dest.sin_addr.s_addr]]
 
 ```c
 //  
