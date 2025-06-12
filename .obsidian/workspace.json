@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca3ccdcdd1a914b1",
+            "id": "045519637ece5a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/java学习/基础知识/多线程/知识/锁/偏向锁，轻量级锁，重量级锁/线程尝试通过 CAS 原子地将对象头中的 Mark Word（里面包含了锁的状态信息）更新为一个指向自己栈上锁记录的指针这个对象头是什么东西，自己栈又是什么东西？.md",
+                "file": "c项目/项目/需求文档.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线程尝试通过 CAS 原子地将对象头中的 Mark Word（里面包含了锁的状态信息）更新为一个指向自己栈上锁记录的指针这个对象头是什么东西，自己栈又是什么东西？"
+              "title": "需求文档"
             }
           },
           {
@@ -27,16 +27,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c项目/项目/接口文档.md",
+                "file": "c项目/项目/流程/1/1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "接口文档"
+              "title": "1"
+            }
+          },
+          {
+            "id": "47bbf1a4ec45b7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c项目/项目/流程/1/build_entry_packet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "build_entry_packet"
+            }
+          },
+          {
+            "id": "afee67c3430542be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c项目/项目/流程/1/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "07b8539c1a765b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c项目/项目/流程/实现用户间消息发送与接受/实现步骤.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实现步骤"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,11 +237,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d06968d3b9d93e5f",
+  "active": "07b8539c1a765b49",
   "lastOpenFiles": [
-    "c项目/项目/问题/代码解释.md",
+    "c项目/项目/流程/2/第二部分操作.md",
+    "c项目/项目/流程/实现用户间消息发送与接受/实现步骤.md",
+    "c项目/项目/流程/实现用户间消息发送与接受",
     "c项目/项目/接口文档.md",
+    "c项目/项目/流程/1/1.md",
+    "c项目/项目/流程/2/报错.md",
     "c项目/项目/需求文档.md",
+    "c项目/项目/流程/2",
+    "c项目/项目/流程/1/Error：sendto failed with error： 10038完美解决.md",
+    "c项目/项目/流程/1/communicator_broadcast_entry.md",
+    "c项目/项目/流程/1/build_entry_packet.md",
+    "c项目/项目/流程/1/show in Memory View.md",
+    "c项目/项目/流程/1",
+    "c项目/项目/流程",
+    "c项目/项目/问题/代码解释.md",
     "c项目/项目/问题",
     "c项目/未命名/问题/1.md",
     "c项目/项目",
@@ -218,21 +272,9 @@
     "spring boot/苍穹外卖/代码解释/拦截器用法.md",
     "spring boot/Mybatis/查询/属性/ofType.md",
     "spring boot/Mybatis/查询/属性/javaType 集合非默认实现类要写.md",
-    "spring boot/Mybatis/查询/结果映射.md",
     "spring boot/Mybatis/查询/属性",
-    "spring boot/Mybatis/查询/参数.md",
-    "spring boot/Mybatis/查询/嵌套查询/标签解释.md",
-    "spring boot/苍穹外卖/分页查询/RequestParam和Patnvariable.md",
-    "spring boot/苍穹外卖/分页查询/RequestParam和Pathvariable_2.md",
-    "c项目/未命名/解释/dest.sin_addr.s_addr.md",
-    "spring boot/java学习/基础知识/多线程/知识/线程池/线程池.md",
-    "spring boot/java学习/基础知识/多线程/知识/锁/偏向锁，轻量级锁，重量级锁/介绍.md",
     "c项目/未命名/解释",
     "c项目/未命名/语法",
-    "c项目/未命名",
-    "spring boot/java学习/基础知识/多线程/知识/线程池",
-    "spring boot/java学习/基础知识/stream流/操作",
-    "spring boot/java学习/基础知识/stream流/代码解释",
     "906117332077836663634BF341D534A5.jpg",
     "Pasted image 20250428093306.png",
     "Pasted image 20250428093326.png",
