@@ -17,7 +17,7 @@
 
 Java
 代码解释
-[[代码1]]
+[[spring boot/java学习/基础知识/集合/线程安全问题/代码解释/代码1]]
 ```java
 import java.util.ArrayList;
 import java.util.Collections;

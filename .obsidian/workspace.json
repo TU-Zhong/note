@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/python_leetcode/图论/leetcode547/leetcode547.md",
+                "file": "数据处理和人工智能/python_leetcode/图论/leetcode1971/代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "leetcode547"
+              "title": "代码"
             }
           }
         ]
@@ -182,10 +182,19 @@
   },
   "active": "334ca604addb7329",
   "lastOpenFiles": [
+    "数据处理和人工智能/python_leetcode/图论/知识点.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode1971/代码.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode1971",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集/并查集.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集/代码1.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集/def union(self, i：int, j：int)：这个函数怎么知道哪两个树可不可以合并？假如不连通那怎么办？.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/leetcode547.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集/只有当两个“平起平坐”的帮派合并时，无论谁当新老大，新总部的层级都必然会比原来增加一级。因此，新老大的 rank 必须加一。为什么层级会比原来增加一级？.md",
+    "数据处理和人工智能/学习路线.md",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/那么python中这种统一的操作符有哪些？替换的又是哪些函数？.md",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/这种操作符使用的多吗？.md",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/python内置类都实现了统一操作符吗.md",
-    "数据处理和人工智能/python_leetcode/图论/leetcode547/leetcode547.md",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/neighbor not in visited这个我知道是判断neighbor是否在visited内部，那么有没有其他的写法？比如set数据结构自己封装的函数来判断.md",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/内部嵌套函数.md",
     "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/数据结构的声明，构造方法和直接声明.md",
@@ -211,19 +220,10 @@
     "软件测试复习/等价类划分/未命名 1.md",
     "Pasted image 20250621091554.png",
     "Pasted image 20250621091516.png",
-    "软件测试复习/等价类划分/未命名.md",
     "软件测试复习/等价类划分",
-    "c项目/项目/流程/未命名/函数流程.md",
     "软件测试复习",
-    "数据处理和人工智能/学习路线.md",
-    "c项目/项目/流程/未命名/函数流程 - 副本.md",
-    "c项目/项目/流程/未命名/入口/主要是创建线程锁.md",
-    "c项目/项目/流程/实现用户间消息发送与接受/具体代码.md",
-    "c项目/项目/流程/实现用户间消息发送与接受/实现步骤.md",
     "c项目/项目/流程/未命名/入口",
     "c项目/项目/流程/未命名",
-    "c项目/具体代码/飞鸽传书项目/飞鸽传书测试.zip",
-    "c项目/具体代码/飞鸽传书项目/3.已实现用户之间互相发送文件.zip",
     "906117332077836663634BF341D534A5.jpg",
     "Pasted image 20250428093306.png",
     "Pasted image 20250428093326.png",
