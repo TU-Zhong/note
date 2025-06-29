@@ -27,8 +27,8 @@
 
 **Python 实现:**
 
-Python
 
+这是有向无环图，所以不用担心会进入死循环，所以不用visit数组
 ```python
 from typing import List
 
@@ -155,8 +155,8 @@ print(f"BFS 解法: {solver_bfs.allPathsSourceTarget(graph2)}")
 
 **Python 实现:**
 
-Python
 
+也可以使用@cache来简化代码
 ```python
 from typing import List, Dict
 
