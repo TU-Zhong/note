@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/为什么这个遍历顺序是这样的？可以换遍历顺序吗？（象限的遍历顺序）.md",
+                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "为什么这个遍历顺序是这样的？可以换遍历顺序吗？（象限的遍历顺序）"
+              "title": "代码解释4"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题归类.md",
+                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "问题归类"
+              "title": "代码解释1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,44 +208,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63bc6db061dd43d7",
+  "active": "334ca604addb7329",
   "lastOpenFiles": [
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/leetcode2163删除元素和后的最小差值.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/为什么这个遍历顺序是这样的？可以换遍历顺序吗？（象限的遍历顺序）.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释1.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释4.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释3.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释2.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值",
+    "数据处理和人工智能/python_leetcode/每日一题/未命名.canvas",
+    "数据处理和人工智能/未命名.md",
+    "数据处理和人工智能/学习路线.md",
+    "数据处理和人工智能/爬虫/网站/网站一/使用手册.md",
+    "数据处理和人工智能/爬虫/网站/网站一",
+    "数据处理和人工智能/爬虫/网站/练习网站.md",
+    "数据处理和人工智能/爬虫/网站",
+    "spring boot/java学习/设计模式/模板方法模式核心思想.md",
+    "数据处理和人工智能/爬虫",
+    "数据处理和人工智能/python_leetcode/图论/leetcode547/代码解释/并查集/并查集.md",
+    "spring boot/java学习/未命名",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode3307/leetcode3307.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode3307/k≤Lm−1​.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode3307",
+    "数据处理和人工智能/python_leetcode/动态规划/leetcode3333.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题归类.md",
+    "数据处理和人工智能/python_leetcode/动态规划",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/leetcode1498题解.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题/但是如果right往左移一个的时候，再去计算难道不会有重复吗.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题/对于方案1，我注意到对于测试用例3，3，6，8 target=10的情况下，left=0,right=2时ans=4,我不明白这个4是怎么来的，排序后的数组 3,3,6,8按道理来讲根本不可能在下标0，2之间还有4种方法啊.md",
     "数据处理和人工智能/python_leetcode/题单.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题/取模计算.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题归类.md",
     "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/leetcode2115.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目",
     "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/直接搜索键.md",
     "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/`graph = defaultdict(list)`.md",
     "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/方法三使用@cache.md",
-    "数据处理和人工智能/学习路线.md",
     "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115",
     "数据处理和人工智能/python_leetcode/topK排序/leetcode2099.md",
-    "数据处理和人工智能/python_leetcode/topK排序/类问题.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode1462课程表4/拓扑排序加位运算优化.md",
-    "数据处理和人工智能/python_leetcode/topK排序",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode1462课程表4/题解.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode210课程表2.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode1462课程表4",
-    "数据处理和人工智能/python_leetcode/图论/知识点.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序",
-    "数据处理和人工智能/python_leetcode/图论/leetcode2316重点.md",
-    "数据处理和人工智能/python_leetcode/图论/未命名/leetcode797.md",
-    "数据处理和人工智能/python_leetcode/图论/未命名",
-    "数据处理和人工智能/python_leetcode/图论/leetcode1971/代码.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/leetcode2040.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/代码解释.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/问题/问题.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/这里如何保证Left就是两个数组的元素的乘积？.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/为什么这个遍历顺序是这样的？可以换遍历顺序吗？（象限的遍历顺序）.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/这里的边界值怎么处理的？就是这个i0和j0这个怎么处理保证不会重复计算的？.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/问题",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2311",
     "Pasted image 20250621105317.png",
     "Pasted image 20250621105305.png",
     "Pasted image 20250621105249.png",
