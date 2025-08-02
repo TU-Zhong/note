@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释4.md",
+                "file": "数据处理和人工智能/数据处理/Numpy/索引，切片.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代码解释4"
+              "title": "索引，切片"
             }
           },
           {
@@ -210,10 +210,17 @@
   },
   "active": "334ca604addb7329",
   "lastOpenFiles": [
+    "数据处理和人工智能/数据处理/Numpy/如果初始化的时候数组里面类型不统一会怎么处理？.md",
+    "数据处理和人工智能/数据处理/Numpy/给我通俗解释一下numpy的ndarray是个啥.md",
+    "数据处理和人工智能/数据处理/Numpy/索引，切片.md",
+    "数据处理和人工智能/数据处理/Numpy/ndarray的创建方法.md",
+    "数据处理和人工智能/数据处理/Numpy/ndarray的基本属性.md",
+    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释4.md",
+    "数据处理和人工智能/数据处理/Numpy",
+    "数据处理和人工智能/数据处理",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/leetcode2163删除元素和后的最小差值.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2040两个有序数组的第k小乘积/二分查找答案/为什么这个遍历顺序是这样的？可以换遍历顺序吗？（象限的遍历顺序）.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释1.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释4.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释3.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释2.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值",
@@ -240,13 +247,6 @@
     "数据处理和人工智能/python_leetcode/题单.md",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题",
     "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目/问题/取模计算.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/leetcode2115.md",
-    "数据处理和人工智能/python_leetcode/每日一题/leetcode1498满足条件的子序列数目",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/直接搜索键.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/`graph = defaultdict(list)`.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115/方法三使用@cache.md",
-    "数据处理和人工智能/python_leetcode/图论/拓扑排序/leetcode2115",
-    "数据处理和人工智能/python_leetcode/topK排序/leetcode2099.md",
     "Pasted image 20250621105317.png",
     "Pasted image 20250621105305.png",
     "Pasted image 20250621105249.png",
