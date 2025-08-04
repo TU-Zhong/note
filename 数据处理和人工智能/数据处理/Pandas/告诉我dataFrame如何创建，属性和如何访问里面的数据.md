@@ -45,7 +45,7 @@ print(df2)
 
 Python
 
-```
+```python
 import numpy as np
 
 # 从列表嵌套列表

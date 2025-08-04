@@ -29,7 +29,7 @@ heapify(min_h)
 
 suf_max = [0] * (m - n + 1)  # 后缀最大和
 suf_max[-1] = sum(min_h)
-[[代码解释3]]
+[[数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释3]]
 
 
 pre_min += nums[i] + heappushpop(max_h, -nums[i])
