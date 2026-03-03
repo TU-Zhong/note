@@ -8,76 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "334ca604addb7329",
+            "id": "a36960836f3f4d82",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/数据处理/数据分析项目/缺失值填充/策略.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "策略"
-            }
-          },
-          {
-            "id": "98a17ea31d8c7687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据处理和人工智能/数据处理/题目写/leetcode1084 这个比较重要/重点.md",
+                "file": "寒假项目/数据库元数据/前端/拆分计划/计划/代码/连接数据库/代码解释/接口，tableMetadata.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "重点"
+              "title": "接口，tableMetadata"
             }
           },
           {
-            "id": "187ff28bbcaca549",
+            "id": "d1226981e9fc2cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/数据处理/题目写/leetcode182查找重复的电子邮件/写法1/代码解释3.md",
+                "file": "寒假项目/数据库元数据/前端/拆分计划/计划/代码/表结构优化/核心状态管理/代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "代码解释3"
-            }
-          },
-          {
-            "id": "f59e6dd5c1519474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据处理和人工智能/数据处理/题目写/leetcode511/分组聚合的这个结果是什么？怎么还带上了player_id？Show thinking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "分组聚合的这个结果是什么？怎么还带上了player_id？Show thinking"
-            }
-          },
-          {
-            "id": "63bc6db061dd43d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据处理和人工智能/python_leetcode/每日一题/leetcode2163删除元素和后的最小差值/代码解释1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "代码解释1"
+              "title": "代码"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -109,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +76,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "搜索"
+              "title": "Search"
             }
           },
           {
@@ -134,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 359.5
   },
   "right": {
     "id": "1d74083dd7f5d490",
@@ -222,71 +181,75 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "334ca604addb7329",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
-    "数据处理和人工智能/数据处理/数据分析项目/titanic/titanic代码.md",
-    "数据处理和人工智能/数据处理/数据分析项目/缺失值填充/策略.md",
-    "数据处理和人工智能/数据处理/数据分析项目/缺失值填充",
-    "数据处理和人工智能/数据处理/数据分析项目/titanic/未命名.md",
-    "数据处理和人工智能/数据处理/Numpy/函数/排序函数.md",
-    "数据处理和人工智能/数据处理/Numpy/函数/比较函数.md",
-    "数据处理和人工智能/数据处理/Numpy/给我通俗解释一下numpy的ndarray是个啥.md",
-    "数据处理和人工智能/数据处理/Numpy/如果初始化的时候数组里面类型不统一会怎么处理？.md",
-    "数据处理和人工智能/数据处理/数据分析项目/titanic/分析.md",
+    "寒假项目/数据库元数据/前端/拆分计划/计划/代码/表结构优化/计划/计划.md",
+    "寒假项目/数据库元数据/前端/拆分计划/计划/代码/表结构优化/核心状态管理/代码.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体/添加主键的查询/主键 keys的查询.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体/拉伸/拉伸.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏增加信息/边栏增加信息后不显示.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体/添加主键的查询",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体/数据具体.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体/拉伸",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/重要问题.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/那假如父组件的v-model绑定的是一个对象呢.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/这个子组件和父组件是怎么定义的？.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/子组件接收的不同写法.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/什么叫父与子组件.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/为什么lambda表达式要加括号.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/{ ...props.modelValue, name：newName }这是什么写法.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/update：modelValue这是什么写法，看不懂.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信/const props = defineProps('modelValue')  子组件怎么知道从父组件那里收到的哪个值？.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/ts代码更改/改成ts代码.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/ts代码更改/我的意思是写这个字符串有什么用？这个emit也是vue默认的传递信息的函数吗？第一个值是字符串就默认是这个字符串的信息传递了？.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/ts代码更改/watch监听.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/表可以上下拉动/代码解释/这个flex： 1,以及pane,content这有什么区别.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/顶层外壳和布局/代码解释/wrapper 类.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏美化，数据更具体",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/边栏增加信息",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/组件通信",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/接口，tableMetadata.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/安检代码.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/ts代码更改",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释/ref和reactive的区别.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/计划/计划.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/表可以上下拉动/最后更改.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/表可以上下拉动/代码解释",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/表可以上下拉动/代码更改.md",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/顶层外壳和布局/代码解释",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/连接数据库/代码解释",
+    "寒假项目/数据库元数据 1/前端/拆分计划/计划/代码/表结构优化/计划",
+    "寒假项目/数据库元数据 1/报错debug/pic/Pasted image 20260201093514.png",
+    "寒假项目/数据库元数据/报错debug/pic/Pasted image 20260201093514.png",
+    "数据处理和人工智能/基础机器学习模型/java/未命名.canvas",
     "数据处理和人工智能/数据处理/数据分析项目/titanic/pic/Pasted image 20250818193414.png",
-    "数据处理和人工智能/数据处理/数据分析项目/titanic/pic",
-    "数据处理和人工智能/数据处理/机器学习/缺失值处理/有偏态分布的为什么不用众数填充？.md",
-    "数据处理和人工智能/数据处理/数据分析项目/titanic",
-    "数据处理和人工智能/数据处理/机器学习/缺失值处理/填充逻辑参考.md",
-    "数据处理和人工智能/数据处理/计划/未命名.md",
-    "数据处理和人工智能/数据处理/机器学习/缺失值处理",
-    "数据处理和人工智能/数据处理/机器学习",
     "数据处理和人工智能/数据处理/未命名.canvas",
-    "数据处理和人工智能/数据处理/计划/kaggle.md",
-    "数据处理和人工智能/数据处理/计划/冲刺日历表.md",
-    "数据处理和人工智能/数据处理/题目写/技巧/常用操作/分组之后的操作默认只针对分组.md",
-    "数据处理和人工智能/数据处理/计划",
-    "数据处理和人工智能/数据处理/数据分析项目/项目1/计划.md",
-    "数据处理和人工智能/数据处理/数据分析项目/项目1/jupyter NoteBook 快捷键.md",
     "数据处理和人工智能/数据处理/数据分析项目/项目1/pic/Pasted image 20250809201511.png",
-    "数据处理和人工智能/数据处理/数据分析项目/项目1/pic",
-    "数据处理和人工智能/数据处理/题目写/leetcode1251/日期比较有NaN时的处理办法.md",
-    "数据处理和人工智能/数据处理/数据分析项目/项目1",
-    "数据处理和人工智能/数据处理/数据分析项目",
-    "数据处理和人工智能/数据处理/题目写/leetcode1251/第二个表列可能为空，如何合并.md",
-    "数据处理和人工智能/数据处理/题目写/技巧/重点题.md",
-    "数据处理和人工智能/数据处理/题目写/leetcode1251",
-    "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/调试1.md",
-    "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/解释/为什么这个columns这一栏也有这么多字段？.md",
-    "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/解释/这个 点击了 values的View As Array之后出现，我怎么在那个上面出现列名？.md",
-    "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/解释/未命名.md",
     "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/pic/Pasted image 20250807221042.png",
     "数据处理和人工智能/数据处理/调试/DataFrame本身的数据/pic/Pasted image 20250807220900.png",
     "Pasted image 20250807215944.png",
-    "数据处理和人工智能/数据处理/题目写/技巧/常用操作/filter()函数.md",
-    "数据处理和人工智能/数据处理/题目写/技巧/向量化操作.md",
-    "数据处理和人工智能/数据处理/题目写/技巧/常用操作/lambda表达式.md",
     "数据处理和人工智能/python_leetcode/每日一题/未命名.canvas",
     "Pasted image 20250621105317.png",
     "Pasted image 20250621105305.png",
     "Pasted image 20250621105249.png",
     "未命名 1.canvas",
-    "Pasted image 20250621091554.png",
-    "Pasted image 20250621091516.png",
     "未命名.canvas",
     "未命名 2.canvas"
   ]
