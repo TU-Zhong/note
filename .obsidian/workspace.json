@@ -63,8 +63,7 @@
               "title": "T2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,17 +225,20 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "43856d285b32a9a1",
+  "active": "1685c340aa019339",
   "lastOpenFiles": [
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T138.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
-    "笔试准备/题目/面试题/CAS介绍.md",
+    "笔试准备/题目/题单.md",
     "笔试准备/题目/题单2.md",
+    "笔试准备/题目/面试题/spring.md",
+    "笔试准备/题目/面试题/网络和操作系统.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
+    "笔试准备/题目/面试题/sychronized 关键字和reentrantlock.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T138.md",
+    "笔试准备/题目/面试题/CAS介绍.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T137/T137.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T137/精简代码实例.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T2/T2.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T100.md",
-    "笔试准备/题目/题单.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T134.md",
     "寒假项目/八股/八股.md",
     "笔试准备/未命名.md",
@@ -251,9 +253,6 @@
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T106.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T95.md",
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T2/T2.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T35.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T23.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T11.md",
     "笔试准备/题目/笔试",
     "寒假项目/数据库元数据/前端/拆分计划/计划/代码/不允许用户修改自增列",
     "寒假项目/数据库元数据/后端/对接前端提交数据/解释",
