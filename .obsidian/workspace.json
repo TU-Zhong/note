@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T138.md",
+                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T138"
+              "title": "java基础"
             }
           },
           {
@@ -228,6 +228,7 @@
   },
   "active": "43856d285b32a9a1",
   "lastOpenFiles": [
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T138.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
     "笔试准备/题目/面试题/CAS介绍.md",
     "笔试准备/题目/题单2.md",
@@ -253,7 +254,6 @@
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T35.md",
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T23.md",
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T11.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T4.md",
     "笔试准备/题目/笔试",
     "寒假项目/数据库元数据/前端/拆分计划/计划/代码/不允许用户修改自增列",
     "寒假项目/数据库元数据/后端/对接前端提交数据/解释",
