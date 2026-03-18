@@ -13,20 +13,20 @@
 - **Spring Bean 的生命周期是怎样的？** （必考题，建议分为：实例化、属性赋值、初始化、销毁 四个大阶段来记，并提一下 `BeanPostProcessor` 的作用）
     [[bean生命周期]]
 - **Spring Bean 默认是单例的吗？如果是，存在线程安全问题吗？如何解决？** （银行非常看重并发安全，重点回答无状态 Bean 以及通过 `ThreadLocal` 解决有状态 Bean 安全问题的方案）
-    
+    [[spring boot bean是单例的吗]]
 - **Spring 是如何解决循环依赖的？** （经典区分度考题，说明白三级缓存机制，以及为什么需要第三级缓存来处理 AOP 代理对象）
-    
+    [[三级缓存处理循环依赖]]
 - **Spring 源码中用到了哪些设计模式？** （单例、工厂、代理、模板方法、观察者等，最好能结合具体的类，比如 `JdbcTemplate`）
-    
+    [[设计模式]]
 
 ### 二、 面向切面编程 (AOP)
 
 通常会结合实际项目经验来问。
 
 - **Spring AOP 的底层实现原理是什么？** （必须熟练掌握 JDK 动态代理和 CGLIB 代理的区别，以及 Spring 在什么条件下会切换这两种代理）
-    
+    [[Aop实现原理]]
 - **在实际的后端开发中，你通常用 AOP 来做什么？** （结合你的实际开发经验，可以说说在做复杂的后台管理系统或业务系统时，如何用 AOP 实现全局的操作日志记录、接口鉴权拦截或是性能监控）
-    
+    [[用AOP来干什么]]
 
 ### 三、 事务管理 (Transaction - 银行最爱考)
 
@@ -46,7 +46,7 @@
 - **说说 Spring Boot 的自动装配 (Auto-Configuration) 原理？** （核心是答出 `@SpringBootApplication` 注解里的 `@EnableAutoConfiguration`，以及它如何读取 `spring.factories` 或 `AutoConfiguration.imports` 文件中的配置类）
     
 - **Spring Boot 启动流程是怎样的？** （简述推断 Web 环境、加载配置、创建 ApplicationContext 等核心步骤）
-    
+    [[Spring boot启动流程]]
 
 ---
 

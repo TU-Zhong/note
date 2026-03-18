@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔试准备/题目/面试题/spring/spring boot bean是单例的吗.md",
+                "file": "笔试准备/题目/面试题/spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "spring boot bean是单例的吗"
+              "title": "spring"
             }
           },
           {
@@ -227,8 +227,8 @@
   },
   "active": "1685c340aa019339",
   "lastOpenFiles": [
-    "笔试准备/题目/面试题/spring.md",
     "笔试准备/题目/面试题/spring/spring boot bean是单例的吗.md",
+    "笔试准备/题目/面试题/spring.md",
     "笔试准备/题目/题单2.md",
     "笔试准备/题目/面试题/spring/Spring boot启动流程.md",
     "笔试准备/题目/面试题/spring/Aop实现原理.md",
