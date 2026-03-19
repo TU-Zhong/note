@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔试准备/题目/题单2.md",
+                "file": "笔试准备/题目/面试题/Redis/Redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "题单2"
+              "title": "Redis"
             }
           },
           {
@@ -227,8 +227,9 @@
   },
   "active": "1685c340aa019339",
   "lastOpenFiles": [
-    "笔试准备/题目/面试题/sychronized 关键字和reentrantlock.md",
     "笔试准备/题目/题单2.md",
+    "笔试准备/题目/面试题/Redis/缓存穿透.md",
+    "笔试准备/题目/面试题/sychronized 关键字和reentrantlock.md",
     "笔试准备/题目/面试题/Redis/Redis.md",
     "笔试准备/题目/面试题/网络和操作系统.md",
     "笔试准备/题目/面试题/Redis",
@@ -255,7 +256,6 @@
     "笔试准备/题目/面试题/CAS介绍.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T137/T137.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T137/精简代码实例.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T2/T2.md",
     "笔试准备/题目/笔试",
     "寒假项目/数据库元数据/前端/拆分计划/计划/代码/不允许用户修改自增列",
     "寒假项目/数据库元数据/后端/对接前端提交数据/解释",
