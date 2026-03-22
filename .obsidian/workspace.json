@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
+                "file": "笔试准备/题目/面试题/spring/ThreadLocal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IoC"
+              "title": "ThreadLocal"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "T2",
+                "query": "ThreadLocal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,6 +228,8 @@
   "active": "1685c340aa019339",
   "lastOpenFiles": [
     "笔试准备/题目/面试题/spring.md",
+    "笔试准备/题目/面试题/spring/spring boot bean是单例的吗.md",
+    "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
     "笔试准备/题目/题单2.md",
     "笔试准备/题目/题单.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
@@ -251,8 +253,6 @@
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T8.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T7.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T2/T2.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T2/为什么要用向上转型和向下转型？.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T2/T2.md",
     "笔试准备/题目/面试题/Redis/基本数据结构",
     "笔试准备/题目/面试题/Redis",
     "笔试准备/题目/面试题/spring",
