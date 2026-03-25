@@ -63,7 +63,8 @@
               "title": "T2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +226,7 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1685c340aa019339",
+  "active": "43856d285b32a9a1",
   "lastOpenFiles": [
     "寒假项目/数据库元数据/前端/拆分计划/计划/代码/右键新增/新增列/desidebar改造.md",
     "寒假项目/数据库元数据/前端/拆分计划/计划/代码/右键新增/新增列/代码.md",
