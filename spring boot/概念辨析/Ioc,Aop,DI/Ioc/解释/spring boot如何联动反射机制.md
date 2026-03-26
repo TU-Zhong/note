@@ -1,5 +1,5 @@
 Spring Boot 本身并不直接通过反射进行依赖注入，而是**依赖于 Spring Framework 核心容器**的依赖注入 (DI) 机制。Spring Framework 在实现依赖注入时，确实会**在某些情况下使用反射**。
-[[反射]]
+[[spring boot/概念辨析/Ioc,Aop,DI/Ioc/解释/反射]]
 以下是 Spring Framework 如何利用反射进行依赖注入的几种关键方式：
 
 ### **1. 构造器注入 (Constructor Injection)**

@@ -5,7 +5,7 @@
 ## Spring IoC 容器实现原理详解
 
 Spring IoC 容器（主要是 `ApplicationContext` 的实现类，如 `AnnotationConfigApplicationContext` 或 `ClassPathXmlApplicationContext`）在启动和运行过程中，会执行一系列复杂的操作来管理 Bean。
-[[反射]]
+[[spring boot/概念辨析/Ioc,Aop,DI/Ioc/解释/反射]]
 ### 核心组件和概念：
 
 在理解具体实现之前，先了解几个核心组件和概念：
