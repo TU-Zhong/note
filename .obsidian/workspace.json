@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔试准备/题目/题单2.md",
+                "file": "笔试准备/题目/面试题/spring/三级缓存处理循环依赖.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "题单2"
+              "title": "三级缓存处理循环依赖"
             }
           },
           {
@@ -228,8 +228,8 @@
   "active": "1685c340aa019339",
   "lastOpenFiles": [
     "笔试准备/题目/面试题/spring.md",
-    "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
     "笔试准备/题目/题单2.md",
+    "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
     "笔试准备/题目/面试题/Redis/Redis.md",
     "笔试准备/题目/面试题/Redis/redis基本数据结构.md",
     "笔试准备/题目/面试题/Redis/缓存击穿.md",
