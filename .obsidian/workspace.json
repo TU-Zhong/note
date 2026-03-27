@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔试准备/题目/面试题/Redis/redis基本数据结构.md",
+                "file": "笔试准备/题目/面试题/spring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redis基本数据结构"
+              "title": "spring"
             }
           },
           {
@@ -227,6 +227,9 @@
   },
   "active": "1685c340aa019339",
   "lastOpenFiles": [
+    "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
+    "笔试准备/题目/面试题/spring.md",
+    "笔试准备/题目/题单2.md",
     "笔试准备/题目/面试题/Redis/Redis.md",
     "笔试准备/题目/面试题/Redis/redis基本数据结构.md",
     "笔试准备/题目/面试题/Redis/缓存击穿.md",
@@ -250,9 +253,6 @@
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T7.md",
     "笔试准备/题目/面试题/项目/未命名.md",
     "寒假项目/八股/八股.md",
-    "笔试准备/未命名.md",
-    "笔试准备/题目/面试题/说说进程和线程区别，线程是不是越多越好.md",
-    "笔试准备/题目/题单2.md",
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T19",
     "笔试准备/题目/面试题/项目2/答案",
     "笔试准备/题目/面试题/项目2",
