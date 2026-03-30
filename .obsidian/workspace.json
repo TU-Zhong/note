@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T103.md",
+                "file": "寒假项目/数据库元数据/前端/拆分计划/计划/代码/右键新增/新增列/desidebar改造.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T103"
+              "title": "desidebar改造"
             }
           },
           {
@@ -227,6 +227,9 @@
   },
   "active": "1685c340aa019339",
   "lastOpenFiles": [
+    "寒假项目/数据库元数据/前端/拆分计划/计划/代码/右键新增/右键新增列，key和索引.md",
+    "寒假项目/数据库元数据/前端/拆分计划/计划/代码/右键新增/新增列/代码.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T103.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T106.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T131.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T134.md",
@@ -250,9 +253,6 @@
     "笔试准备/题目/面试题/项目2/答案/如何管理数据库连接.md",
     "笔试准备/题目/面试题/spring.md",
     "笔试准备/题目/面试题/spring/bean生命周期.md",
-    "笔试准备/题目/面试题/spring/三级缓存处理循环依赖.md",
-    "spring boot/概念辨析/Ioc,Aop,DI/Ioc/IoC.md",
-    "笔试准备/题目/面试题/Redis/Redis.md",
     "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T19",
     "笔试准备/题目/面试题/项目2/答案",
     "笔试准备/题目/面试题/项目2",
