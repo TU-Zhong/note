@@ -600,48 +600,48 @@ _来源：结合你的 Aegis 项目与基础题_
 ==201==. `Minor GC` 和 `Full GC` 的区别是什么？触发条件分别是什么？
     
 ==202==. 常见的垃圾收集算法有哪些？（标记-清除、标记-复制、标记-整理）
+    [[T202]]
+182. 标记-清除算法的优缺点是什么？
     
-187. 标记-清除算法的优缺点是什么？
+183. 标记-复制算法的优缺点是什么？
     
-188. 标记-复制算法的优缺点是什么？
-    
-189. 标记-整理算法的优缺点是什么？
+184. 标记-整理算法的优缺点是什么？
     
 ==206==. 常见的垃圾收集器有哪些？
     
-190. `Serial` 和 `ParNew` 收集器有什么特点？
+185. `Serial` 和 `ParNew` 收集器有什么特点？
     
-191. `Parallel Scavenge` 和 `Parallel Old` 收集器有什么特点？
+186. `Parallel Scavenge` 和 `Parallel Old` 收集器有什么特点？
     
-192. `CMS`（Concurrent Mark Sweep）收集器的原理和步骤是什么？
+187. `CMS`（Concurrent Mark Sweep）收集器的原理和步骤是什么？
     
-193. `CMS` 有哪些缺点？
+188. `CMS` 有哪些缺点？
     
 ==211==. `G1`（Garbage-First）收集器的原理和特点是什么？
     
-194. `ZGC` 和 `Shenandoah` 了解吗？
+189. `ZGC` 和 `Shenandoah` 了解吗？
     
-195. 什么是 Stop-The-World（STW）？
+190. 什么是 Stop-The-World（STW）？
     
-196. JVM 调优的目标是什么？
+191. JVM 调优的目标是什么？
     
-197. 常用的 JVM 调优参数有哪些？
+192. 常用的 JVM 调优参数有哪些？
     
-198. 如何排查 JVM 的 OOM（OutOfMemoryError）问题？
+193. 如何排查 JVM 的 OOM（OutOfMemoryError）问题？
     
-199. 什么是栈溢出（StackOverflowError）？
+194. 什么是栈溢出（StackOverflowError）？
     
-200. 常见的 JVM 监控和诊断工具有哪些？（jps, jstat, jmap, jhat, jstack）
+195. 常见的 JVM 监控和诊断工具有哪些？（jps, jstat, jmap, jhat, jstack）
     
-201. 什么是类加载机制？
+196. 什么是类加载机制？
     
-202. 什么是类加载器？有哪几种？
+197. 什么是类加载器？有哪几种？
     
 ==221==. 什么是双亲委派模型？它的工作过程是怎样的？
     
-203. 为什么要使用双亲委派模型？
+198. 为什么要使用双亲委派模型？
     
-204. 如何打破双亲委派模型？
+199. 如何打破双亲委派模型？
     
 
 ---
