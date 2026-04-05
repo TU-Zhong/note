@@ -608,40 +608,40 @@ _来源：结合你的 Aegis 项目与基础题_
 184. 标记-整理算法的优缺点是什么？
     
 ==206==. 常见的垃圾收集器有哪些？
+    [[T206]]
+182. `Serial` 和 `ParNew` 收集器有什么特点？
     
-185. `Serial` 和 `ParNew` 收集器有什么特点？
+183. `Parallel Scavenge` 和 `Parallel Old` 收集器有什么特点？
     
-186. `Parallel Scavenge` 和 `Parallel Old` 收集器有什么特点？
+184. `CMS`（Concurrent Mark Sweep）收集器的原理和步骤是什么？
     
-187. `CMS`（Concurrent Mark Sweep）收集器的原理和步骤是什么？
-    
-188. `CMS` 有哪些缺点？
+185. `CMS` 有哪些缺点？
     
 ==211==. `G1`（Garbage-First）收集器的原理和特点是什么？
     
-189. `ZGC` 和 `Shenandoah` 了解吗？
+186. `ZGC` 和 `Shenandoah` 了解吗？
     
-190. 什么是 Stop-The-World（STW）？
+187. 什么是 Stop-The-World（STW）？
     
-191. JVM 调优的目标是什么？
+188. JVM 调优的目标是什么？
     
-192. 常用的 JVM 调优参数有哪些？
+189. 常用的 JVM 调优参数有哪些？
     
-193. 如何排查 JVM 的 OOM（OutOfMemoryError）问题？
+190. 如何排查 JVM 的 OOM（OutOfMemoryError）问题？
     
-194. 什么是栈溢出（StackOverflowError）？
+191. 什么是栈溢出（StackOverflowError）？
     
-195. 常见的 JVM 监控和诊断工具有哪些？（jps, jstat, jmap, jhat, jstack）
+192. 常见的 JVM 监控和诊断工具有哪些？（jps, jstat, jmap, jhat, jstack）
     
-196. 什么是类加载机制？
+193. 什么是类加载机制？
     
-197. 什么是类加载器？有哪几种？
+194. 什么是类加载器？有哪几种？
     
 ==221==. 什么是双亲委派模型？它的工作过程是怎样的？
     
-198. 为什么要使用双亲委派模型？
+195. 为什么要使用双亲委派模型？
     
-199. 如何打破双亲委派模型？
+196. 如何打破双亲委派模型？
     
 
 ---
