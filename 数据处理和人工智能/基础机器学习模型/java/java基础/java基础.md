@@ -473,8 +473,8 @@ _来源：结合你的 Aegis 项目与基础题_
 141. `synchronized` 关键字的用法有哪些？
     
 ==142==. `synchronized` 的底层实现原理是什么？（监视器锁 Monitor）
-    
-143. 谈谈你对锁升级（偏向锁、轻量级锁、重量级锁）的理解。
+    [[T142]]
+131. 谈谈你对锁升级（偏向锁、轻量级锁、重量级锁）的理解。
     
 ==144==. `synchronized` 和 `ReentrantLock` 有什么区别？
     
@@ -482,73 +482,73 @@ _来源：结合你的 Aegis 项目与基础题_
     
 ==146==. `volatile` 是如何保证可见性的？
     
-147. `volatile` 能保证原子性吗？为什么？
+132. `volatile` 能保证原子性吗？为什么？
     
-148. 什么是 Java 内存模型（JMM）？
+133. 什么是 Java 内存模型（JMM）？
     
-149. 什么是原子性、可见性、有序性？
+134. 什么是原子性、可见性、有序性？
     
 ==150==. 什么是 `CAS`（Compare-And-Swap）？它的原理是什么？
     
-151. `CAS` 会有什么问题？（ABA 问题）如何解决？
+135. `CAS` 会有什么问题？（ABA 问题）如何解决？
     
-152. `Atomic` 原子类系列是如何实现的？
+136. `Atomic` 原子类系列是如何实现的？
     
 ==153==. ==`ThreadLocal` 是什么？它的实现原理是什么？==    这个有点重要，线程的局部变量
     [[什么叫弱引用？什么叫强引用？]]  [[T153]]    [[多个本地变量访问哪个？]]
-154. `ThreadLocal` 会导致内存泄漏吗？为什么？如何避免？
+137. `ThreadLocal` 会导致内存泄漏吗？为什么？如何避免？
     
-155. 什么是线程池？使用线程池有什么好处？
+138. 什么是线程池？使用线程池有什么好处？
     
 ==156==. `ThreadPoolExecutor` 的核心参数有哪些？请解释它们的含义。
     
-157. 线程池的工作流程是怎样的？
+139. 线程池的工作流程是怎样的？
     
 ==158==. 线程池的拒绝策略有哪几种？
     
-159. `Executors` 工具类提供了哪几种常见的线程池？它们有什么特点？
+140. `Executors` 工具类提供了哪几种常见的线程池？它们有什么特点？
     
-160. 如何合理地配置线程池的大小？
+141. 如何合理地配置线程池的大小？
     
-161. `Callable`, `Future`, `FutureTask` 是什么？
+142. `Callable`, `Future`, `FutureTask` 是什么？
     
 ==162==. 什么是 `AQS`（AbstractQueuedSynchronizer）？
     
-163. `ReentrantLock` 的公平锁和非公平锁有什么区别？
+143. `ReentrantLock` 的公平锁和非公平锁有什么区别？
     
-164. `ReentrantReadWriteLock` 是什么？
+144. `ReentrantReadWriteLock` 是什么？
     
-165. `CountDownLatch` 和 `CyclicBarrier` 的区别是什么？
+145. `CountDownLatch` 和 `CyclicBarrier` 的区别是什么？
     
-166. `Semaphore` 是什么？
+146. `Semaphore` 是什么？
     
-167. `Exchanger` 是什么？
+147. `Exchanger` 是什么？
     
-168. 什么是乐观锁和悲观锁？
+148. 什么是乐观锁和悲观锁？
     
-169. 什么是可重入锁？
+149. 什么是可重入锁？
     
-170. 什么是自旋锁？
+150. 什么是自旋锁？
     
 ==171==. 什么是死锁？产生死锁的四个必要条件是什么？
     
-172. 如何避免死锁？
+151. 如何避免死锁？
     
-173. 如何排查死锁问题？
+152. 如何排查死锁问题？
     
-174. 什么是 Happens-Before 原则？
+153. 什么是 Happens-Before 原则？
     
-175. 什么是 Fork/Join 框架？
+154. 什么是 Fork/Join 框架？
     
-176. `CompletableFuture` 是什么？
+155. `CompletableFuture` 是什么？
     
-177. `LongAdder` 和 `AtomicLong` 的区别是什么？
+156. `LongAdder` 和 `AtomicLong` 的区别是什么？
     
-178. 什么是 `Disruptor`？
+157. 什么是 `Disruptor`？
     
-179. 如何中断一个线程？`interrupt()` 方法的作用是什么？
+158. 如何中断一个线程？`interrupt()` 方法的作用是什么？
     
-180. `isInterrupted()` 和 `interrupted()` 方法的区别是什么？
+159. `isInterrupted()` 和 `interrupted()` 方法的区别是什么？
     
 
 ---
