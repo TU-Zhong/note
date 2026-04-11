@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库死锁排查和慢查询命令.md",
+                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据库死锁排查和慢查询命令"
+              "title": "数据库T1"
             }
           },
           {
