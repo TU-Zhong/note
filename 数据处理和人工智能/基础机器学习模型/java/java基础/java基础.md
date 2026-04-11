@@ -480,7 +480,7 @@ _来源：结合你的 Aegis 项目与基础题_
 ==144==. `synchronized` 和 `ReentrantLock` 有什么区别？
     
 ==145==. `volatile` 关键字有什么作用？
-    
+    [[T145]]
 ==146==. `volatile` 是如何保证可见性的？
     
 132. `volatile` 能保证原子性吗？为什么？
