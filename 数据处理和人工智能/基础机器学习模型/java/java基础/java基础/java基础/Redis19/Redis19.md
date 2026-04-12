@@ -69,7 +69,7 @@ Tuzhong，这个问题是后端研发面试中的**绝对分水岭**。
         
 
 ### 5. ZSet (Sorted Set，有序集合)
-
+[[Redis 索引]]
 这是 Redis 最引以为傲、也是面试中技术含量最高的数据结构。常用于排行榜、延时队列。
 
 - **底层结构：ZipList ➔ 升级为 SkipList（跳表） + HashTable（哈希表）**。
