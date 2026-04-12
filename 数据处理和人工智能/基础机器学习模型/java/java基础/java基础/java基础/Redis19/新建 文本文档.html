@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>跳表 (SkipList) 本地推演沙盘</title>
+    <style>
+        body { background: #1a1a1a; color: #fff; font-family: sans-serif; padding: 40px; }
+        .controls { margin-bottom: 20px; }
+        button { padding: 10px 20px; font-size: 14px; cursor: pointer; background: #4a90e2; color: white; border: none; border-radius: 4px; margin-right: 10px; }
+        button:hover { background: #357abd; }
+        #log { font-size: 16px; color: #2ecc71; margin-bottom: 40px; height: 24px; font-weight: bold; }
+        
+        /* 使用 Grid 布局完美对齐节点 */
+        .skiplist { display: grid; grid-template-columns: repeat(11, 60px); gap: 15px; }
+        .row-label { line-height: 40px; color: #888; text-align: right; padding-right: 10px; }
+        
+        .node { width: 40px; height: 40px; background: #333; display: flex; justify-content: center; align-items: center; border-radius: 6px; position: relative; font-weight: bold; transition: all 0.3s ease; }
+        .node.empty { background: transparent; } /* 占位符 */
+        .node.head { background: #555; }
+        
+        /* 状态高亮 */
+        .node.active { background: #8ab4f8; color: #000; box-shadow: 0 0 15px #8ab4f8; transform: scale(1.1); }
+        .node.target { background: #81c995; color: #000; box-shadow: 0 0 15px #81c995; transform: scale(1.2); }
+        
+        /* 连线逻辑 (简易横向) */
+        .node:not(.empty)::after { content: ''; position: absolute; right: -25px; top: 19px; width: 25px; height: 2px; background: #444; z-index: -1; }
+        .col-10 .node::after { display: none; } /* 最后一列去掉横线 */
+    </style>
+</head>
+<body>
+
+    <h2>跳表搜索演示 (本地版)</h2>
+    <div class="controls">
+        <button onclick="runSearch()">查找分数 70</button>
+        <button onclick="reset()">重置</button>
+    </div>
+    <div id="log">等待操作...</div>
+
+    <div class="skiplist" id="grid">
+        <div class="row-label">LEVEL 3</div>
+        <div class="node head l3 c0">H</div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div><div class="node l3 c4">40</div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div>
+        
+        <div class="row-label">LEVEL 2</div>
+        <div class="node head l2 c0">H</div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div><div class="node l2 c4">40</div><div class="node empty"></div><div class="node empty"></div><div class="node empty"></div><div class="node l2 c8">80</div><div class="node empty"></div>
+        
+        <div class="row-label">LEVEL 1</div>
+        <div class="node head l1 c0">H</div><div class="node empty"></div><div class="node l1 c2">20</div><div class="node empty"></div><div class="node l1 c4">40</div><div class="node empty"></div><div class="node l1 c6">60</div><div class="node empty"></div><div class="node l1 c8">80</div><div class="node empty"></div>
+        
+        <div class="row-label">LEVEL 0</div>
+        <div class="node head l0 c0">H</div><div class="node l0 c1">10</div><div class="node l0 c2">20</div><div class="node l0 c3">30</div><div class="node l0 c4">40</div><div class="node l0 c5">50</div><div class="node l0 c6">60</div><div class="node l0 c7 target-node">70</div><div class="node l0 c8 col-10">80</div><div class="node l0 c9 col-10">90</div>
+    </div>
+
+    <script>
+        // 定义查找 70 的动画路径和解说逻辑
+        const searchPath = [
+            { query: '.l3.c0', text: '起点：最高层 (Level 3) 头节点' },
+            { query: '.l3.c4', text: '向右看：40 < 70，向右移动到 40' },
+            { query: '.l2.c4', text: '向右看：Level 3 右侧没路了，【垂直坠落】到 Level 2' },
+            { query: '.l1.c4', text: '向右看：80 > 70 (走过了)，【垂直坠落】到 Level 1' },
+            { query: '.l1.c6', text: '向右看：60 < 70，向右移动到 60' },
+            { query: '.l0.c6', text: '向右看：80 > 70，最后一次【垂直坠落】到基础层 Level 0' },
+            { query: '.l0.c7', text: '向右看：70 == 70，命中目标！', isTarget: true }
+        ];
+
+        function reset() {
+            document.querySelectorAll('.node').forEach(el => {
+                el.classList.remove('active');
+                el.classList.remove('target');
+            });
+            document.getElementById('log').innerText = '等待操作...';
+            document.getElementById('log').style.color = '#888';
+        }
+
+        async function runSearch() {
+            reset();
+            const logEl = document.getElementById('log');
+            logEl.style.color = '#8ab4f8';
+            
+            for (let step of searchPath) {
+                const nodeEl = document.querySelector(step.query);
+                if (nodeEl) {
+                    nodeEl.classList.add(step.isTarget ? 'target' : 'active');
+                }
+                logEl.innerText = step.text;
+                if (step.isTarget) logEl.style.color = '#81c995';
+                
+                // 停顿 1 秒，制造动画效果
+                await new Promise(r => setTimeout(r, 1000));
+            }
+        }
+    </script>
+</body>
+</html>
