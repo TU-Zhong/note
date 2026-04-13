@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T142.md",
+                "file": "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T142"
+              "title": "java基础"
             }
           },
           {
@@ -213,9 +213,12 @@
   },
   "active": "43856d285b32a9a1",
   "lastOpenFiles": [
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T11.md",
     "笔试准备/题目/题单2.md",
+    "笔试准备/题目/面试题/死锁的四个条件.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T131_2.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T11.md",
+    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T142.md",
     "笔试准备/题目/面试题/sychronized 关键字和reentrantlock.md",
     "笔试准备/题目/面试题/tcp为什么三次握手不是两次？.md",
     "笔试准备/题目/面试题/说说三次握手四次挥手是什么.md",
@@ -236,9 +239,6 @@
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T13.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T5/数据库T5.md",
     "笔试准备/题目/面试题/说说进程和线程区别，线程是不是越多越好.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/数据库T12/数据库T12.md",
-    "数据处理和人工智能/基础机器学习模型/java/java基础/sql/我可不可以认为数据库查询速度过慢和死锁无关？.md",
-    "数据分析/面试准备/基础机器学习模型/java/java基础/java基础/java基础/T35.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/Spring/Spring 37",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/Spring",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/Redis23-26",
