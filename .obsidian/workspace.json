@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/论文写作/架构设计/时序图.md",
+                "file": "毕业设计/论文写作/架构设计/画图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "时序图"
+              "title": "画图"
             }
           },
           {
@@ -211,10 +211,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "43856d285b32a9a1",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
-    "毕业设计/论文写作/架构设计/画图.md",
     "毕业设计/论文写作/架构设计/时序图.md",
+    "毕业设计/论文写作/架构设计/画图.md",
     "毕业设计/论文写作/架构设计",
     "毕业设计/论文写作/写作顺序/写作顺序.md",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计.md",
