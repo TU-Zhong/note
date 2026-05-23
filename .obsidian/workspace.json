@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6218af4d2d4f948f",
+        "id": "3ab95a75b845806b",
         "type": "tabs",
         "children": [
           {
-            "id": "6904956208cecacf",
+            "id": "00286479413bf6e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕业设计/答辩准备/插入文献.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "插入文献"
+              "title": "新标签页"
             }
           }
         ]
@@ -197,10 +193,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6904956208cecacf",
+  "active": "00286479413bf6e2",
   "lastOpenFiles": [
-    "毕业设计/答辩准备/前端表操作流程.md",
     "毕业设计/答辩准备/插入文献.md",
+    "未命名.base",
+    "毕业设计/答辩准备/前端表操作流程.md",
     "毕业设计/答辩准备/SQL/5种注入方式.md",
     "毕业设计/答辩准备/SQL/右括号转义和单引号转义.md",
     "毕业设计/答辩准备/SQL/SQL Server和MySQL.md",
@@ -230,12 +227,10 @@
     "毕业设计/修改/系统/4.4.md",
     "毕业设计/修改/系统/4.3.md",
     "毕业设计/修改/系统/4.1.md",
-    "毕业设计/修改/系统/4.2.md",
     "毕业设计/修改/系统",
     "毕业设计/修改/论文本身修改/文章用词修改",
     "毕业设计/修改/论文本身修改",
     "毕业设计/修改/测试/SQL注入测试",
-    "毕业设计/修改/测试/高并发测试架构话术",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/Redis19/pic/动画3.gif",
