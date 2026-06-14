@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI学习/并发和数据库内核.md",
+                "file": "小说推荐/陈谋的冒险/第一章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "并发和数据库内核"
+              "title": "第一章"
             }
           }
         ]
@@ -199,11 +199,14 @@
   },
   "active": "00286479413bf6e2",
   "lastOpenFiles": [
+    "AI学习/并发和数据库内核.md",
+    "小说推荐/陈谋的冒险/第一章.md",
+    "小说推荐/陈谋的冒险",
+    "小说推荐",
     "AI学习/HyperLogLog/步骤/代码.md",
     "AI学习/HyperLogLog/解释.md",
     "AI学习/HyperLogLog/步骤/总步骤.md",
     "AI学习/HyperLogLog/步骤",
-    "AI学习/并发和数据库内核.md",
     "AI学习/HyperLogLog",
     "笔试准备/未命名 2.md",
     "AI学习",
@@ -230,13 +233,10 @@
     "毕业设计/未命名",
     "毕业设计/答辩准备/diff pool/耗时.md",
     "笔试准备/题目/题单2.md",
-    "毕业设计/答辩准备/diff pool",
     "笔试准备/题目/面试题/tcp为什么三次握手不是两次？.md",
     "笔试准备/题目/面试题/说说三次握手四次挥手是什么.md",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础.md",
-    "毕业设计/答辩准备/类加载过程/动态类加载过程.md",
     "毕业设计/答辩准备/未命名.canvas",
-    "毕业设计/答辩准备/SQL",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",
     "数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/Redis19/pic/动画3.gif",
