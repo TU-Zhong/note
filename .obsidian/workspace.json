@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ab95a75b845806b",
+        "id": "c1ab008321e39d7b",
         "type": "tabs",
         "children": [
           {
-            "id": "00286479413bf6e2",
+            "id": "48c447161a919cab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "小说推荐/陈谋的冒险/第一章.md",
+                "file": "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/numpy/numpy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一章"
+              "title": "numpy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "三次",
+                "query": "matplotlib",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,10 +197,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "00286479413bf6e2",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
-    "AI学习/并发和数据库内核.md",
     "小说推荐/陈谋的冒险/第一章.md",
+    "AI学习/并发和数据库内核.md",
     "小说推荐/陈谋的冒险",
     "小说推荐",
     "AI学习/HyperLogLog/步骤/代码.md",
