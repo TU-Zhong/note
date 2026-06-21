@@ -179,7 +179,7 @@ _来源：结合你的 Aegis 项目与基础题_
 5. `String` 是基本数据类型吗？
     
 ==6.== `String`, `StringBuffer`, `StringBuilder` 的区别是什么？
-    [[T6]]
+    [[数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T6]]
 7. 为什么 `String` 类是 `final` 的？
     [[数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T7]]
 ==8.== ==什么是字符串常量池（String Pool）？==
