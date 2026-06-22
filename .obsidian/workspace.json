@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/网络/网络.md",
+                "file": "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络"
+              "title": "test"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "48c447161a919cab",
   "lastOpenFiles": [
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/pandas/练习题.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/网络/网络.md",
+    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
+    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java",
+    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/pandas/练习题.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/网络",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/SQL server/未命名.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/SQL server/答案‘/T6.md",
@@ -224,7 +226,6 @@
     "Comfyui",
     "笔试准备/未命名 1.md",
     "笔试准备/pic/Pasted image 20260527105421.png",
-    "笔试准备/pic",
     "小工具准备/README.md",
     "小工具准备/todo 需求文档.md",
     "毕业设计/答辩准备/插入文献.md",
@@ -235,7 +236,6 @@
     "毕业设计/答辩准备/SQL/未命名 1.md",
     "毕业设计/答辩准备/SQL/未命名.md",
     "毕业设计/答辩准备/类加载过程/acceptURL()方法.md",
-    "毕业设计/答辩准备/类加载过程/toURI().md",
     "毕业设计/答辩准备/未命名.canvas",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",
