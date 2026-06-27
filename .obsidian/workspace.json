@@ -11,10 +11,10 @@
             "id": "bfb19008061554be",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "taskchute-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "icon": "checkmark",
+              "title": "TaskChute"
             }
           }
         ]
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "0da78178e1c2e9c2",
+            "id": "fcb8b88cb48591df",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +194,16 @@
   },
   "active": "bfb19008061554be",
   "lastOpenFiles": [
-    "2026-06-27.md",
+    "TaskChute/Review/Review - 2026-06-27.md",
+    "TaskChute/Log/2026-06-state.json",
+    "TaskChute/Task/aa (1).md",
+    "TaskChute/Log/running-task.json",
+    "TaskChute/Task/aa.md",
+    "TaskChute/Log/heatmap/2026/yearly-heatmap.json",
+    "TaskChute/Log/heatmap/2026",
+    "TaskChute/Log/heatmap",
     "2026-W26.md",
+    "2026-06-27.md",
     "未命名.canvas",
     "TaskChute/Log/records/2026/record-2026-06-28.md",
     "TaskChute/Log/backups/2026-06/2026-06-27T12-21-15-455Z.json",
@@ -203,12 +212,7 @@
     "TaskChute/Log/records/2026/record-2026-06-27.md",
     "TaskChute/Log/records/2026",
     "TaskChute/Log/records",
-    "TaskChute/Log/2026-06-tasks.json",
-    "TaskChute/Log/inbox/tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f/2026-06.jsonl",
-    "TaskChute/Log/inbox/tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
-    "TaskChute/Log/inbox",
     "2025-04-27.md",
-    "未命名.base",
     "906117332077836663634BF341D534A5.jpg",
     "2025-06-21.md",
     "T194.md",
@@ -235,11 +239,7 @@
     "AI学习/HyperLogLog/解释.md",
     "AI学习/HyperLogLog/步骤/总步骤.md",
     "笔试准备/未命名 2.md",
-    "Comfyui/方法论.md",
-    "小工具准备/未命名.md",
-    "笔试准备/未命名 1.md",
     "笔试准备/pic/Pasted image 20260527105421.png",
-    "小工具准备/README.md",
     "毕业设计/答辩准备/未命名.canvas",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",

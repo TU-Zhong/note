@@ -2,20 +2,20 @@
   "taskExecutions": {},
   "dailySummary": {
     "2026-06-27": {
-      "totalTasks": 0,
-      "totalTasksRecordedAt": "2026-06-27T12:27:20.109Z",
+      "totalTasks": 2,
+      "totalTasksRecordedAt": "2026-06-27T12:37:31.903Z",
       "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
-      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwc4mul:vxa9m8w5",
+      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwchqwv:zksw64s1",
       "totalMinutes": 0,
       "completedTasks": 0,
-      "procrastinatedTasks": 0,
+      "procrastinatedTasks": 2,
       "completionRate": 0
     },
     "2026-06-28": {
       "totalTasks": 0,
-      "totalTasksRecordedAt": "2026-06-27T12:21:15.437Z",
+      "totalTasksRecordedAt": "2026-06-27T12:37:15.057Z",
       "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
-      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwbwtgt:ese38o8f",
+      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwchdwx:0sn9xqob",
       "totalMinutes": 0,
       "completedTasks": 0,
       "procrastinatedTasks": 0,
@@ -23,13 +23,13 @@
     }
   },
   "meta": {
-    "revision": 2,
-    "lastProcessedAt": "2026-06-27T12:27:20.126Z",
+    "revision": 6,
+    "lastProcessedAt": "2026-06-27T12:37:31.927Z",
     "processedCursor": {
-      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 3
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 7
     },
     "cursorSnapshotRevision": {
-      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 2
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 6
     },
     "lastBackupAt": "2026-06-27T12:21:15.451Z"
   }

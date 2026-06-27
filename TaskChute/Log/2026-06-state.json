@@ -1,0 +1,36 @@
+{
+  "days": {
+    "2026-06-27": {
+      "hiddenRoutines": [],
+      "deletedInstances": [],
+      "duplicatedInstances": [],
+      "slotOverrides": {
+        "tc-task-111a4499-4ef3-4453-9a25-2c0edb07a048": "16:00-0:00"
+      },
+      "slotOverridesMeta": {
+        "tc-task-111a4499-4ef3-4453-9a25-2c0edb07a048": {
+          "slotKey": "16:00-0:00",
+          "updatedAt": 1782563895546
+        }
+      },
+      "orders": {
+        "tc-task-df3af3ed-551b-459d-aa35-0253295e077a::16:00-0:00": 100,
+        "tc-task-111a4499-4ef3-4453-9a25-2c0edb07a048::16:00-0:00": 100
+      },
+      "ordersMeta": {
+        "tc-task-df3af3ed-551b-459d-aa35-0253295e077a::16:00-0:00": {
+          "order": 100,
+          "updatedAt": 1782563882043
+        },
+        "tc-task-111a4499-4ef3-4453-9a25-2c0edb07a048::16:00-0:00": {
+          "order": 100,
+          "updatedAt": 1782563895542
+        }
+      }
+    }
+  },
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2026-06-27T12:38:15.549Z"
+  }
+}
