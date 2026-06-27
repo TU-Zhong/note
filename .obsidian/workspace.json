@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfb19008061554be",
+            "id": "1ade4982158d019c",
             "type": "leaf",
             "state": {
-              "type": "taskchute-view",
-              "state": {},
-              "icon": "checkmark",
-              "title": "TaskChute"
+              "type": "markdown",
+              "state": {
+                "file": "2026-06-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-27"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.49999618530273
+    "width": 200
   },
   "right": {
     "id": "1d74083dd7f5d490",
@@ -168,12 +172,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,29 +192,31 @@
       "obsidian42-brat:BRAT": false,
       "taskchute-plus:Open TaskChute": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "bfb19008061554be",
+  "active": "d54577b2263ad327",
   "lastOpenFiles": [
+    "计划/未命名",
+    "计划",
+    "June",
+    "2026-W26.md",
+    "2026-06-27.md",
+    "TaskChute/Log/heatmap/2026/yearly-heatmap.json",
     "TaskChute/Review/Review - 2026-06-27.md",
     "TaskChute/Log/2026-06-state.json",
     "TaskChute/Task/aa (1).md",
     "TaskChute/Log/running-task.json",
     "TaskChute/Task/aa.md",
-    "TaskChute/Log/heatmap/2026/yearly-heatmap.json",
     "TaskChute/Log/heatmap/2026",
     "TaskChute/Log/heatmap",
-    "2026-W26.md",
-    "2026-06-27.md",
     "未命名.canvas",
     "TaskChute/Log/records/2026/record-2026-06-28.md",
     "TaskChute/Log/backups/2026-06/2026-06-27T12-21-15-455Z.json",
     "TaskChute/Log/backups/2026-06",
     "TaskChute/Log/backups",
     "TaskChute/Log/records/2026/record-2026-06-27.md",
-    "TaskChute/Log/records/2026",
-    "TaskChute/Log/records",
     "2025-04-27.md",
     "906117332077836663634BF341D534A5.jpg",
     "2025-06-21.md",
