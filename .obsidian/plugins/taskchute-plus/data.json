@@ -1,0 +1,23 @@
+{
+  "locationMode": "vaultRoot",
+  "projectsFolder": null,
+  "projectTitlePrefix": "Project - ",
+  "projectTemplatePath": "模板/项目模板.md",
+  "useOrderBasedSort": true,
+  "slotKeys": {},
+  "languageOverride": "auto",
+  "aiRobotButtonEnabled": false,
+  "recipeFeatureEnabled": false,
+  "showTaskCreationAdvancedSettings": false,
+  "reviewTemplatePath": "模板/复盘模板.md",
+  "reviewFileNamePattern": "Review - {{date}}.md",
+  "backupIntervalHours": 2,
+  "backupRetentionDays": 1,
+  "defaultReminderMinutes": 5,
+  "collapsibleTimeSlots": false,
+  "googleCalendar": {
+    "enabled": false,
+    "defaultDurationMinutes": 60,
+    "includeNoteContent": true
+  }
+}

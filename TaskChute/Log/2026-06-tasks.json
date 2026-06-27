@@ -1,38 +1,26 @@
 {
-  "taskExecutions": {
-    "2026-06-27": []
-  },
+  "taskExecutions": {},
   "dailySummary": {
     "2026-06-27": {
-      "totalTasks": 0,
-      "totalTasksRecordedAt": "2026-06-27T12:54:40.492Z",
+      "totalTasks": 1,
+      "totalTasksRecordedAt": "2026-06-27T13:08:52.821Z",
       "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
-      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwd3sks:6cbljtax",
+      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwdm28l:hcw06rz0",
       "totalMinutes": 0,
       "completedTasks": 0,
-      "procrastinatedTasks": 0,
-      "completionRate": 0
-    },
-    "2026-06-28": {
-      "totalTasks": 0,
-      "totalTasksRecordedAt": "2026-06-27T12:54:21.324Z",
-      "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
-      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwd3dsc:elkh3gbk",
-      "totalMinutes": 0,
-      "completedTasks": 0,
-      "procrastinatedTasks": 0,
+      "procrastinatedTasks": 1,
       "completionRate": 0
     }
   },
   "meta": {
-    "revision": 32,
-    "lastProcessedAt": "2026-06-27T12:54:40.505Z",
+    "revision": 1,
+    "lastProcessedAt": "2026-06-27T13:08:52.836Z",
     "processedCursor": {
-      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 41
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 2
     },
     "cursorSnapshotRevision": {
-      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 32
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 1
     },
-    "lastBackupAt": "2026-06-27T12:21:15.451Z"
+    "lastBackupAt": "2026-06-27T13:08:52.837Z"
   }
 }
