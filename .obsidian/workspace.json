@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matplotlib",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.49999618530273
+    "width": 310.49999618530273
   },
   "right": {
     "id": "1d74083dd7f5d490",
@@ -188,7 +188,6 @@
       "obsidian42-brat:BRAT": false,
       "taskchute-plus:Open TaskChute": false,
       "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false,
       "periodic-notes:Open this week": false
     }
   },
