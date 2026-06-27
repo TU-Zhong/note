@@ -3,15 +3,15 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
+    "format": "YYYY/MM/YYYY-MM-DD",
     "template": "",
-    "folder": "",
+    "folder": "计划",
     "enabled": true
   },
   "weekly": {
-    "format": "",
+    "format": "YYYY/gggg-[W]ww",
     "template": "",
-    "folder": "",
+    "folder": "计划",
     "enabled": true
   },
   "monthly": {

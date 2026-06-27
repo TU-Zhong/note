@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "92607ca29b3b447b",
+        "id": "0a2806f2a03ecb31",
         "type": "tabs",
         "children": [
           {
-            "id": "1ade4982158d019c",
+            "id": "2d883b344adab4d0",
+            "type": "leaf",
+            "state": {
+              "type": "taskchute-view",
+              "state": {},
+              "icon": "checkmark",
+              "title": "TaskChute"
+            }
+          },
+          {
+            "id": "133c695ebd492a2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-06-27.md",
+                "file": "计划/2026/06/2026-06-27.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.49999618530273
   },
   "right": {
     "id": "1d74083dd7f5d490",
@@ -176,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,26 +206,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d54577b2263ad327",
+  "active": "2d883b344adab4d0",
   "lastOpenFiles": [
-    "计划/未命名",
+    "计划/2026/06/2026-06-27.md",
+    "计划/2026/2026-W26.md",
+    "2026-06-27.md",
+    "计划/2026/06",
+    "计划/2026",
+    "计划/计划/2026/06/2026-06-27.md",
+    "计划/计划/2026/06",
+    "计划/计划/2026",
+    "计划/计划",
     "计划",
     "June",
     "2026-W26.md",
-    "2026-06-27.md",
     "TaskChute/Log/heatmap/2026/yearly-heatmap.json",
     "TaskChute/Review/Review - 2026-06-27.md",
     "TaskChute/Log/2026-06-state.json",
     "TaskChute/Task/aa (1).md",
     "TaskChute/Log/running-task.json",
     "TaskChute/Task/aa.md",
-    "TaskChute/Log/heatmap/2026",
-    "TaskChute/Log/heatmap",
-    "未命名.canvas",
+    "vue学习/未命名.canvas",
     "TaskChute/Log/records/2026/record-2026-06-28.md",
-    "TaskChute/Log/backups/2026-06/2026-06-27T12-21-15-455Z.json",
-    "TaskChute/Log/backups/2026-06",
-    "TaskChute/Log/backups",
     "TaskChute/Log/records/2026/record-2026-06-27.md",
     "2025-04-27.md",
     "906117332077836663634BF341D534A5.jpg",
@@ -242,8 +254,6 @@
     "AI学习/并发和数据库内核.md",
     "AI学习/HyperLogLog/步骤/代码.md",
     "AI学习/HyperLogLog/解释.md",
-    "AI学习/HyperLogLog/步骤/总步骤.md",
-    "笔试准备/未命名 2.md",
     "笔试准备/pic/Pasted image 20260527105421.png",
     "毕业设计/答辩准备/未命名.canvas",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
