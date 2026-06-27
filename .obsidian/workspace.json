@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1c1632ffb18d5a4e",
+        "id": "92607ca29b3b447b",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7f6e3e90b3b24a",
+            "id": "bfb19008061554be",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,16 +187,31 @@
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
       "taskchute-plus:Open TaskChute": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
+      "periodic-notes:Open this week": false
     }
   },
-  "active": "d54577b2263ad327",
+  "active": "bfb19008061554be",
   "lastOpenFiles": [
+    "2026-06-27.md",
+    "2026-W26.md",
     "未命名.canvas",
+    "TaskChute/Log/records/2026/record-2026-06-28.md",
+    "TaskChute/Log/backups/2026-06/2026-06-27T12-21-15-455Z.json",
+    "TaskChute/Log/backups/2026-06",
+    "TaskChute/Log/backups",
+    "TaskChute/Log/records/2026/record-2026-06-27.md",
+    "TaskChute/Log/records/2026",
+    "TaskChute/Log/records",
+    "TaskChute/Log/2026-06-tasks.json",
+    "TaskChute/Log/inbox/tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f/2026-06.jsonl",
+    "TaskChute/Log/inbox/tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
+    "TaskChute/Log/inbox",
+    "2025-04-27.md",
     "未命名.base",
     "906117332077836663634BF341D534A5.jpg",
     "2025-06-21.md",
-    "2025-04-27.md",
     "T194.md",
     "Pasted image 20250807215944.png",
     "Pasted image 20250621105317.png",
@@ -206,21 +220,12 @@
     "Pasted image 20250621091554.png",
     "Pasted image 20250621091516.png",
     "未命名 2.canvas",
-    "未命名 1.base",
     "未命名 1.canvas",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/题解/T1.md",
-    "TaskChute/Review",
-    "TaskChute/Log",
-    "TaskChute/Task",
-    "TaskChute",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/网络/网络.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/lilux/题单.md",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/lilux",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/题解",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/pandas/练习题.md",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/网络",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/SQL server/未命名.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/SQL server/答案‘/T6.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/numpy/numpy.md",
@@ -236,9 +241,6 @@
     "笔试准备/未命名 1.md",
     "笔试准备/pic/Pasted image 20260527105421.png",
     "小工具准备/README.md",
-    "小工具准备/todo 需求文档.md",
-    "毕业设计/答辩准备/插入文献.md",
-    "毕业设计/答辩准备/前端表操作流程.md",
     "毕业设计/答辩准备/未命名.canvas",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",

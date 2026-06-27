@@ -1,0 +1,21 @@
+{
+  "taskExecutions": {},
+  "dailySummary": {
+    "2026-06-27": {
+      "totalTasks": 0,
+      "totalTasksRecordedAt": "2026-06-27T12:21:04.726Z",
+      "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
+      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwbwl7a:c3lyh71h",
+      "totalMinutes": 0,
+      "completedTasks": 0,
+      "procrastinatedTasks": 0,
+      "completionRate": 0
+    }
+  },
+  "meta": {
+    "revision": 0,
+    "processedCursor": {
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 1
+    }
+  }
+}
