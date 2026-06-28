@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md",
+                "file": "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "test"
             }
           }
         ],
@@ -171,23 +171,14 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "fcb8b88cb48591df",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,6 +199,7 @@
   },
   "active": "6f38a0602c5e4794",
   "lastOpenFiles": [
+    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.5ffa40034149",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.e7287941d04e",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.6ccdb3edc779",
@@ -218,9 +210,7 @@
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.8af5d8028100",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.8a64b0df07e2",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.dda3bb547c77",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.f4fd9f8ebbe0",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md",
     "计划/2026/06/2026-06-27.md",
     "计划/2026/06/2026-06-26.md",
     "TaskChute/Task/aa.md",
