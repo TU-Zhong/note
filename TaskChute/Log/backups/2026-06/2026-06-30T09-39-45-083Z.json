@@ -1,0 +1,26 @@
+{
+  "taskExecutions": {},
+  "dailySummary": {
+    "2026-06-27": {
+      "totalTasks": 1,
+      "totalTasksRecordedAt": "2026-06-27T13:08:52.821Z",
+      "totalTasksDeviceId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f",
+      "totalTasksEntryId": "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f:mqwdm28l:hcw06rz0",
+      "totalMinutes": 0,
+      "completedTasks": 0,
+      "procrastinatedTasks": 1,
+      "completionRate": 0
+    }
+  },
+  "meta": {
+    "revision": 1,
+    "lastProcessedAt": "2026-06-27T13:08:52.836Z",
+    "processedCursor": {
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 2
+    },
+    "cursorSnapshotRevision": {
+      "tc-dev-52263ad9-54fb-4c8d-8b90-2a30bc40856f": 1
+    },
+    "lastBackupAt": "2026-06-27T13:08:52.837Z"
+  }
+}
