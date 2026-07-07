@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "comfy_ui/局部重绘.md",
+                "file": "b站视频/黍2/镜头.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "局部重绘"
+              "title": "镜头"
             }
           }
         ],
@@ -209,8 +209,14 @@
   },
   "active": "6f38a0602c5e4794",
   "lastOpenFiles": [
-    "comfy_ui/下载controlet之后的节点.md",
+    "b站视频/黍2/图片/树荫下黍的神态动作.png",
+    "b站视频/黍2/镜头.md",
+    "b站视频/黍2/图片",
+    "b站视频/黍2/黍 2.md",
+    "b站视频/黍2",
     "comfy_ui/局部重绘.md",
+    "b站视频",
+    "comfy_ui/下载controlet之后的节点.md",
     "comfy_ui/controlet.md",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/java/test.md",
     "comfy_ui",
@@ -225,9 +231,6 @@
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.e7287941d04e",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.6ccdb3edc779",
     "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.cc400238c9e4",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.ed39ad2db225",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.eee8990ff09d",
-    "数据处理和人工智能/基础机器学习模型/numpy,pandas和matplotlib/若衣/未命名.md.tmp.10644.03e7c4bc5be4",
     "计划/2026/06/2026-06-27.md",
     "计划/2026/06/2026-06-26.md",
     "TaskChute/Task/aa.md",
@@ -242,10 +245,7 @@
     "计划/计划/2026/06/2026-06-27.md",
     "2026-W26.md",
     "TaskChute/Review/Review - 2026-06-27.md",
-    "TaskChute/Task/aa (1).md",
     "vue学习/未命名.canvas",
-    "TaskChute/Log/records/2026/record-2026-06-28.md",
-    "2025-04-27.md",
     "906117332077836663634BF341D534A5.jpg",
     "Pasted image 20250807215944.png",
     "Pasted image 20250621105317.png",
@@ -258,7 +258,6 @@
     "笔试准备/pic/Pasted image 20260527105421.png",
     "毕业设计/答辩准备/未命名.canvas",
     "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
-    "数据处理和人工智能/策略产品 准备/项目拷问/pic/Pasted image 20260418093424.png",
     "数据处理和人工智能/基础机器学习模型/java/未命名.canvas",
     "数据处理和人工智能/数据处理/未命名.canvas",
     "数据处理和人工智能/python_leetcode/每日一题/未命名.canvas"
