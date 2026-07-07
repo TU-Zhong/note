@@ -30,9 +30,21 @@
               "icon": "lucide-file",
               "title": "镜头"
             }
+          },
+          {
+            "id": "0353e44f63ba99ea",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "b站视频/黍2/图片/催促过来坐着.png"
+              },
+              "icon": "lucide-image",
+              "title": "催促过来坐着"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,12 +219,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6f38a0602c5e4794",
+  "active": "0353e44f63ba99ea",
   "lastOpenFiles": [
-    "b站视频/黍2/图片/树荫下黍的神态动作.png",
-    "b站视频/黍2/镜头.md",
-    "b站视频/黍2/图片",
+    "b站视频/黍2/高潮镜头.md",
+    "b站视频/黍2/图片/催促过来坐着.png",
     "b站视频/黍2/黍 2.md",
+    "b站视频/黍2/镜头.md",
+    "b站视频/黍2/图片/擦汗.png",
+    "b站视频/黍2/图片/递西瓜.png",
+    "b站视频/黍2/图片/错愕和委屈.png",
+    "b站视频/黍2/图片/树荫下黍的神态动作 1.png",
+    "b站视频/黍2/图片/树荫下黍的神态动作.png",
+    "b站视频/黍2/图片",
     "b站视频/黍2",
     "comfy_ui/局部重绘.md",
     "b站视频",
@@ -244,20 +262,14 @@
     "2026-06-27.md",
     "计划/计划/2026/06/2026-06-27.md",
     "2026-W26.md",
-    "TaskChute/Review/Review - 2026-06-27.md",
     "vue学习/未命名.canvas",
     "906117332077836663634BF341D534A5.jpg",
     "Pasted image 20250807215944.png",
     "Pasted image 20250621105317.png",
     "Pasted image 20250621105305.png",
-    "Pasted image 20250621105249.png",
-    "Pasted image 20250621091554.png",
-    "Pasted image 20250621091516.png",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "笔试准备/pic/Pasted image 20260527105421.png",
     "毕业设计/答辩准备/未命名.canvas",
-    "数据处理和人工智能/策略产品 准备/项目拷问/标签设计/动画4.gif",
     "数据处理和人工智能/基础机器学习模型/java/未命名.canvas",
     "数据处理和人工智能/数据处理/未命名.canvas",
     "数据处理和人工智能/python_leetcode/每日一题/未命名.canvas"
