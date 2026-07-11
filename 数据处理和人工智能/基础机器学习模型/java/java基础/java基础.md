@@ -183,7 +183,7 @@ _来源：结合你的 Aegis 项目与基础题_
 7. 为什么 `String` 类是 `final` 的？
     [[数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T7]]
 ==8.== ==什么是字符串常量池（String Pool）？==
-    [[T8]]
+    [[数据处理和人工智能/基础机器学习模型/java/java基础/java基础/java基础/T8]]
 9. `Integer` 和 `int` 的区别是什么？谈谈自动装箱和自动拆箱。
     [[T9]]
 ==10==. `Integer a = 127; Integer b = 127;` `a == b` 吗？`Integer c = 128; Integer d = 128;` `c == d` 吗？为什么？
